@@ -21,7 +21,7 @@ from google.oauth2 import service_account
 from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
-SPREADSHEET_ID = "1g5grA476vtsWO4M-Vb6oWibFeGlNXuwT13M4I3VSE5E"
+SPREADSHEET_ID = "1hhFKwKoJ0fnWSBKPXfL_GKQpA7h1snyFrnBFK8dyvYA"
 SHEET_NAME = "PR統計"  # スプレッドシートのタブ名
 
 def load_pr_data(json_path):
