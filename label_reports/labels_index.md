@@ -2,10 +2,10 @@
 
 | ラベル | PR数 |
 |--------|------|
-| [ラベルなし](label_ラベルなし.md) | 352 |
+| [ラベルなし](label_ラベルなし.md) | 359 |
 | [その他政策](label_その他政策.md) | 204 |
 | [教育](label_教育.md) | 176 |
-| [README](label_README.md) | 158 |
+| [README](label_README.md) | 157 |
 | [行政改革](label_行政改革.md) | 125 |
 | [子育て](label_子育て.md) | 122 |
 | [経済財政](label_経済財政.md) | 97 |
