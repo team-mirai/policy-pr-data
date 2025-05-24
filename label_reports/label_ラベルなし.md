@@ -1,6 +1,6 @@
 # ラベル「ラベルなし」のPull Request一覧
 
-合計: 474件のPR
+合計: 475件のPR
 
 ## PR一覧
 
@@ -480,6 +480,7 @@
 | #1603 | [匿名ユーザーによる仕事と育児の両立に関する政策改善提案](https://github.com/team-mirai/policy/pull/1603) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-24 |
 | #1604 | [匿名ユーザーさんによる経済財政政策の提案](https://github.com/team-mirai/policy/pull/1604) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-24 |
 | #1605 | [Add PR section analyzer script to identify which PRs modify the same sections](https://github.com/team-mirai/policy/pull/1605) | devin-ai-integration[bot] | open | 2025-05-24 | 2025-05-24 |
+| #1606 | [『いどばたシステム』の説明を更新し、議論プロセスと意思決定の透明性向上を求める提案](https://github.com/team-mirai/policy/pull/1606) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-24 |
 
 ## PR詳細
 
@@ -17465,9 +17466,9 @@ AIを活用した保育計画作成支援システムを導入することで、
 
 #### 説明
 
-# PR Section Analyzer
+# PR Section Analyzer and Education PR Analyzer
 
-This PR adds a script to analyze pull requests in the policy repository and extract the specific sections of the manifest that are being modified. The script can identify which PRs modify the same sections of the manifest, making it easier to track related changes.
+This PR adds scripts to analyze pull requests in the policy repository and extract the specific sections of the manifest that are being modified. The scripts can identify which PRs modify the same sections of the manifest, making it easier to track related changes.
 
 ## Features
 
@@ -17481,14 +17482,15 @@ This PR adds a script to analyze pull requests in the policy repository and extr
 
 ## Implementation Details
 
-The script uses regex patterns to identify markdown headings and Japanese section numbering patterns. It builds a section hierarchy tree and maps line numbers from PR diffs to the corresponding sections.
+The scripts use regex patterns to identify markdown headings and Japanese section numbering patterns. They build a section hierarchy tree and map line numbers from PR diffs to the corresponding sections.
 
-Three versions of the script are included:
-- `pr_section_analyzer.py`: Original implementation with basic functionality
-- `pr_section_analyzer_new.py`: Improved version with better file path handling
-- `pr_section_analyzer_final.py`: Final version with enhanced section hierarchy detection and robust Unicode handling
+Two main scripts are included:
+- `pr_section_analyzer_final.py`: Analyzes any PR to identify modified sections
+- `education_pr_analyzer.py`: Specifically analyzes PRs with the education label ("教育")
 
 ## Usage
+
+### PR Section Analyzer
 
 ```bash
 # Analyze a specific PR
@@ -17507,21 +17509,84 @@ python pr_section_analyzer_final.py --pr 1533 --format json
 python pr_section_analyzer_final.py --all --output report.txt
 ```
 
+### Education PR Analyzer
+
+```bash
+# Analyze education-labeled PRs (limited to 20 by default)
+python education_pr_analyzer.py
+
+# Analyze with a custom limit
+python education_pr_analyzer.py --limit 10
+
+# Save results to a file
+python education_pr_analyzer.py --output education_report.md
+```
+
 ## Example Output
 
-When analyzing PR #1533 (AI家庭教師のキャラクター機能追加による利用促進案), the script correctly identifies that it modifies the "１）すべての子どもに「専属のAI家庭教師」を届けます > 現状認識・課題分析" section.
+The education PR analyzer generates a comprehensive report showing:
 
-Similarly, for PR #1576 (sailor提案：小学校での生成AI授業に保護者向け副読本を追加), it identifies changes to the "２）子どものAIリテラシーを育み、AIと共生する未来を切り拓きます > 現状認識・課題分析" section.
+1. Which PRs modify the same sections:
 
-The script can also generate reports showing which PRs modify the same sections, making it easier to track related changes.
+```markdown
+### 11_ステップ１教育.md
+#### ４）貧困世帯の子どもたち・保護者の皆様を支援するため、データとAIを駆使し、プッシュ型の支援を実現します > 現状認識・課題分析
+このセクションを変更するPR:
+- PR #1462: [SAISにおける科学技術コンテスト参加支援の明記](https://github.com/team-mirai/policy/pull/1462)
+- PR #1460: [教育政策における個別最適化とプライバシー保護の強化（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1460)
+```
+
+2. Which sections are modified by each PR:
+
+```markdown
+### PR #1335: 教育政策の改善案：AI家庭教師の対象拡大とプッシュ型支援の強化（すださんご提案）
+- 11_ステップ１教育.md: １．教育 > ビジョン
+- 11_ステップ１教育.md: ４）貧困世帯の子どもたち・保護者の皆様を支援するため、データとAIを駆使し、プッシュ型の支援を実現します > 現状認識・課題分析
+- 11_ステップ１教育.md: １）すべての子どもに「専属のAI家庭教師」を届けます > 現状認識・課題分析
+```
+
+A sample report is included in the PR: `education_pr_report_final.md`
+
+## Link to Devin run
+https://app.devin.ai/sessions/4d02a46b92954a4d8978a5f005ddc511
+
+Requested by: NISHIO Hirokazu (nishio.hirokazu@gmail.com)
 
 
 #### 変更ファイル
 
+- education_pr_analyzer.py
+- education_pr_report_final.md
 - pr_section_analyzer.py
 - pr_section_analyzer_final.py
 - pr_section_analyzer_new.py
 - pr_section_analyzer_v2.py
+
+---
+
+### #1606: 『いどばたシステム』の説明を更新し、議論プロセスと意思決定の透明性向上を求める提案
+
+#### 説明
+
+さくまです。
+
+現在マニフェストの『おしゃべりできるシステム『いどばたシステム』について』の項目では、いどばたシステムについて簡単な紹介がされています。しかし、現状のいどばたシステムの運用、特に参加者からの意見がどのように集約され、議論が深められ、最終的にマニフェストに反映されるのかというプロセスについて、利用者からは不透明さが指摘されています。
+
+この提案は、その不透明さを解消し、いどばたシステムが真に多様な知恵を結集し建設的な議論を促進する場となることを目指すものです。
+
+具体的には、以下の2点の期待をいどばたシステムに持っています。
+
+1.  **集団の知を結集させ、議論を深める仕組みの強化と可視化:**
+    現状のいどばたシステムは、テクノロジーに詳しくない利用者にとっては、一般的なチャットボットや掲示板との違いが分かりにくく、各自が意見を述べるだけで終わってしまっている印象があります。本来いどばたシステムに期待されるのは、AIやテクノロジーを活用し、多種多様な意見を効果的に整理・集約し、その結果を参加者にフィードバックすることで、さらなる議論の深化を促すことです。特に、意見の集約やブラッシュアップの過程がブラックボックス化しており、参加者へのフィードバックが不足している点が課題だと感じています。このプロセスをより可視化し、参加者が議論の進展を実感できるような仕組みの導入を期待します。
+
+2.  **マニフェストへの反映プロセスの透明化と丁寧な説明:**
+    マニフェストの最終的な作成責任がチームみらいにあることは理解しています。しかし、いどばたで集まった意見がどのように検討され、なぜ特定の意見が採用され、あるいは採用されなかったのかという意思決定のプロセスが不透明なままでは、チームみらいが単なる一部の技術者集団と見なされかねません。開かれた議論を標榜するのであれば、その判断プロセスを丁寧に説明し、徹底的に公開・透明化する努力が必要です。どのような意見があり、それをどのように評価し、どういった理由でマニフェストに反映する／しないという判断に至ったのかを、可能な限り具体的に示すことが、信頼の醸成に繋がると考えます。
+
+今回のREADME.mdの修正は、これらの期待を踏まえ、いどばたシステムの現状の課題認識と、将来的な機能強化・透明性向上への意思を明記するものです。この変更が、より多くの人々が安心して建設的な議論に参加できる環境づくりへの第一歩となることを願っています。チームみらいには、この提案内容を真摯に受け止め、今後のシステム改善と運用に活かしていただきたいです。
+
+#### 変更ファイル
+
+- README.md
 
 ---
 
