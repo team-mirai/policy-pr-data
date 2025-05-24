@@ -1,6 +1,6 @@
 # ラベル「ラベルなし」のPull Request一覧
 
-合計: 473件のPR
+合計: 474件のPR
 
 ## PR一覧
 
@@ -479,6 +479,7 @@
 | #1602 | [政策案改善：都市再生・住宅政策に「空き家対策の推進」を追加](https://github.com/team-mirai/policy/pull/1602) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-24 |
 | #1603 | [匿名ユーザーによる仕事と育児の両立に関する政策改善提案](https://github.com/team-mirai/policy/pull/1603) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-24 |
 | #1604 | [匿名ユーザーさんによる経済財政政策の提案](https://github.com/team-mirai/policy/pull/1604) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-24 |
+| #1605 | [Add PR section analyzer script to identify which PRs modify the same sections](https://github.com/team-mirai/policy/pull/1605) | devin-ai-integration[bot] | open | 2025-05-24 | 2025-05-24 |
 
 ## PR詳細
 
@@ -17457,6 +17458,70 @@ AIを活用した保育計画作成支援システムを導入することで、
 #### 変更ファイル
 
 - README.md
+
+---
+
+### #1605: Add PR section analyzer script to identify which PRs modify the same sections
+
+#### 説明
+
+# PR Section Analyzer
+
+This PR adds a script to analyze pull requests in the policy repository and extract the specific sections of the manifest that are being modified. The script can identify which PRs modify the same sections of the manifest, making it easier to track related changes.
+
+## Features
+
+- Extracts markdown section hierarchies from policy documents
+- Identifies which sections are modified by each PR
+- Groups PRs by the sections they modify
+- Handles Japanese section formatting (ステップ１, ステップ２, etc.)
+- Works without relying on LLM technology
+- Supports both single PR analysis and batch processing
+- Outputs results in text or JSON format
+
+## Implementation Details
+
+The script uses regex patterns to identify markdown headings and Japanese section numbering patterns. It builds a section hierarchy tree and maps line numbers from PR diffs to the corresponding sections.
+
+Three versions of the script are included:
+- `pr_section_analyzer.py`: Original implementation with basic functionality
+- `pr_section_analyzer_new.py`: Improved version with better file path handling
+- `pr_section_analyzer_final.py`: Final version with enhanced section hierarchy detection and robust Unicode handling
+
+## Usage
+
+```bash
+# Analyze a specific PR
+python pr_section_analyzer_final.py --pr 1533
+
+# Analyze all PRs (limited to 100 by default)
+python pr_section_analyzer_final.py --all
+
+# Analyze all PRs with a custom limit
+python pr_section_analyzer_final.py --all --limit 50
+
+# Output results in JSON format
+python pr_section_analyzer_final.py --pr 1533 --format json
+
+# Save results to a file
+python pr_section_analyzer_final.py --all --output report.txt
+```
+
+## Example Output
+
+When analyzing PR #1533 (AI家庭教師のキャラクター機能追加による利用促進案), the script correctly identifies that it modifies the "１）すべての子どもに「専属のAI家庭教師」を届けます > 現状認識・課題分析" section.
+
+Similarly, for PR #1576 (sailor提案：小学校での生成AI授業に保護者向け副読本を追加), it identifies changes to the "２）子どものAIリテラシーを育み、AIと共生する未来を切り拓きます > 現状認識・課題分析" section.
+
+The script can also generate reports showing which PRs modify the same sections, making it easier to track related changes.
+
+
+#### 変更ファイル
+
+- pr_section_analyzer.py
+- pr_section_analyzer_final.py
+- pr_section_analyzer_new.py
+- pr_section_analyzer_v2.py
 
 ---
 
