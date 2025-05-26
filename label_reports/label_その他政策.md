@@ -1,6 +1,6 @@
 # ラベル「その他政策」のPull Request一覧
 
-合計: 204件のPR
+合計: 203件のPR
 
 ## PR一覧
 
@@ -168,7 +168,6 @@
 | #737 | [AI対話システムの情報源に関する注意喚起をマニフェスト冒頭に追記](https://github.com/team-mirai/policy/pull/737) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #738 | [マニフェストの表現をより平易に：IT用語の変更と挨拶文の修正（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/738) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-20 |
 | #743 | [【るるまゆさん提案】移民政策と国内の安全に関する政策追加](https://github.com/team-mirai/policy/pull/743) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #760 | [Fix: Add policy.team-mir.ai to link check ignore patterns](https://github.com/team-mirai/policy/pull/760) | devin-ai-integration[bot] | open | 2025-05-18 | 2025-05-18 |
 | #772 | [政策文書「その他重要分野」の明確性向上と党の基本姿勢提示の促進（dondonさん提案）](https://github.com/team-mirai/policy/pull/772) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #773 | [マニフェスト全体の大幅刷新：具体的な政策実行計画と評価指標を導入](https://github.com/team-mirai/policy/pull/773) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #774 | [README.md内の「責任」に関する記述の明確化](https://github.com/team-mirai/policy/pull/774) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
@@ -6202,26 +6201,6 @@ AIを生活の一部として組み込む際のシステム設計や、社会に
 #### 変更ファイル
 
 - 50_国政のその他重要分野.md
-
----
-
-### #760: Fix: Add policy.team-mir.ai to link check ignore patterns
-
-#### 説明
-
-# Fix: Add policy.team-mir.ai to link check ignore patterns
-
-This PR adds policy.team-mir.ai to the link check ignore patterns to resolve the 406 error that was preventing PRs from passing the markdown link check.
-
-The links to policy.team-mir.ai in the README.md file are intentional and work correctly when accessed directly, but return a 406 error when checked by the GitHub Actions workflow.
-
-Link to Devin run: https://app.devin.ai/sessions/ddd4c6b8ac184304a477f93b339ad214
-Requested by: 安野貴博 (U02F5UA056V)
-
-
-#### 変更ファイル
-
-- .github/markdown-link-check-config.json
 
 ---
 
