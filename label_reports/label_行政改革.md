@@ -106,13 +106,13 @@
 | #950 | [たく提案：自動スライド機構導入時の周知・広報戦略に関する追記](https://github.com/team-mirai/policy/pull/950) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #964 | [匿名ユーザーによる電子投票のプライバシー保護に関する改善提案](https://github.com/team-mirai/policy/pull/964) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #965 | [マイナポータル改善とマイナンバーカード更新のオンライン化 by knarita](https://github.com/team-mirai/policy/pull/965) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #967 | [アジャイルな公共調達における「成果と課題の検証（モニタリング）」及び柔軟な計画変更・中止判断の重要性を明記](https://github.com/team-mirai/policy/pull/967) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
+| #967 | [アジャイルな公共調達における「成果と課題の検証（モニタリング）」及び柔軟な計画変更・中止判断の重要性を明記](https://github.com/team-mirai/policy/pull/967) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-27 |
 | #971 | [ゆとりんさんの提案を反映した行政改革マニフェストの改善（DX推進における合意形成の明記と、働き方改革のポジティブな効果の追記）](https://github.com/team-mirai/policy/pull/971) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #978 | [行政改革案の改善：エンジニアチームの役割明確化](https://github.com/team-mirai/policy/pull/978) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-25 |
 | #985 | [ユーザー14提案：単身者・高齢者等に配慮した行政サービス強化（相談体制・手続き簡素化）](https://github.com/team-mirai/policy/pull/985) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-05-27 |
 | #997 | [行政文書における日付表記の改善提案：西暦併記による利便性向上](https://github.com/team-mirai/policy/pull/997) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-05-24 |
 | #1010 | [行政改革案におけるエンジニアチームの役割とセキュリティ対策プロセスの明確化](https://github.com/team-mirai/policy/pull/1010) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-25 |
-| #1029 | [行政開発ソフトウェアのオープンソース化に関する方針の明確化](https://github.com/team-mirai/policy/pull/1029) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-25 |
+| #1029 | [行政開発ソフトウェアのオープンソース化に関する方針の明確化](https://github.com/team-mirai/policy/pull/1029) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-27 |
 | #1040 | [電子投票推進における懸念への対応と具体的な実施策の明確化](https://github.com/team-mirai/policy/pull/1040) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1043 | [電子投票推進策における現状課題と具体的対策の追記 by K.T.](https://github.com/team-mirai/policy/pull/1043) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1047 | [行政改革案の改善：EBPM強化と国民の安全安心のための新設項目追加、及び議員経費の透明化](https://github.com/team-mirai/policy/pull/1047) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-24 |
