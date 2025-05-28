@@ -176,7 +176,7 @@
 | #1165 | [KANEKO：政策案「１．教育」の誤字修正](https://github.com/team-mirai/policy/pull/1165) | idobata-policy-app[bot] | closed | 2025-05-19 | 2025-05-24 |
 | #1180 | [教育政策改善案：メンタルケア学習の充実と古典学習時間の見直し（ビル・ゲイシ提案）](https://github.com/team-mirai/policy/pull/1180) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1182 | [教職員の労働環境改善に関する提案：現状分析の深化と参考文献の追加](https://github.com/team-mirai/policy/pull/1182) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
-| #1185 | [人口増加社会を実現するための真の教育・社会改革](https://github.com/team-mirai/policy/pull/1185) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-27 |
+| #1185 | [人口増加社会を実現するための真の教育・社会改革](https://github.com/team-mirai/policy/pull/1185) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-28 |
 | #1196 | [久松博仁氏提案：教育特区導入と地域ボランティア活用によるAI教育推進策の具体化](https://github.com/team-mirai/policy/pull/1196) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1200 | [教育方針の改善：SNS利用における道徳教育をAIリテラシーと統合](https://github.com/team-mirai/policy/pull/1200) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1209 | [AIと著作権リテラシー教育の充実：ショウさんの提案](https://github.com/team-mirai/policy/pull/1209) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |

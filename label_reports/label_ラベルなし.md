@@ -83,7 +83,7 @@
 | #1262 | [「国政政党成立後100日プラン」の具体性向上と政治の透明性強化に関する提案](https://github.com/team-mirai/policy/pull/1262) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1264 | [政策策定への多様な参加を促すためのメッセージ更新](https://github.com/team-mirai/policy/pull/1264) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1266 | [Update: toolsをUIに出ないようなディレクトリ名に変更](https://github.com/team-mirai/policy/pull/1266) | jujunjun110 | closed | 2025-05-20 | 2025-05-20 |
-| #1277 | [Update CODEOWNERS file with new reviewer assignments](https://github.com/team-mirai/policy/pull/1277) | devin-ai-integration[bot] | open | 2025-05-20 | 2025-05-20 |
+| #1277 | [Update CODEOWNERS file with new reviewer assignments](https://github.com/team-mirai/policy/pull/1277) | devin-ai-integration[bot] | closed | 2025-05-20 | 2025-05-28 |
 | #1278 | [Update CODEOWNERS file (fixed version)](https://github.com/team-mirai/policy/pull/1278) | devin-ai-integration[bot] | closed | 2025-05-20 | 2025-05-20 |
 | #1292 | [【ふくさん提案】行政改革：文化活動促進のための規制緩和を追加](https://github.com/team-mirai/policy/pull/1292) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1320 | [教育セクションのAI家庭教師に関する記述を具体化（しどにーさんの提案）](https://github.com/team-mirai/policy/pull/1320) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
@@ -103,7 +103,7 @@
 | #1429 | [【りん G】広報・グロースチーム新設によるMVPの普及と行政広報の改善提案](https://github.com/team-mirai/policy/pull/1429) | idobata-policy-app[bot] | open | 2025-05-21 | 2025-05-21 |
 | #1435 | [【Cater提案】行政改革：フィッシング詐欺対策のための政府開発ブラウザ拡張機能の追加](https://github.com/team-mirai/policy/pull/1435) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1439 | [Add target file rule for LLM PR suggestions](https://github.com/team-mirai/policy/pull/1439) | devin-ai-integration[bot] | closed | 2025-05-22 | 2025-05-22 |
-| #1449 | [政策インデックスの構造改善と教育分野の具体化によるメッセージ強化提案 by miyu mini](https://github.com/team-mirai/policy/pull/1449) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-27 |
+| #1449 | [政策インデックスの構造改善と教育分野の具体化によるメッセージ強化提案 by miyu mini](https://github.com/team-mirai/policy/pull/1449) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-28 |
 | #1453 | [永田町エンジニアチームの透明性と中立性強化、およびメンバー保護の仕組み追加](https://github.com/team-mirai/policy/pull/1453) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1454 | [Update table of contents to include medical policy documents from PRs #1232 and #1234](https://github.com/team-mirai/policy/pull/1454) | devin-ai-integration[bot] | closed | 2025-05-22 | 2025-05-22 |
 | #1492 | [Update: 医療のタグ付け機能を追加](https://github.com/team-mirai/policy/pull/1492) | jujunjun110 | closed | 2025-05-22 | 2025-05-22 |
