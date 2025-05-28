@@ -171,7 +171,7 @@
 | #1130 | [教育方針案におけるAI家庭教師の役割拡大：いじめ相談対応の追加](https://github.com/team-mirai/policy/pull/1130) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1140 | [教育政策案：「Aila」プロジェクトに関する記述の修正（KANEKO）](https://github.com/team-mirai/policy/pull/1140) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1141 | [Miyu miniさん提案：AI教育改革による早期才能開花と少子化対策への貢献](https://github.com/team-mirai/policy/pull/1141) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
-| #1153 | [AIを活用した奨学金マッチングシステムの導入による教育機会の均等化](https://github.com/team-mirai/policy/pull/1153) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
+| #1153 | [AIを活用した奨学金マッチングシステムの導入による教育機会の均等化](https://github.com/team-mirai/policy/pull/1153) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-28 |
 | #1155 | [miyu mini](https://github.com/team-mirai/policy/pull/1155) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1165 | [KANEKO：政策案「１．教育」の誤字修正](https://github.com/team-mirai/policy/pull/1165) | idobata-policy-app[bot] | closed | 2025-05-19 | 2025-05-24 |
 | #1180 | [教育政策改善案：メンタルケア学習の充実と古典学習時間の見直し（ビル・ゲイシ提案）](https://github.com/team-mirai/policy/pull/1180) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
