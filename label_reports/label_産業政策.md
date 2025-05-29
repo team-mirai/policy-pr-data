@@ -1,6 +1,6 @@
 # ラベル「産業政策」のPull Request一覧
 
-合計: 75件のPR
+合計: 76件のPR
 
 ## PR一覧
 
@@ -81,6 +81,7 @@
 | #1759 | [介護ロボット導入支援策の追加による産業政策の強化](https://github.com/team-mirai/policy/pull/1759) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1778 | [モーさんご提案：農業分野のDX推進（AIマッチングプラットフォーム）](https://github.com/team-mirai/policy/pull/1778) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1788 | [産業政策：「投資すれば得、ため込めば課税」への制度転換を追加](https://github.com/team-mirai/policy/pull/1788) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
+| #1792 | [iz提案：AIシフトにおける情報管理リスクと対策の追加](https://github.com/team-mirai/policy/pull/1792) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 
 ## PR詳細
 
@@ -2989,6 +2990,18 @@ Leafさんによる政策提案の改善：海外展開支援の強化と記述�
 #### 変更ファイル
 
 - 34_ステップ３産業.md
+
+---
+
+### #1792: iz提案：AIシフトにおける情報管理リスクと対策の追加
+
+#### 説明
+
+iz提案。AIシフトの情報漏洩リスクと対策として情報管理体制構築支援を追加。安全な AI 活用を推進。背景はizさんの指摘対応。iz
+
+#### 変更ファイル
+
+- 14_ステップ１産業.md
 
 ---
 
