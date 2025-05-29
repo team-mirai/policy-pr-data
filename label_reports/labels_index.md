@@ -15,5 +15,5 @@
 | [ビジョン](label_ビジョン.md) | 67 |
 | [科学技術](label_科学技術.md) | 60 |
 | [エネルギー](label_エネルギー.md) | 52 |
-| [thankyou](label_thankyou.md) | 16 |
+| [thankyou](label_thankyou.md) | 17 |
 | [[システム]](label_[システム].md) | 2 |

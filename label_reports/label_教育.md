@@ -149,7 +149,7 @@
 | #976 | [匿名ユーザーによる提案：中学校情報科における専門家活用による教育の質向上](https://github.com/team-mirai/policy/pull/976) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #998 | [教育における映像授業の導入と教員支援（ピカ太郎さん提案）](https://github.com/team-mirai/policy/pull/998) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-29 |
 | #1003 | [教育政策における個別最適化の具体化とエビデンスベースの推進（宮嶋龍太郎提案）](https://github.com/team-mirai/policy/pull/1003) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #1005 | [【紫杏さん提案】教育政策文書改善：アルゴリズム活用とEBPM推進の章構成見直し及びDAアルゴリズム事例追加](https://github.com/team-mirai/policy/pull/1005) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
+| #1005 | [【紫杏さん提案】教育政策文書改善：アルゴリズム活用とEBPM推進の章構成見直し及びDAアルゴリズム事例追加](https://github.com/team-mirai/policy/pull/1005) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-29 |
 | #1018 | [教育政策改善案：AI活用による個別最適化、柔軟な学習課程、学力保証の強化（鈴木邦昌提案）](https://github.com/team-mirai/policy/pull/1018) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1022 | [【30代ワーママさん提案】第4章：AIによる子育て世帯の声の政策反映と子どもの安全確保策の強化](https://github.com/team-mirai/policy/pull/1022) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1023 | [kaizu氏による教育改革提案：教育の3つの軸と特別教員免許制度の導入 #1012](https://github.com/team-mirai/policy/pull/1023) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
