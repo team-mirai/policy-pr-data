@@ -8,12 +8,12 @@
 | [経済財政](label_経済財政.md) | 175 |
 | [行政改革](label_行政改革.md) | 173 |
 | [子育て](label_子育て.md) | 161 |
-| [ラベルなし](label_ラベルなし.md) | 141 |
+| [ラベルなし](label_ラベルなし.md) | 142 |
 | [デジタル民主主義](label_デジタル民主主義.md) | 84 |
 | [医療](label_医療.md) | 81 |
 | [産業政策](label_産業政策.md) | 76 |
 | [ビジョン](label_ビジョン.md) | 67 |
 | [科学技術](label_科学技術.md) | 60 |
 | [エネルギー](label_エネルギー.md) | 52 |
-| [thankyou](label_thankyou.md) | 10 |
+| [thankyou](label_thankyou.md) | 16 |
 | [[システム]](label_[システム].md) | 2 |

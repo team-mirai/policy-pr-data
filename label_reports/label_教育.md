@@ -124,7 +124,7 @@
 | #796 | [学習指導要領改訂におけるAI研修導入と教職員の負荷軽減策の明記 by t.a](https://github.com/team-mirai/policy/pull/796) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #801 | [【山田提案】AI家庭教師による基礎学力習得支援の明確化](https://github.com/team-mirai/policy/pull/801) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #805 | [教育におけるAI活用：グループ編成・役割分担支援による協調的学習環境の推進](https://github.com/team-mirai/policy/pull/805) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #815 | [教育：子どもたちの情報アクセス権保障とリテラシー向上のための提案](https://github.com/team-mirai/policy/pull/815) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
+| #815 | [教育：子どもたちの情報アクセス権保障とリテラシー向上のための提案](https://github.com/team-mirai/policy/pull/815) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-29 |
 | #818 | [WIP: Changes for idobata-e28nag](https://github.com/team-mirai/policy/pull/818) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #825 | [教育政策１章AI家庭教師の提供方針変更（JNさん提案）](https://github.com/team-mirai/policy/pull/825) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #831 | [専門用語の明確化による可読性向上](https://github.com/team-mirai/policy/pull/831) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-20 |
@@ -171,7 +171,7 @@
 | #1117 | [教育政策：学校施設活用とオンライン授業による学習機会拡充の提案](https://github.com/team-mirai/policy/pull/1117) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1128 | [教育政策案：AI導入事例（ナイジェリア・シンガポール・スタンフォード大）の記述を出典に基づき正確化](https://github.com/team-mirai/policy/pull/1128) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1130 | [教育方針案におけるAI家庭教師の役割拡大：いじめ相談対応の追加](https://github.com/team-mirai/policy/pull/1130) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
-| #1140 | [教育政策案：「Aila」プロジェクトに関する記述の修正（KANEKO）](https://github.com/team-mirai/policy/pull/1140) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
+| #1140 | [教育政策案：「Aila」プロジェクトに関する記述の修正（KANEKO）](https://github.com/team-mirai/policy/pull/1140) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-29 |
 | #1141 | [Miyu miniさん提案：AI教育改革による早期才能開花と少子化対策への貢献](https://github.com/team-mirai/policy/pull/1141) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1153 | [AIを活用した奨学金マッチングシステムの導入による教育機会の均等化](https://github.com/team-mirai/policy/pull/1153) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-28 |
 | #1155 | [miyu mini](https://github.com/team-mirai/policy/pull/1155) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
