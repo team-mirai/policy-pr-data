@@ -1,6 +1,6 @@
 # ラベル「ラベルなし」のPull Request一覧
 
-合計: 138件のPR
+合計: 139件のPR
 
 ## PR一覧
 
@@ -144,6 +144,7 @@
 | #1789 | [行政改革案におけるエンジニアの定義を明確化（フィリアさん提案）](https://github.com/team-mirai/policy/pull/1789) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 | #1790 | [対応方針：国民の切実な声と問題提起を重視する姿勢を明記 by かあさん](https://github.com/team-mirai/policy/pull/1790) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 | #1791 | [提案：シミュレーション仮説の研究を通じたデジタル民主主義の深化](https://github.com/team-mirai/policy/pull/1791) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
+| #1792 | [iz提案：AIシフトにおける情報管理リスクと対策の追加](https://github.com/team-mirai/policy/pull/1792) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 
 ## PR詳細
 
@@ -4837,6 +4838,18 @@ taishoさんの提案に基づき、「２）ロックインを防ぐ、オー�
 #### 変更ファイル
 
 - README.md
+
+---
+
+### #1792: iz提案：AIシフトにおける情報管理リスクと対策の追加
+
+#### 説明
+
+iz提案。AIシフトの情報漏洩リスクと対策として情報管理体制構築支援を追加。安全な AI 活用を推進。背景はizさんの指摘対応。iz
+
+#### 変更ファイル
+
+- 14_ステップ１産業.md
 
 ---
 
