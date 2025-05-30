@@ -52,14 +52,14 @@
 | #576 | [デジタル競争力に関する記述を客観的データに基づき修正](https://github.com/team-mirai/policy/pull/576) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #581 | [障害者手帳のデジタル対応（ミライロID等の法的効力付与）に関する提案](https://github.com/team-mirai/policy/pull/581) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #583 | [マイナンバーカードを活用した安全なコミュニケーション基盤の構築提案](https://github.com/team-mirai/policy/pull/583) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #587 | [政治資金の透明性を向上させるためのID付与とアラートシステム導入](https://github.com/team-mirai/policy/pull/587) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #587 | [政治資金の透明性を向上させるためのID付与とアラートシステム導入](https://github.com/team-mirai/policy/pull/587) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-05-30 |
 | #607 | [デジタル民主主義に関する政策案の改善提案（ぷにポンさん）](https://github.com/team-mirai/policy/pull/607) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #613 | [デジタル対話プラットフォームの活用促進に関する提案](https://github.com/team-mirai/policy/pull/613) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #680 | [【カンバ提案】パブコメAI機能強化と政治資金透明化における国民理解促進の追記](https://github.com/team-mirai/policy/pull/680) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #739 | [献金の透明化に対する提案](https://github.com/team-mirai/policy/pull/739) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #775 | [認知戦への対応を追記（匿名ユーザーによる提案）](https://github.com/team-mirai/policy/pull/775) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #777 | [チームの目標とDX化指標を序文に明記 by ゆとりん](https://github.com/team-mirai/policy/pull/777) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
-| #779 | [のりぃさん提案：プライバシー保護技術の明記による政策の具体化](https://github.com/team-mirai/policy/pull/779) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
+| #779 | [のりぃさん提案：プライバシー保護技術の明記による政策の具体化](https://github.com/team-mirai/policy/pull/779) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-05-30 |
 | #781 | [【提案】挑戦する個人への支援強化と具体的施策の追加（匿名ユーザー）](https://github.com/team-mirai/policy/pull/781) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #798 | [エンジニアチームの政策への主体的な関与と連携スタンスの明確化](https://github.com/team-mirai/policy/pull/798) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #800 | [【アム・サルトマン氏提案】選挙制度改革](https://github.com/team-mirai/policy/pull/800) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
