@@ -250,7 +250,7 @@
 | #1461 | [【匿名ユーザー提案】政策「その他重要分野」への「介護・福祉」分野の新設と介護ロボット開発推進の明記](https://github.com/team-mirai/policy/pull/1461) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1481 | [災害対策における緊急連絡掲示板アプリの具体化](https://github.com/team-mirai/policy/pull/1481) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1485 | [コメ価格問題への対応策](https://github.com/team-mirai/policy/pull/1485) | i-tami-h | closed | 2025-05-22 | 2025-05-22 |
-| #1486 | [デマンド型モビリティや新型の地域版シェアリング交通に関する政策.md](https://github.com/team-mirai/policy/pull/1486) | i-tami-h | open | 2025-05-22 | 2025-05-27 |
+| #1486 | [デマンド型モビリティや新型の地域版シェアリング交通に関する政策.md](https://github.com/team-mirai/policy/pull/1486) | i-tami-h | open | 2025-05-22 | 2025-05-30 |
 | #1489 | [ICT活用やドローンの導入による地域インフラの維持管理の強靱化施策.md](https://github.com/team-mirai/policy/pull/1489) | i-tami-h | closed | 2025-05-22 | 2025-05-27 |
 | #1491 | [匿名ユーザーによる災害対策と交通税制に関する改善提案](https://github.com/team-mirai/policy/pull/1491) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1510 | [AIが自律的に生成した成果物の法的取り扱いについて](https://github.com/team-mirai/policy/pull/1510) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-29 |
