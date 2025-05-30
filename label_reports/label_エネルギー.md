@@ -9,7 +9,7 @@
 | #63 | [エネルギー安定供給とデータセンター立地に関する記述の改善提案（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/63) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #128 | [「環境」の章におけるビジョンを更新：革新的エネルギー技術開発の推進を明記](https://github.com/team-mirai/policy/pull/128) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #180 | [エネルギー政策におけるメタンハイドレート活用の追記（いいちかさん提案）](https://github.com/team-mirai/policy/pull/180) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
-| #198 | [匿名ユーザーによる原子力政策への安全性および透明性向上に関する提案](https://github.com/team-mirai/policy/pull/198) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
+| #198 | [匿名ユーザーによる原子力政策への安全性および透明性向上に関する提案](https://github.com/team-mirai/policy/pull/198) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-30 |
 | #199 | [SMR（小型モジュール炉）に関する情報拡充](https://github.com/team-mirai/policy/pull/199) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #200 | [環境政策・廃棄物リサイクル政策に関する改善提案（片山公則様ご提案）](https://github.com/team-mirai/policy/pull/200) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #225 | [エネルギー政策草案の構成変更と各項目の論理的接続の強化](https://github.com/team-mirai/policy/pull/225) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |

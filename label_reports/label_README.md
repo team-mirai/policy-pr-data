@@ -177,7 +177,7 @@
 | #1259 | [【はろ提案】マニフェスト全体方針および教育分野の記述改善](https://github.com/team-mirai/policy/pull/1259) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-20 |
 | #1260 | [日常的な「思い」を収集する新しい仕組みについて追記](https://github.com/team-mirai/policy/pull/1260) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-20 |
 | #1263 | [目次の可読性向上：各項目への説明文追加によるアクセシビリティ改善](https://github.com/team-mirai/policy/pull/1263) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-20 |
-| #1271 | [花粉症対策の追加と具体策の提案（匿名ユーザー）](https://github.com/team-mirai/policy/pull/1271) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
+| #1271 | [花粉症対策の追加と具体策の提案（匿名ユーザー）](https://github.com/team-mirai/policy/pull/1271) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-29 |
 | #1272 | [マニフェスト改善：省庁・自治体連携、財政透明化、新金融、献血者優遇、教育現場指導明確化、年金情報提供の検討課題追加](https://github.com/team-mirai/policy/pull/1272) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-21 |
 | #1273 | [目次更新：「インフラ長寿命化」（DX推進準備）追加とリンク修正、および関連政策ファイル作成](https://github.com/team-mirai/policy/pull/1273) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1274 | [いどばたシステムの利用方法に関する説明を改善](https://github.com/team-mirai/policy/pull/1274) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
@@ -328,10 +328,10 @@
 | #1750 | [冒頭挨拶文の改善による利用ハードルの低減（提案者：ミルクレープさん）](https://github.com/team-mirai/policy/pull/1750) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-29 |
 | #1752 | [報道の自動イシュー化](https://github.com/team-mirai/policy/pull/1752) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-29 |
 | #1755 | [意思決定プロセスの透明性向上：議論過程・決定の瞬間の公開を明記](https://github.com/team-mirai/policy/pull/1755) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
-| #1757 | [【生涯所得課税の提案】たしさんより、経済財政分野への新たな税制案](https://github.com/team-mirai/policy/pull/1757) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
+| #1757 | [【生涯所得課税の提案】たしさんより、経済財政分野への新たな税制案](https://github.com/team-mirai/policy/pull/1757) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-30 |
 | #1762 | [SNS運用方針の追加と透明性向上](https://github.com/team-mirai/policy/pull/1762) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1765 | [たしさん提案：いどばたエキスパート（仮称）の導入](https://github.com/team-mirai/policy/pull/1765) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
-| #1771 | [目次に「社会保障制度」の項目を追加](https://github.com/team-mirai/policy/pull/1771) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
+| #1771 | [目次に「社会保障制度」の項目を追加](https://github.com/team-mirai/policy/pull/1771) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-30 |
 | #1774 | [ステップ1およびステップ2の目次に社会保障制度の項目追加 (川村 正春さん提案)](https://github.com/team-mirai/policy/pull/1774) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1775 | [食と健康に関する視点を追加し、国民のQOL向上を目指す提案](https://github.com/team-mirai/policy/pull/1775) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1777 | [未来へつなぐ資産：贈与促進と相続税改革で若者支援と経済活性化](https://github.com/team-mirai/policy/pull/1777) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
