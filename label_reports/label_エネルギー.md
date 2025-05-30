@@ -15,10 +15,10 @@
 | #225 | [エネルギー政策草案の構成変更と各項目の論理的接続の強化](https://github.com/team-mirai/policy/pull/225) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #241 | [政策概要における火力発電の位置づけと将来展望を更新](https://github.com/team-mirai/policy/pull/241) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #252 | [エネルギー政策：大規模災害リスクを考慮し、原発に依存しない方針へ転換（みかんさん提案）](https://github.com/team-mirai/policy/pull/252) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
-| #253 | [エネルギー政策における気候変動対応と省エネ推進の強化](https://github.com/team-mirai/policy/pull/253) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
+| #253 | [エネルギー政策における気候変動対応と省エネ推進の強化](https://github.com/team-mirai/policy/pull/253) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-30 |
 | #273 | [エネルギー政策ビジョンにおけるAI電力需要に関する記述の修正](https://github.com/team-mirai/policy/pull/273) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #277 | [エネルギー政策：大規模災害リスクを考慮し、原子力依存からの脱却と再生可能エネルギーへの大胆なシフトを提案](https://github.com/team-mirai/policy/pull/277) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
-| #302 | [住宅の省エネ性能向上策の追加 (tokoroten)](https://github.com/team-mirai/policy/pull/302) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
+| #302 | [住宅の省エネ性能向上策の追加 (tokoroten)](https://github.com/team-mirai/policy/pull/302) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-30 |
 | #303 | [エネルギー政策改善案：国内資源探査とCO2対策技術開発の推進 by ぺい](https://github.com/team-mirai/policy/pull/303) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #344 | [エネルギー政策における核融合技術見直しと省エネ推進策の追加](https://github.com/team-mirai/policy/pull/344) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #352 | [エネルギー政策案（35_ステップ３エネルギー.md）の改善提案（methaneより）](https://github.com/team-mirai/policy/pull/352) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
@@ -38,7 +38,7 @@
 | #882 | [とっちさんによる原子力エネルギー政策の現状認識と具体策の強化](https://github.com/team-mirai/policy/pull/882) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #883 | [てっちゃんさん提案：地域主導の再エネ導入促進によるエネルギー政策の強化](https://github.com/team-mirai/policy/pull/883) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1052 | [エネルギー政策改善：地域主導の分散型エネルギーシステム導入促進（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1052) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #1059 | [エネルギー政策草案の改善提案（すず）](https://github.com/team-mirai/policy/pull/1059) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
+| #1059 | [エネルギー政策草案の改善提案（すず）](https://github.com/team-mirai/policy/pull/1059) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-30 |
 | #1089 | [太陽光発電の普及推進と課題対応に関する政策の具体化 (sunaさん提案)](https://github.com/team-mirai/policy/pull/1089) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1129 | [匿名ユーザーによる風力発電の課題に関する追記提案](https://github.com/team-mirai/policy/pull/1129) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1142 | [エネルギー政策における水力発電の活用強化とマイクロ水力発電の推進](https://github.com/team-mirai/policy/pull/1142) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
