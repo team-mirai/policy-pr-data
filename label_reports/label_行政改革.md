@@ -173,10 +173,10 @@
 | #1732 | [行政手続きDX推進（プッシュ通知、AI行政エージェント）及びテクノロジー活用倫理原則の新設](https://github.com/team-mirai/policy/pull/1732) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-29 |
 | #1734 | [行政改革におけるAI利用のリスク管理方針を追加](https://github.com/team-mirai/policy/pull/1734) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-29 |
 | #1741 | [地方の専門人材不足解消と広域連携の強化による行政サービス向上](https://github.com/team-mirai/policy/pull/1741) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-29 |
-| #1746 | [AIエージェント導入による行政サービスの利便性向上](https://github.com/team-mirai/policy/pull/1746) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-29 |
+| #1746 | [AIエージェント導入による行政サービスの利便性向上](https://github.com/team-mirai/policy/pull/1746) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-30 |
 | #1753 | [多様性に関する議論のため「４．多様性と共生社会の実現（仮）」の章を新設し、最初の項目として通称使用拡大を提案](https://github.com/team-mirai/policy/pull/1753) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1754 | [「なめらかな税・社会保障」における逆進性対策の具体化（まさんの提案）](https://github.com/team-mirai/policy/pull/1754) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
-| #1784 | [行政改革案の改善：エンジニアチーム設置の意義の明確化](https://github.com/team-mirai/policy/pull/1784) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
+| #1784 | [行政改革案の改善：エンジニアチーム設置の意義の明確化](https://github.com/team-mirai/policy/pull/1784) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-30 |
 | #1789 | [行政改革案におけるエンジニアの定義を明確化（フィリアさん提案）](https://github.com/team-mirai/policy/pull/1789) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 | #1800 | [「開かれた国会」の実現に向けた政策提言の追加（taisho提案）](https://github.com/team-mirai/policy/pull/1800) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 

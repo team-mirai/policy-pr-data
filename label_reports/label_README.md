@@ -335,7 +335,7 @@
 | #1774 | [ステップ1およびステップ2の目次に社会保障制度の項目追加 (川村 正春さん提案)](https://github.com/team-mirai/policy/pull/1774) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1775 | [食と健康に関する視点を追加し、国民のQOL向上を目指す提案](https://github.com/team-mirai/policy/pull/1775) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1777 | [未来へつなぐ資産：贈与促進と相続税改革で若者支援と経済活性化](https://github.com/team-mirai/policy/pull/1777) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
-| #1787 | [産業政策の強化：AI・ドローン活用と山間部農業振興について（阿井上夫氏提案）](https://github.com/team-mirai/policy/pull/1787) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
+| #1787 | [産業政策の強化：AI・ドローン活用と山間部農業振興について（阿井上夫氏提案）](https://github.com/team-mirai/policy/pull/1787) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-30 |
 | #1791 | [提案：シミュレーション仮説の研究を通じたデジタル民主主義の深化](https://github.com/team-mirai/policy/pull/1791) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 | #1801 | [システムトラブル発生時の対応と説明責任に関する項目の追加](https://github.com/team-mirai/policy/pull/1801) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 
