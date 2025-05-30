@@ -67,7 +67,7 @@
 | #889 | [ぺいさんによる政策改善案：「デジタル民主主義」におけるネット投票の早期実現の提案](https://github.com/team-mirai/policy/pull/889) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #903 | [kazyasuさん提案：政治資金透明化のため、チームみらいによるカード明細公開宣言をマニフェストに記載](https://github.com/team-mirai/policy/pull/903) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #917 | [投票・立候補における知識確認の導入とデジタル活用に関する提案（kino07さん）](https://github.com/team-mirai/policy/pull/917) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #944 | [誤字修正：「100県あたり」を「100件あたり」に修正 (kenji指摘)](https://github.com/team-mirai/policy/pull/944) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
+| #944 | [誤字修正：「100県あたり」を「100件あたり」に修正 (kenji指摘)](https://github.com/team-mirai/policy/pull/944) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-05-30 |
 | #946 | [政治資金のキャッシュレス化推進と関連リスク対策の追記（提案者：テツ）](https://github.com/team-mirai/policy/pull/946) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #983 | [税金の使途透明化による信頼回復と民主的議論の促進 by konnoy](https://github.com/team-mirai/policy/pull/983) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1013 | [新政策：選挙区に縛られない全国候補者選択制の導入（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1013) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
@@ -78,7 +78,7 @@
 | #1192 | [重富哲也氏提案：デジタル民主主義の章を改訂し、現状課題、未来像、政治家の役割、実現課題を明確化](https://github.com/team-mirai/policy/pull/1192) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1197 | [パブリックコメントの課題とAI活用に関する改善提案（ゆとりんさん）](https://github.com/team-mirai/policy/pull/1197) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1282 | [テツさん提案：ネット投票に関する検討項目をデジタル民主主義の章に追加](https://github.com/team-mirai/policy/pull/1282) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
-| #1394 | [Update 16_ステップ１デジタル民主主義.md](https://github.com/team-mirai/policy/pull/1394) | Hiroko165Yamamoto | open | 2025-05-21 | 2025-05-22 |
+| #1394 | [Update 16_ステップ１デジタル民主主義.md](https://github.com/team-mirai/policy/pull/1394) | Hiroko165Yamamoto | open | 2025-05-21 | 2025-05-30 |
 | #1399 | [デジタル庁ガイドライン（アクセシビリティ向上など）への準拠](https://github.com/team-mirai/policy/pull/1399) | idobata-policy-app[bot] | open | 2025-05-21 | 2025-05-22 |
 | #1434 | [SNSにおける実在アカウント認証制度の導入と新たな訴訟プロセスの提案 by decalhe](https://github.com/team-mirai/policy/pull/1434) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1467 | [AIを活用したパブコメ改善と情報操作対策の強化](https://github.com/team-mirai/policy/pull/1467) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
@@ -87,7 +87,7 @@
 | #1598 | [AIを活用した国家歳出管理システムの導入に関する提案 by 物言うご意見番](https://github.com/team-mirai/policy/pull/1598) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-29 |
 | #1714 | [政策案への「委任投票システム」の章の新設](https://github.com/team-mirai/policy/pull/1714) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-29 |
 | #1731 | [AIの透明性と説明責任の強化、及びチームみらいによる実証実験を明記](https://github.com/team-mirai/policy/pull/1731) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-29 |
-| #1773 | [パブリックコメントにおける誤字修正（件→県）](https://github.com/team-mirai/policy/pull/1773) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
+| #1773 | [パブリックコメントにおける誤字修正（件→県）](https://github.com/team-mirai/policy/pull/1773) | idobata-policy-app[bot] | closed | 2025-05-28 | 2025-05-30 |
 | #1785 | [提案：デジタル化における透明性・説明責任・包摂性の強化](https://github.com/team-mirai/policy/pull/1785) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 | #1797 | [Leaf提案：政府によるフェイク情報対策の推進](https://github.com/team-mirai/policy/pull/1797) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 
