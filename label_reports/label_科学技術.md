@@ -44,7 +44,7 @@
 | #714 | [Cater氏提案：科学技術政策における研究資金調達・運用方法の改善](https://github.com/team-mirai/policy/pull/714) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-19 |
 | #757 | [たかぎぃさん提案：海洋資源開発の戦略的推進とディープテック分野への明確な位置づけ](https://github.com/team-mirai/policy/pull/757) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #764 | [提案：教育とAI研究開発の予算配分最適化に向けた議論喚起（よろしい骨様）](https://github.com/team-mirai/policy/pull/764) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
-| #771 | [社会全体のAIリテラシー向上を目指した教育政策の拡充提案（kazyasuさんより）](https://github.com/team-mirai/policy/pull/771) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
+| #771 | [社会全体のAIリテラシー向上を目指した教育政策の拡充提案（kazyasuさんより）](https://github.com/team-mirai/policy/pull/771) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-30 |
 | #794 | [のりぃ提案：ディープテック支援強化（税制優遇・Jカーブ理解促進）](https://github.com/team-mirai/policy/pull/794) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #814 | [戦略技術ポートフォリオへのドローン、量子計算機、AIの追加（Suzuki T.提案）](https://github.com/team-mirai/policy/pull/814) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #824 | [AI利用に関する倫理的・法的課題への対応方針を追記](https://github.com/team-mirai/policy/pull/824) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |

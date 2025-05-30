@@ -119,7 +119,7 @@
 | #764 | [提案：教育とAI研究開発の予算配分最適化に向けた議論喚起（よろしい骨様）](https://github.com/team-mirai/policy/pull/764) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #766 | [ドアラさんによる教育政策の改善提案](https://github.com/team-mirai/policy/pull/766) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #769 | [伝統文化の尊重と教育への活用に関する提案（FLOWさんより）](https://github.com/team-mirai/policy/pull/769) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
-| #771 | [社会全体のAIリテラシー向上を目指した教育政策の拡充提案（kazyasuさんより）](https://github.com/team-mirai/policy/pull/771) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
+| #771 | [社会全体のAIリテラシー向上を目指した教育政策の拡充提案（kazyasuさんより）](https://github.com/team-mirai/policy/pull/771) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-30 |
 | #781 | [【提案】挑戦する個人への支援強化と具体的施策の追加（匿名ユーザー）](https://github.com/team-mirai/policy/pull/781) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #796 | [学習指導要領改訂におけるAI研修導入と教職員の負荷軽減策の明記 by t.a](https://github.com/team-mirai/policy/pull/796) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #801 | [【山田提案】AI家庭教師による基礎学力習得支援の明確化](https://github.com/team-mirai/policy/pull/801) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
@@ -155,7 +155,7 @@
 | #1023 | [kaizu氏による教育改革提案：教育の3つの軸と特別教員免許制度の導入 #1012](https://github.com/team-mirai/policy/pull/1023) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1025 | [教育改革に関する総合的な提案（情報教育の時間配分と教員免許制度改革）](https://github.com/team-mirai/policy/pull/1025) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1030 | [AI家庭教師による国語・算数の学習支援強化](https://github.com/team-mirai/policy/pull/1030) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #1033 | [教育政策：デジタル併願制に関する記述の改善（みやこしさん提案）](https://github.com/team-mirai/policy/pull/1033) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
+| #1033 | [教育政策：デジタル併願制に関する記述の改善（みやこしさん提案）](https://github.com/team-mirai/policy/pull/1033) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-30 |
 | #1036 | [教育政策におけるAI活用推進と環境整備に関する改善提案](https://github.com/team-mirai/policy/pull/1036) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1042 | [【匿名ユーザー提案】情報に流されないための、AIを活用した観察力・推理力育成プログラム導入](https://github.com/team-mirai/policy/pull/1042) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1048 | [匿名ユーザーさん発案：AIによる連絡自動化・高度化で教員をサポート](https://github.com/team-mirai/policy/pull/1048) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
@@ -186,7 +186,7 @@
 | #1224 | [デジタルとアナログを活用した本との出会い](https://github.com/team-mirai/policy/pull/1224) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1245 | [kenjiさん提案：リモート授業導入による教育の負担軽減と質向上](https://github.com/team-mirai/policy/pull/1245) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1249 | [教育政策改善案：個別最適化学習と職業体験の拡充（ta提案）](https://github.com/team-mirai/policy/pull/1249) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
-| #1254 | [公立大学入試における複数併願制度導入の提案（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1254) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
+| #1254 | [公立大学入試における複数併願制度導入の提案（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1254) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-30 |
 | #1257 | [すてふ：マインドフルネス導入による教育環境改善の提案](https://github.com/team-mirai/policy/pull/1257) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-20 |
 | #1265 | [匿名ユーザーによる教育政策へのAI導入における格差是正と教員リテラシー向上策の提案](https://github.com/team-mirai/policy/pull/1265) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1279 | [TERRYさん提案：AIを活用した個別英語学習支援の具体化と既存リソース活用方針の追加](https://github.com/team-mirai/policy/pull/1279) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
