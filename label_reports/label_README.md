@@ -330,7 +330,7 @@
 | #1755 | [意思決定プロセスの透明性向上：議論過程・決定の瞬間の公開を明記](https://github.com/team-mirai/policy/pull/1755) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1757 | [【生涯所得課税の提案】たしさんより、経済財政分野への新たな税制案](https://github.com/team-mirai/policy/pull/1757) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-30 |
 | #1762 | [SNS運用方針の追加と透明性向上](https://github.com/team-mirai/policy/pull/1762) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
-| #1765 | [たしさん提案：いどばたエキスパート（仮称）の導入](https://github.com/team-mirai/policy/pull/1765) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
+| #1765 | [たしさん提案：いどばたエキスパート（仮称）の導入](https://github.com/team-mirai/policy/pull/1765) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-31 |
 | #1771 | [目次に「社会保障制度」の項目を追加](https://github.com/team-mirai/policy/pull/1771) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-30 |
 | #1774 | [ステップ1およびステップ2の目次に社会保障制度の項目追加 (川村 正春さん提案)](https://github.com/team-mirai/policy/pull/1774) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1775 | [食と健康に関する視点を追加し、国民のQOL向上を目指す提案](https://github.com/team-mirai/policy/pull/1775) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
