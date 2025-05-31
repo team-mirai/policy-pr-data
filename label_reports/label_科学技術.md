@@ -34,7 +34,7 @@
 | #474 | [silverさん提案：ホリスティック医療の項目追加](https://github.com/team-mirai/policy/pull/474) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #486 | [【Diegoさん提案】科学技術分野の強化：AI・ロボット技術による社会変革と先端研究への戦略的投資](https://github.com/team-mirai/policy/pull/486) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #493 | [とらこさんの提案：AI活用における多様な人材の活躍に関する追記](https://github.com/team-mirai/policy/pull/493) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #529 | [なかむらさんによる政策案改善提案：現状認識の明確化](https://github.com/team-mirai/policy/pull/529) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #529 | [なかむらさんによる政策案改善提案：現状認識の明確化](https://github.com/team-mirai/policy/pull/529) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-05-31 |
 | #554 | [まいさんによるAI導入方針の明確化提案](https://github.com/team-mirai/policy/pull/554) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #566 | [研究費配分における評価の客観性・透明性向上](https://github.com/team-mirai/policy/pull/566) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #575 | [研究資金制度の拡充案の修正 by 匿名ユーザー](https://github.com/team-mirai/policy/pull/575) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
@@ -65,7 +65,7 @@
 | #1629 | [【大槻さん提案】研究成果の社会実装促進に向けた政策追加（法制度・倫理的側面）](https://github.com/team-mirai/policy/pull/1629) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-29 |
 | #1665 | [匿名ユーザー提案：科学技術政策に災害対策とグリーンデジタルインフラの視点を追加](https://github.com/team-mirai/policy/pull/1665) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-29 |
 | #1692 | [科学技術政策：先端分野への投資と国際競争力強化を明記](https://github.com/team-mirai/policy/pull/1692) | idobata-policy-app[bot] | open | 2025-05-26 | 2025-05-29 |
-| #1779 | [【誤字修正】負担を権限→ 負担を軽減](https://github.com/team-mirai/policy/pull/1779) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
+| #1779 | [【誤字修正】負担を権限→ 負担を軽減](https://github.com/team-mirai/policy/pull/1779) | idobata-policy-app[bot] | closed | 2025-05-28 | 2025-05-31 |
 | #1817 | [モーさんによる手話翻訳アプリ開発の提案](https://github.com/team-mirai/policy/pull/1817) | idobata-policy-app[bot] | open | 2025-05-30 | 2025-05-30 |
 
 ## PR詳細
