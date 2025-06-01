@@ -284,7 +284,7 @@
 | #1574 | [匿名ユーザーによる性犯罪対策強化の提案](https://github.com/team-mirai/policy/pull/1574) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-29 |
 | #1577 | [マニフェストへの音声コンテンツ配信検討の追加](https://github.com/team-mirai/policy/pull/1577) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-29 |
 | #1579 | [ちきんさんの提案に基づくマニフェスト改善：AI活用と主権者教育の推進](https://github.com/team-mirai/policy/pull/1579) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-29 |
-| #1581 | [チームみらいアプリ（仮称）の構想を追加](https://github.com/team-mirai/policy/pull/1581) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-29 |
+| #1581 | [チームみらいアプリ（仮称）の構想を追加](https://github.com/team-mirai/policy/pull/1581) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-06-01 |
 | #1587 | [変更提案の将来的な本人認証・国籍確認導入に関する記述追加（提案者：ふう）](https://github.com/team-mirai/policy/pull/1587) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-29 |
 | #1588 | [学生向けのIT学習サイトを作りませんか？](https://github.com/team-mirai/policy/pull/1588) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-29 |
 | #1594 | [README.md修正と教育政策への提言：匿名ユーザーによる真の機会均等に向けた提案](https://github.com/team-mirai/policy/pull/1594) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-29 |
