@@ -29,7 +29,7 @@
 | #1172 | [研究環境改善のため、予算制度の課題明確化とハラスメント対策を具体化（ゆとりん提案）](https://github.com/team-mirai/policy/pull/1172) | idobata-policy-app[bot] | closed | 2025-05-19 | 2025-06-01 |
 | #1230 | [「AIまごの手」導入による高齢者支援策の追加](https://github.com/team-mirai/policy/pull/1230) | idobata-policy-app[bot] | closed | 2025-05-19 | 2025-05-27 |
 | #1254 | [公立大学入試における複数併願制度導入の提案（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1254) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-30 |
-| #1337 | [研究環境改善と研究費執行効率化のための政策修正提案（Junさんより）](https://github.com/team-mirai/policy/pull/1337) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-06-01 |
+| #1337 | [研究環境改善と研究費執行効率化のための政策修正提案（Junさんより）](https://github.com/team-mirai/policy/pull/1337) | idobata-policy-app[bot] | closed | 2025-05-20 | 2025-06-01 |
 | #1599 | [保護者対応における教員支援策の強化](https://github.com/team-mirai/policy/pull/1599) | idobata-policy-app[bot] | open | 2025-05-24 | 2025-05-29 |
 | #1655 | [教育政策の包括的強化：EBPM推進と社会教育施設のDXを追加](https://github.com/team-mirai/policy/pull/1655) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-29 |
 | #1674 | [教育政策におけるインクルーシブなAI開発の推進（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1674) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-29 |
