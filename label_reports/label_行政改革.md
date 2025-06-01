@@ -137,7 +137,7 @@
 | #1306 | [かわさんによる政策案修正提案：電子投票・ネット投票の項目の移動と新規ファイル作成](https://github.com/team-mirai/policy/pull/1306) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1308 | [【フィリア提案】行政改革案：DX推進における継続的な予算確保策の追加](https://github.com/team-mirai/policy/pull/1308) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1310 | [行政改革案に関する改善提案（ムライさん）](https://github.com/team-mirai/policy/pull/1310) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
-| #1312 | [司法DXにおけるAI利用の注意点を明確化（くみさん提案）](https://github.com/team-mirai/policy/pull/1312) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
+| #1312 | [司法DXにおけるAI利用の注意点を明確化（くみさん提案）](https://github.com/team-mirai/policy/pull/1312) | idobata-policy-app[bot] | closed | 2025-05-20 | 2025-06-01 |
 | #1336 | [ステーブルコイン納税導入による行政効率化と「申告不要」社会実現への提案](https://github.com/team-mirai/policy/pull/1336) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1341 | [行政改革案のセキュリティと公正性強化：公共調達および電子投票に関する改善（すださん提案）](https://github.com/team-mirai/policy/pull/1341) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1348 | [Kakudoさんによる補助金制度の見直し提案](https://github.com/team-mirai/policy/pull/1348) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
