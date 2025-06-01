@@ -79,7 +79,7 @@
 | #600 | [行政手続きのオンライン化・母子健康情報管理の利便性向上（雜賀 いさみ 提案）](https://github.com/team-mirai/policy/pull/600) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-19 |
 | #618 | [育休中の柔軟なキャリア継続支援策の追加](https://github.com/team-mirai/policy/pull/618) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #621 | [デジタル母子パスポートと紙の母子手帳の選択制導入](https://github.com/team-mirai/policy/pull/621) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #634 | [デジタル母子パスポートを活用したプッシュ型支援の導入：申請主義の壁を越え、真に届く子育て支援を目指して](https://github.com/team-mirai/policy/pull/634) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #634 | [デジタル母子パスポートを活用したプッシュ型支援の導入：申請主義の壁を越え、真に届く子育て支援を目指して](https://github.com/team-mirai/policy/pull/634) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-06-01 |
 | #638 | [モーさん発案：若年出産支援を含む子育て政策の拡充提案](https://github.com/team-mirai/policy/pull/638) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #640 | [公的な子育て機関の設立案を追加](https://github.com/team-mirai/policy/pull/640) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #643 | [子育て支援策改善：保活AI審査、保育士給与適正化、保育所空き状況予測の強化 by suk1yak1](https://github.com/team-mirai/policy/pull/643) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
