@@ -148,7 +148,7 @@
 | #1428 | [【小山】行政改革案の改善：新規「デジタルID戦略」の追加および構成・表現の調整](https://github.com/team-mirai/policy/pull/1428) | idobata-policy-app[bot] | open | 2025-05-21 | 2025-05-24 |
 | #1440 | [小山さんによる行政改革案の改善提案](https://github.com/team-mirai/policy/pull/1440) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-24 |
 | #1441 | [行政改革案の強化：エンジニアチーム、OSS活用、チームみらいの独自性を明記](https://github.com/team-mirai/policy/pull/1441) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
-| #1482 | [行政改革案「電子投票推進」に関するUmioiさんからの改善提案](https://github.com/team-mirai/policy/pull/1482) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
+| #1482 | [行政改革案「電子投票推進」に関するUmioiさんからの改善提案](https://github.com/team-mirai/policy/pull/1482) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-06-01 |
 | #1518 | [政策議論の質的向上と政党間連携促進による行政改革の深化](https://github.com/team-mirai/policy/pull/1518) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-29 |
 | #1554 | [議員のキャリア保証に関する課題認識の追加 (tk)](https://github.com/team-mirai/policy/pull/1554) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-29 |
 | #1555 | [EBPMの実践と継続的な改善サイクルの確立について（tkさん提案）](https://github.com/team-mirai/policy/pull/1555) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-29 |

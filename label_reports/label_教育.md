@@ -16,7 +16,7 @@
 | #45 | [ねこさんからの政策改善提案：教育および税制に関する提案](https://github.com/team-mirai/policy/pull/45) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #47 | [たねのぶさん提案：AIチューターと反転学習、GIGAスクール端末活用に関する改善](https://github.com/team-mirai/policy/pull/47) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #65 | [wataameさん発案：教員の働き方改革による教育環境改善](https://github.com/team-mirai/policy/pull/65) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
-| #77 | [表現の微修正](https://github.com/team-mirai/policy/pull/77) | waksyu | open | 2025-05-16 | 2025-05-18 |
+| #77 | [表現の微修正](https://github.com/team-mirai/policy/pull/77) | waksyu | closed | 2025-05-16 | 2025-06-01 |
 | #80 | [教育政策における地方格差解消の視点の追加（octarouさん提案）](https://github.com/team-mirai/policy/pull/80) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-22 |
 | #81 | [AI家庭教師の導入目標に具体的な数値目標（数学・物理履修者割合）を追加](https://github.com/team-mirai/policy/pull/81) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #87 | [【まさきさん提案】プッシュ型支援の具体化：申請プロセスの改善と権限移譲による実効性向上](https://github.com/team-mirai/policy/pull/87) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
