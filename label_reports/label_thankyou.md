@@ -26,7 +26,7 @@
 | #1033 | [教育政策：デジタル併願制に関する記述の改善（みやこしさん提案）](https://github.com/team-mirai/policy/pull/1033) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-30 |
 | #1140 | [教育政策案：「Aila」プロジェクトに関する記述の修正（KANEKO）](https://github.com/team-mirai/policy/pull/1140) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-29 |
 | #1146 | [運営費交付金削減による研究環境悪化の課題を追記](https://github.com/team-mirai/policy/pull/1146) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-06-01 |
-| #1172 | [研究環境改善のため、予算制度の課題明確化とハラスメント対策を具体化（ゆとりん提案）](https://github.com/team-mirai/policy/pull/1172) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-06-01 |
+| #1172 | [研究環境改善のため、予算制度の課題明確化とハラスメント対策を具体化（ゆとりん提案）](https://github.com/team-mirai/policy/pull/1172) | idobata-policy-app[bot] | closed | 2025-05-19 | 2025-06-01 |
 | #1230 | [「AIまごの手」導入による高齢者支援策の追加](https://github.com/team-mirai/policy/pull/1230) | idobata-policy-app[bot] | closed | 2025-05-19 | 2025-05-27 |
 | #1254 | [公立大学入試における複数併願制度導入の提案（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1254) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-30 |
 | #1337 | [研究環境改善と研究費執行効率化のための政策修正提案（Junさんより）](https://github.com/team-mirai/policy/pull/1337) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-06-01 |
