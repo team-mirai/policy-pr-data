@@ -136,7 +136,7 @@
 | #860 | [提案：第五の柱「すべての子どもが安心して学べる、開かれた学校づくり」の新設](https://github.com/team-mirai/policy/pull/860) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #861 | [匿名ユーザーによる教育政策案への改善提案（3点）](https://github.com/team-mirai/policy/pull/861) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #862 | [教育政策におけるAI導入の初期ステップと理念を具体化（t.aさん提案）](https://github.com/team-mirai/policy/pull/862) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #870 | [AI教育の全国展開における公平性と実現可能性を高めるためのマニフェスト改訂](https://github.com/team-mirai/policy/pull/870) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
+| #870 | [AI教育の全国展開における公平性と実現可能性を高めるためのマニフェスト改訂](https://github.com/team-mirai/policy/pull/870) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-02 |
 | #879 | [大学改革：少子化に対応した持続可能な教育体制と個人の能力証明制度の新設](https://github.com/team-mirai/policy/pull/879) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #906 | [羽賀尚生さん提案：教育ビジョンと教員支援策の具体化](https://github.com/team-mirai/policy/pull/906) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #908 | [AI教育導入に関する政策案の改善：パイロット導入と仕様策定プロセスの具体化（ゆとりんさん提案）](https://github.com/team-mirai/policy/pull/908) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
@@ -167,7 +167,7 @@
 | #1079 | [AI家庭教師の安全性強化：メンタルヘルスケアのための専門AI導入](https://github.com/team-mirai/policy/pull/1079) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1086 | [教育政策改善提案：AI活用による個別最適化と教員業務効率化](https://github.com/team-mirai/policy/pull/1086) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1096 | [じゅんさん発案：「働きがいと自己実現の支援」をマニフェストに追加](https://github.com/team-mirai/policy/pull/1096) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
-| #1110 | [教育政策案改善：オーダーメイドカリキュラム導入における現場課題への対応を明記](https://github.com/team-mirai/policy/pull/1110) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
+| #1110 | [教育政策案改善：オーダーメイドカリキュラム導入における現場課題への対応を明記](https://github.com/team-mirai/policy/pull/1110) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-06-02 |
 | #1117 | [教育政策：学校施設活用とオンライン授業による学習機会拡充の提案](https://github.com/team-mirai/policy/pull/1117) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1128 | [教育政策案：AI導入事例（ナイジェリア・シンガポール・スタンフォード大）の記述を出典に基づき正確化](https://github.com/team-mirai/policy/pull/1128) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1130 | [教育方針案におけるAI家庭教師の役割拡大：いじめ相談対応の追加](https://github.com/team-mirai/policy/pull/1130) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
