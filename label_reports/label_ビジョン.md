@@ -86,8 +86,8 @@
 | #1872 | [政策提案：AIを活用した諜報機関の設立による国家安全保障体制の強化](https://github.com/team-mirai/policy/pull/1872) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
 | #1894 | [放課後等における児童生徒への包括的支援の拡充](https://github.com/team-mirai/policy/pull/1894) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
 | #1895 | [提案：マニフェストの包摂性強化とテクノロジーの負の側面への言及（団鬼八）](https://github.com/team-mirai/policy/pull/1895) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
-| #1896 | [ベーシックインカム導入の検討を提案](https://github.com/team-mirai/policy/pull/1896) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
-| #1898 | [税制アルゴリズムに関する記述をいそひよさんの意見に基づき修正](https://github.com/team-mirai/policy/pull/1898) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
+| #1896 | [ベーシックインカム導入の検討を提案](https://github.com/team-mirai/policy/pull/1896) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-03 |
+| #1898 | [税制アルゴリズムに関する記述をいそひよさんの意見に基づき修正](https://github.com/team-mirai/policy/pull/1898) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-03 |
 | #1906 | [党運営の透明性向上：公認候補選考プロセスの公開](https://github.com/team-mirai/policy/pull/1906) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
 | #1909 | [AIwHさんの提案による生活保障・インフラ・都市再編・食料自給 および 国民成熟プログラム・国防再定義 に関する政策強化](https://github.com/team-mirai/policy/pull/1909) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
 

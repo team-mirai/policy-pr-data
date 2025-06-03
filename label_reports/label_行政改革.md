@@ -170,7 +170,7 @@
 | #1741 | [地方の専門人材不足解消と広域連携の強化による行政サービス向上](https://github.com/team-mirai/policy/pull/1741) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-29 |
 | #1746 | [AIエージェント導入による行政サービスの利便性向上](https://github.com/team-mirai/policy/pull/1746) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-30 |
 | #1753 | [多様性に関する議論のため「４．多様性と共生社会の実現（仮）」の章を新設し、最初の項目として通称使用拡大を提案](https://github.com/team-mirai/policy/pull/1753) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
-| #1754 | [「なめらかな税・社会保障」における逆進性対策の具体化（まさんの提案）](https://github.com/team-mirai/policy/pull/1754) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
+| #1754 | [「なめらかな税・社会保障」における逆進性対策の具体化（まさんの提案）](https://github.com/team-mirai/policy/pull/1754) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-06-03 |
 | #1784 | [行政改革案の改善：エンジニアチーム設置の意義の明確化](https://github.com/team-mirai/policy/pull/1784) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-30 |
 | #1789 | [行政改革案におけるエンジニアの定義を明確化（フィリアさん提案）](https://github.com/team-mirai/policy/pull/1789) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 | #1835 | [オンライン熟議の場の機能強化と将来的な民主主義の展望について](https://github.com/team-mirai/policy/pull/1835) | idobata-policy-app[bot] | open | 2025-05-31 | 2025-05-31 |
@@ -180,7 +180,7 @@
 | #1884 | [生活保護・障害年金制度の見直しによる包括的支援の強化（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1884) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
 | #1885 | [デジタル庁の組織再編・司令塔機能の強化](https://github.com/team-mirai/policy/pull/1885) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-02 |
 | #1889 | [災害時における国民保護の強化：リアルタイム情報連携による避難支援システム構築の提案](https://github.com/team-mirai/policy/pull/1889) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-02 |
-| #1890 | [確定申告制度における公平性の記述を強化（そら提案）](https://github.com/team-mirai/policy/pull/1890) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-02 |
+| #1890 | [確定申告制度における公平性の記述を強化（そら提案）](https://github.com/team-mirai/policy/pull/1890) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-03 |
 | #1908 | [税務申告・会計処理の完全自動化と国民目線に立った行政システム改革による国力向上の提案（匿名ユーザーさんご提案）](https://github.com/team-mirai/policy/pull/1908) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
 
 ## PR詳細
