@@ -81,7 +81,7 @@
 | #1722 | [匿名ユーザーによる提案：国際標準・ルール形成におけるデ・ファクト・スタンダード戦略の追加](https://github.com/team-mirai/policy/pull/1722) | idobata-policy-app[bot] | open | 2025-05-27 | 2025-05-29 |
 | #1759 | [介護ロボット導入支援策の追加による産業政策の強化](https://github.com/team-mirai/policy/pull/1759) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
 | #1778 | [モーさんご提案：農業分野のDX推進（AIマッチングプラットフォーム）](https://github.com/team-mirai/policy/pull/1778) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-31 |
-| #1788 | [産業政策：「投資すれば得、ため込めば課税」への制度転換を追加](https://github.com/team-mirai/policy/pull/1788) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-06-02 |
+| #1788 | [産業政策：「投資すれば得、ため込めば課税」への制度転換を追加](https://github.com/team-mirai/policy/pull/1788) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-06-03 |
 | #1792 | [iz提案：AIシフトにおける情報管理リスクと対策の追加](https://github.com/team-mirai/policy/pull/1792) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 | #1810 | [テクノロジーで、就活を無くし、大学の授業に出られるようにする](https://github.com/team-mirai/policy/pull/1810) | idobata-policy-app[bot] | open | 2025-05-30 | 2025-05-30 |
 | #1812 | [履歴書がなくても、誰もが就職できる社会にする](https://github.com/team-mirai/policy/pull/1812) | idobata-policy-app[bot] | open | 2025-05-30 | 2025-05-30 |

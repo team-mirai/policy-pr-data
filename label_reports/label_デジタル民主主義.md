@@ -91,7 +91,7 @@
 | #1773 | [パブリックコメントにおける誤字修正（件→県）](https://github.com/team-mirai/policy/pull/1773) | idobata-policy-app[bot] | closed | 2025-05-28 | 2025-05-30 |
 | #1785 | [提案：デジタル化における透明性・説明責任・包摂性の強化](https://github.com/team-mirai/policy/pull/1785) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
 | #1797 | [Leaf提案：政府によるフェイク情報対策の推進](https://github.com/team-mirai/policy/pull/1797) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-29 |
-| #1800 | [「開かれた国会」の実現に向けた政策提言の追加（taisho提案）](https://github.com/team-mirai/policy/pull/1800) | idobata-policy-app[bot] | open | 2025-05-29 | 2025-05-31 |
+| #1800 | [「開かれた国会」の実現に向けた政策提言の追加（taisho提案）](https://github.com/team-mirai/policy/pull/1800) | idobata-policy-app[bot] | closed | 2025-05-29 | 2025-06-03 |
 | #1836 | [国会議員の国籍要件等に関する提案（りすく）](https://github.com/team-mirai/policy/pull/1836) | idobata-policy-app[bot] | open | 2025-05-31 | 2025-06-01 |
 | #1857 | [【国民の悲願✨️】国会本会議場にPC持ち込みの許可を！ 💻](https://github.com/team-mirai/policy/pull/1857) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
 | #1858 | [たーくまさんによる政策改善提案（香害対策、難病支援、SNS誹謗中傷対策）](https://github.com/team-mirai/policy/pull/1858) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
