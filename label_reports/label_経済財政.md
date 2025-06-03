@@ -109,14 +109,14 @@
 | #776 | [経済財政政策の強化：AIによる財務諸表透明化と自動仕分けの導入（たかぎぃさん提案）](https://github.com/team-mirai/policy/pull/776) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #784 | [【アマキ提案】医療費負担の見直しと持続可能な社会保障制度に関する項目追加](https://github.com/team-mirai/policy/pull/784) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #787 | [経済財政政策ベーシックサービス導入検討の提案 by yuta0218](https://github.com/team-mirai/policy/pull/787) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
-| #790 | [経済財政分野へのAI活用検討を追記し、日本の新たな発展を目指す提案](https://github.com/team-mirai/policy/pull/790) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
+| #790 | [経済財政分野へのAI活用検討を追記し、日本の新たな発展を目指す提案](https://github.com/team-mirai/policy/pull/790) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-03 |
 | #791 | [Mさんの提案：年少扶養控除廃止の影響を明記し、復活検討の記述を強化](https://github.com/team-mirai/policy/pull/791) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #794 | [のりぃ提案：ディープテック支援強化（税制優遇・Jカーブ理解促進）](https://github.com/team-mirai/policy/pull/794) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #799 | [税・社会保障制度における公平性向上のため生涯所得概念と貸付モデル導入を提案（新井俊一氏）](https://github.com/team-mirai/policy/pull/799) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #845 | [EBPM支援パッケージの具体策を財政ガバナンス強化に追加](https://github.com/team-mirai/policy/pull/845) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #874 | [政策改善提案（与那嶺信）：物価高対策として食料品への消費税恒久非課税化を提案](https://github.com/team-mirai/policy/pull/874) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-21 |
 | #897 | [税制の簡素化に関する提案：基礎控除178万円を軸に](https://github.com/team-mirai/policy/pull/897) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #912 | [経済財政：老朽化インフラ対策としてIT・AI・ロボット技術活用策を追加](https://github.com/team-mirai/policy/pull/912) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
+| #912 | [経済財政：老朽化インフラ対策としてIT・AI・ロボット技術活用策を追加](https://github.com/team-mirai/policy/pull/912) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-03 |
 | #920 | [財政支出に関する表現の明確化（与那嶺信さん提案）](https://github.com/team-mirai/policy/pull/920) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #922 | [インボイス制度 -年収1,000万円未満の免税事業者への支援の検討-](https://github.com/team-mirai/policy/pull/922) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-21 |
 | #958 | [マニフェストの目次に「社会保障」の項目を追加](https://github.com/team-mirai/policy/pull/958) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-21 |
@@ -127,9 +127,9 @@
 | #1053 | [経済財政分野：ベーシックインカム導入時期の前倒し提案（遠山健司）](https://github.com/team-mirai/policy/pull/1053) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1065 | [社会保障制度改革：年金制度の持続可能性と世代間公平性に関する議論の提起](https://github.com/team-mirai/policy/pull/1065) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-21 |
 | #1085 | [ajiyoshiさんによる「税・社会保障給付の最適化」に関する記述の改善提案](https://github.com/team-mirai/policy/pull/1085) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-21 |
-| #1088 | [介護現場の自動化に関する具体例を追加](https://github.com/team-mirai/policy/pull/1088) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
+| #1088 | [介護現場の自動化に関する具体例を追加](https://github.com/team-mirai/policy/pull/1088) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-06-03 |
 | #1093 | [政策ビジョンにデジタル円を活用した税制改革の推進を追加 (nkさん提案)](https://github.com/team-mirai/policy/pull/1093) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-21 |
-| #1102 | [M&A投資促進税制の追加による経済活性化策の提案](https://github.com/team-mirai/policy/pull/1102) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
+| #1102 | [M&A投資促進税制の追加による経済活性化策の提案](https://github.com/team-mirai/policy/pull/1102) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-06-03 |
 | #1104 | [物価高対策：税制簡素化（消費税・印紙税）と負担適正化の提案 by denfujita](https://github.com/team-mirai/policy/pull/1104) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-21 |
 | #1108 | [経済財政運営における"Elephant in the room"の具体例を追記 (30代ワーママ提案)](https://github.com/team-mirai/policy/pull/1108) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1111 | [denfujitaさんによる政策改善案（地方創生・税制改革・規制緩和・民事執行改革）](https://github.com/team-mirai/policy/pull/1111) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-21 |
@@ -138,7 +138,7 @@
 | #1175 | [経済財政：金融政策による失業率抑制策の追加（遠山健司さん提案）](https://github.com/team-mirai/policy/pull/1175) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1188 | [経済財政政策における危機対応減税策の具体化とAI成長財源の明記（源馬通之氏提案）](https://github.com/team-mirai/policy/pull/1188) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1210 | [財政政策に関する記述改善：G7比較の視点を追加](https://github.com/team-mirai/policy/pull/1210) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
-| #1214 | [じゃんさん提案：経済財政政策におけるサイバーセキュリティ対策の包括的強化](https://github.com/team-mirai/policy/pull/1214) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
+| #1214 | [じゃんさん提案：経済財政政策におけるサイバーセキュリティ対策の包括的強化](https://github.com/team-mirai/policy/pull/1214) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-06-03 |
 | #1220 | [Memeさん提案：税制方針の明確化と持続可能性の強調](https://github.com/team-mirai/policy/pull/1220) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1239 | [kenjiさんによるステップ1への経済財政項目の追加](https://github.com/team-mirai/policy/pull/1239) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-21 |
 | #1241 | [経済財政政策に富の再分配と実質的ベーシックインカムの検討を追記（こんにちはさん提案）](https://github.com/team-mirai/policy/pull/1241) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
@@ -146,9 +146,9 @@
 | #1253 | [taさんによる行政改革案の改善提案](https://github.com/team-mirai/policy/pull/1253) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-21 |
 | #1272 | [マニフェスト改善：省庁・自治体連携、財政透明化、新金融、献血者優遇、教育現場指導明確化、年金情報提供の検討課題追加](https://github.com/team-mirai/policy/pull/1272) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-21 |
 | #1284 | [さくまさん提案：税・社会保障一体改革に関する新規提案](https://github.com/team-mirai/policy/pull/1284) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-21 |
-| #1293 | [経済政策に「雇用の流動化による経済活性化」の項目を追加](https://github.com/team-mirai/policy/pull/1293) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-21 |
-| #1326 | [匿名ユーザーによる提案：外国資本による土地取得規制と税制に関する提起](https://github.com/team-mirai/policy/pull/1326) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-21 |
-| #1347 | [【wan提案】経済財政政策：インフレヘッジ及び国家資産多様化のためのビットコイン戦略備蓄検討の追加](https://github.com/team-mirai/policy/pull/1347) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
+| #1293 | [経済政策に「雇用の流動化による経済活性化」の項目を追加](https://github.com/team-mirai/policy/pull/1293) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-06-03 |
+| #1326 | [匿名ユーザーによる提案：外国資本による土地取得規制と税制に関する提起](https://github.com/team-mirai/policy/pull/1326) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-06-03 |
+| #1347 | [【wan提案】経済財政政策：インフレヘッジ及び国家資産多様化のためのビットコイン戦略備蓄検討の追加](https://github.com/team-mirai/policy/pull/1347) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-06-03 |
 | #1353 | [現金廃止と国家電子マネー（デジタル円）導入](https://github.com/team-mirai/policy/pull/1353) | tako0614 | open | 2025-05-20 | 2025-05-22 |
 | #1358 | [財政ガバナンスにおける情報公開の強化（シゲさん提案）](https://github.com/team-mirai/policy/pull/1358) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1372 | [経済財政分野におけるインボイス非導入事業者への還元セール義務付け提案（東京の狸さん）](https://github.com/team-mirai/policy/pull/1372) | idobata-policy-app[bot] | open | 2025-05-21 | 2025-05-21 |
@@ -158,21 +158,21 @@
 | #1471 | [経済財政ビジョンへ限定通貨（減価式）導入の提案（テストaさん）](https://github.com/team-mirai/policy/pull/1471) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1476 | [提案：経済社会の根本構造に関する問題提起と唯一の解決策である政府通貨発行](https://github.com/team-mirai/policy/pull/1476) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1498 | [医療政策における自己負担割合の適正化及び市販薬との価格差是正に関する提案](https://github.com/team-mirai/policy/pull/1498) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
-| #1499 | [匿名ユーザーによる経済財政政策への少子化対策追加提案](https://github.com/team-mirai/policy/pull/1499) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-29 |
+| #1499 | [匿名ユーザーによる経済財政政策への少子化対策追加提案](https://github.com/team-mirai/policy/pull/1499) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-06-03 |
 | #1501 | [新たな給付制度の導入検討に関する提案（遠山健司さんご提案）](https://github.com/team-mirai/policy/pull/1501) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1504 | [ビジョンに「最も困難な個人への焦点」と「マクロ・ミクロ両視点」を導入（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1504) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-25 |
 | #1506 | [ユーザー321によるベーシックインカムの項目追加提案](https://github.com/team-mirai/policy/pull/1506) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1522 | [経済財政：貯蓄から投資への流れを加速する税制改革案の追加（雨宮さん提案）](https://github.com/team-mirai/policy/pull/1522) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-23 |
 | #1527 | [医療費自己負担における公平性向上のための見直し提案 (R.O)](https://github.com/team-mirai/policy/pull/1527) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-23 |
 | #1529 | [政策マニフェストへの「社会保障」項目追加による網羅性向上](https://github.com/team-mirai/policy/pull/1529) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-23 |
-| #1539 | [最低賃金制度の見直しによる地域格差是正と働き方の多様化推進](https://github.com/team-mirai/policy/pull/1539) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-29 |
+| #1539 | [最低賃金制度の見直しによる地域格差是正と働き方の多様化推進](https://github.com/team-mirai/policy/pull/1539) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-06-03 |
 | #1542 | [matsumotoさんによる社会保障政策の追加提案](https://github.com/team-mirai/policy/pull/1542) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-23 |
 | #1553 | [物価高対策：電気・ガス料金補助の透明性向上](https://github.com/team-mirai/policy/pull/1553) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-27 |
 | #1557 | [税制と経済成長に関する国際的研究成果を経済財政政策へ反映する提案](https://github.com/team-mirai/policy/pull/1557) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-27 |
-| #1621 | [日本の現状と将来への危機感を明確化し、改革の必要性を訴えるためのセクション更新](https://github.com/team-mirai/policy/pull/1621) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-27 |
+| #1621 | [日本の現状と将来への危機感を明確化し、改革の必要性を訴えるためのセクション更新](https://github.com/team-mirai/policy/pull/1621) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-06-03 |
 | #1638 | [上島俳伽氏提案：世代会計導入と年金制度改革による世代間格差是正](https://github.com/team-mirai/policy/pull/1638) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-27 |
 | #1642 | [「世代間影響調査書の制度化」提案の追加と項目整理](https://github.com/team-mirai/policy/pull/1642) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-31 |
-| #1649 | [経済財政：国産デジタルツールへの戦略的移行によるデジタル赤字対策と安全保障強化](https://github.com/team-mirai/policy/pull/1649) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-29 |
+| #1649 | [経済財政：国産デジタルツールへの戦略的移行によるデジタル赤字対策と安全保障強化](https://github.com/team-mirai/policy/pull/1649) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-06-03 |
 | #1651 | [【まさ提案】給付システム：負の所得税導入とブロードリスニング活用検討の追記](https://github.com/team-mirai/policy/pull/1651) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-27 |
 | #1684 | [氷河期世代への社会保障充実を盛り込む変更案 by snow](https://github.com/team-mirai/policy/pull/1684) | idobata-policy-app[bot] | open | 2025-05-26 | 2025-05-29 |
 | #1686 | [README.md：金融所得税の累進性強化に関する検討の追記](https://github.com/team-mirai/policy/pull/1686) | idobata-policy-app[bot] | open | 2025-05-26 | 2025-05-27 |
@@ -186,7 +186,7 @@
 | #1757 | [【生涯所得課税の提案】たしさんより、経済財政分野への新たな税制案](https://github.com/team-mirai/policy/pull/1757) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-30 |
 | #1771 | [目次に「社会保障制度」の項目を追加](https://github.com/team-mirai/policy/pull/1771) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-30 |
 | #1776 | [経済財政政策へのデジタル地域通貨・BI実験特区構想の追加（ショウ提案）](https://github.com/team-mirai/policy/pull/1776) | idobata-policy-app[bot] | open | 2025-05-28 | 2025-05-29 |
-| #1825 | [【しろなさん提案】「３．経済財政」に新しい資本主義を見据えた「所得と働き方の改革」に関する項目を追加 (v2)](https://github.com/team-mirai/policy/pull/1825) | idobata-policy-app[bot] | open | 2025-05-30 | 2025-05-31 |
+| #1825 | [【しろなさん提案】「３．経済財政」に新しい資本主義を見据えた「所得と働き方の改革」に関する項目を追加 (v2)](https://github.com/team-mirai/policy/pull/1825) | idobata-policy-app[bot] | open | 2025-05-30 | 2025-06-03 |
 | #1841 | [総合的な社会保障改革案「みんなで築く 未来への安心社会保障プラン」を追加](https://github.com/team-mirai/policy/pull/1841) | idobata-policy-app[bot] | open | 2025-05-31 | 2025-06-01 |
 | #1882 | [AGIシナリオ：生産性向上に伴う労働時間短縮とその効果を明記](https://github.com/team-mirai/policy/pull/1882) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
 | #1883 | [国民参加型投資（クラウドファンディング）の導入による経済活性化策の提案](https://github.com/team-mirai/policy/pull/1883) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |

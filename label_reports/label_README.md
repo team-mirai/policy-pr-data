@@ -187,7 +187,7 @@
 | #1287 | [AI戦略を国家存立技術と位置づけ、予算を伴う三位一体の国家戦略を提案 by t.a.](https://github.com/team-mirai/policy/pull/1287) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1288 | [提案：多様な生き方の尊重と社会参加の促進に関する新規項目追加](https://github.com/team-mirai/policy/pull/1288) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1291 | [AI活用における透明性向上のためXAI導入を明記](https://github.com/team-mirai/policy/pull/1291) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
-| #1293 | [経済政策に「雇用の流動化による経済活性化」の項目を追加](https://github.com/team-mirai/policy/pull/1293) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-21 |
+| #1293 | [経済政策に「雇用の流動化による経済活性化」の項目を追加](https://github.com/team-mirai/policy/pull/1293) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-06-03 |
 | #1296 | [Cakeさんによる政策への冷凍食品輸出戦略の追加提案](https://github.com/team-mirai/policy/pull/1296) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1298 | [地方選挙の効率化に関する提案](https://github.com/team-mirai/policy/pull/1298) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1299 | [チームみらい マニフェスト改善提案：「国家安全保障と情報防衛（スパイ活動対策）」の項目新設（かあさん提案）](https://github.com/team-mirai/policy/pull/1299) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
@@ -203,7 +203,7 @@
 | #1319 | [モーさんによる「死に至るまでの意思とシステム構想」の追加提案](https://github.com/team-mirai/policy/pull/1319) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1321 | [しどにーさんによるREADME目次の更新提案：税金と社会の仕組みの追加](https://github.com/team-mirai/policy/pull/1321) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1325 | [安全保障に関する項目追加の提案（ふうさんより）](https://github.com/team-mirai/policy/pull/1325) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
-| #1326 | [匿名ユーザーによる提案：外国資本による土地取得規制と税制に関する提起](https://github.com/team-mirai/policy/pull/1326) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-21 |
+| #1326 | [匿名ユーザーによる提案：外国資本による土地取得規制と税制に関する提起](https://github.com/team-mirai/policy/pull/1326) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-06-03 |
 | #1327 | [README強化：長谷晃広氏提案の教育改革テーマ追記](https://github.com/team-mirai/policy/pull/1327) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1329 | [せさんによるAI医療改革案の追加](https://github.com/team-mirai/policy/pull/1329) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1330 | [代理母出産に関する検討課題の追記（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1330) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
