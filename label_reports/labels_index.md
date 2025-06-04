@@ -15,5 +15,5 @@
 | [産業政策](label_産業政策.md) | 81 |
 | [科学技術](label_科学技術.md) | 64 |
 | [エネルギー](label_エネルギー.md) | 54 |
-| [thankyou](label_thankyou.md) | 31 |
+| [thankyou](label_thankyou.md) | 32 |
 | [[システム]](label_[システム].md) | 2 |

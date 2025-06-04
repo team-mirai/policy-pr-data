@@ -45,7 +45,7 @@
 | #491 | [政策案改善：国会審議オープン化に関する具体策の明確化と拡充 by おさしみ](https://github.com/team-mirai/policy/pull/491) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #512 | [匿名ユーザー提案: 「誰も取り残さない」ビジョンの明確化](https://github.com/team-mirai/policy/pull/512) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #517 | [いがいがさん提案：高齢者等のデジタル活用支援に関する項目追加](https://github.com/team-mirai/policy/pull/517) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #519 | [Polimoneyの機能強化による政治資金の透明性向上](https://github.com/team-mirai/policy/pull/519) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #519 | [Polimoneyの機能強化による政治資金の透明性向上](https://github.com/team-mirai/policy/pull/519) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-06-04 |
 | #550 | [匿名ユーザーによる選挙IT化に関する提案の反映](https://github.com/team-mirai/policy/pull/550) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #559 | [まずは自ら](https://github.com/team-mirai/policy/pull/559) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #563 | [README.mdのデジタル民主主義の項目名更新（五月女亮さん提案）](https://github.com/team-mirai/policy/pull/563) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
