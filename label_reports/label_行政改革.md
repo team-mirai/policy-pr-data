@@ -72,7 +72,7 @@
 | #610 | [xさんによる行政サービス改善提案：補助金自動支払いとマイナンバーカード受取場所柔軟化](https://github.com/team-mirai/policy/pull/610) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-05-27 |
 | #620 | [行政手続きの利便性向上と自動化に関する改善提案（ぱとらさんの意見より）](https://github.com/team-mirai/policy/pull/620) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-05-27 |
 | #652 | [公共調達におけるオープンソースソフトウェア（OSS）の公開範囲の明確化（hhh氏提案）](https://github.com/team-mirai/policy/pull/652) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #656 | [行政のDX推進における自治体間の格差解消策を追加](https://github.com/team-mirai/policy/pull/656) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-25 |
+| #656 | [行政のDX推進における自治体間の格差解消策を追加](https://github.com/team-mirai/policy/pull/656) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-04 |
 | #659 | [電子投票における投票済み証明書のデジタル化提案](https://github.com/team-mirai/policy/pull/659) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #661 | [行政手続きのDX推進：補助金申請の簡略化とプッシュ型通知・給付の実現](https://github.com/team-mirai/policy/pull/661) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-05-27 |
 | #669 | [行政改革案の改善提案（きんしさん）](https://github.com/team-mirai/policy/pull/669) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
