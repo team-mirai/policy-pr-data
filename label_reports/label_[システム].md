@@ -1,6 +1,6 @@
 # ラベル「[システム]」のPull Request一覧
 
-合計: 2件のPR
+合計: 3件のPR
 
 ## PR一覧
 
@@ -8,6 +8,7 @@
 |---|---------|--------|------|--------|--------|
 | #1280 | [Add @yasuakikamoeka as code owner for education files](https://github.com/team-mirai/policy/pull/1280) | devin-ai-integration[bot] | closed | 2025-05-20 | 2025-05-20 |
 | #1281 | [Add @i-tami-h as code owner for 50_国政のその他重要分野.md](https://github.com/team-mirai/policy/pull/1281) | devin-ai-integration[bot] | closed | 2025-05-20 | 2025-05-20 |
+| #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | open | 2025-06-05 | 2025-06-05 |
 
 ## PR詳細
 
@@ -52,6 +53,21 @@ Requested by: jujunjun110@gmail.com
 #### 変更ファイル
 
 - .github/CODEOWNERS
+
+---
+
+### #1964: Add files via upload　ステップ２デジタル民主主義を追加
+
+#### 説明
+
+v0.1時点で盛り込みが間に合わなかった部分について、公開しご意見をいただける段階まで来たので追加いたします
+
+#### 変更ファイル
+
+- .github/.linkspector.yml
+- 15_ステップ１科学技術.md
+- 22_ステップ２行政改革.md
+- 25_ステップ２_デジタル民主主義.md
 
 ---
 
