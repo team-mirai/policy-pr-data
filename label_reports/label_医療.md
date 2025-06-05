@@ -66,7 +66,7 @@
 | #1517 | [医療政策における誤情報対策の強化に関する提案](https://github.com/team-mirai/policy/pull/1517) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-29 |
 | #1519 | [医療政策の課題分析における参考文献明記のお願い](https://github.com/team-mirai/policy/pull/1519) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-29 |
 | #1520 | [医療政策ビジョンの文章表現の改善提案（みやこしさん提案）](https://github.com/team-mirai/policy/pull/1520) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-29 |
-| #1526 | [終末期医療における自己決定権の尊重とケア費用に関する提案](https://github.com/team-mirai/policy/pull/1526) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-29 |
+| #1526 | [終末期医療における自己決定権の尊重とケア費用に関する提案](https://github.com/team-mirai/policy/pull/1526) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-06-05 |
 | #1534 | [薬価制度に関する課題認識と政策への反映 by むん](https://github.com/team-mirai/policy/pull/1534) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-29 |
 | #1544 | [匿名希望M氏提案：医療アウトカム評価における患者背景の多様性に関する懸念点の追記](https://github.com/team-mirai/policy/pull/1544) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-29 |
 | #1545 | [医療政策の改善提案：自己負担の配慮と成果評価の拡充 by 匿名ユーザー](https://github.com/team-mirai/policy/pull/1545) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-29 |
