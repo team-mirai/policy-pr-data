@@ -19,7 +19,7 @@
 | #771 | [社会全体のAIリテラシー向上を目指した教育政策の拡充提案（kazyasuさんより）](https://github.com/team-mirai/policy/pull/771) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-30 |
 | #779 | [のりぃさん提案：プライバシー保護技術の明記による政策の具体化](https://github.com/team-mirai/policy/pull/779) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-05-30 |
 | #815 | [教育：子どもたちの情報アクセス権保障とリテラシー向上のための提案](https://github.com/team-mirai/policy/pull/815) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-29 |
-| #850 | [研究資金調達の多様化と民間からの寄付促進による研究環境改善](https://github.com/team-mirai/policy/pull/850) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-01 |
+| #850 | [研究資金調達の多様化と民間からの寄付促進による研究環境改善](https://github.com/team-mirai/policy/pull/850) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-06-05 |
 | #870 | [AI教育の全国展開における公平性と実現可能性を高めるためのマニフェスト改訂](https://github.com/team-mirai/policy/pull/870) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-02 |
 | #935 | [高齢者向けIT支援の充実による「迷わせない行政」の推進](https://github.com/team-mirai/policy/pull/935) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-05-27 |
 | #944 | [誤字修正：「100県あたり」を「100件あたり」に修正 (kenji指摘)](https://github.com/team-mirai/policy/pull/944) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-05-30 |
