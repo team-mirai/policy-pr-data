@@ -49,7 +49,7 @@
 | #809 | [AIの倫理的利用と安全確保に関する政策の追加 by bob](https://github.com/team-mirai/policy/pull/809) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #810 | [【さとぷぅさん提案】マニフェストに「皇室のあり方」の項目追加](https://github.com/team-mirai/policy/pull/810) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #812 | [匿名ユーザーによる提案：「国政政党成立後100日プラン」にAIによる進捗自動開示の仕組みを明記](https://github.com/team-mirai/policy/pull/812) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #816 | [「チームみらいについて」に反科学的見解を持つ人物を許容しない方針を明記](https://github.com/team-mirai/policy/pull/816) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-05 |
+| #816 | [「チームみらいについて」に反科学的見解を持つ人物を許容しない方針を明記](https://github.com/team-mirai/policy/pull/816) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-06 |
 | #817 | [目次への「入試制度改革（仮）」項目追加による高校教育の改善提案](https://github.com/team-mirai/policy/pull/817) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #820 | [インフラ整備の項目追加とメンテナンス重視の提案](https://github.com/team-mirai/policy/pull/820) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #821 | [「海底資源開発の推進」に関する項目を追加](https://github.com/team-mirai/policy/pull/821) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
