@@ -71,7 +71,7 @@
 | #1873 | [Update 33_ステップ３科学技術.md](https://github.com/team-mirai/policy/pull/1873) | yasuakikamoeka | open | 2025-06-01 | 2025-06-01 |
 | #1875 | [Update 33_ステップ３科学技術.md](https://github.com/team-mirai/policy/pull/1875) | yasuakikamoeka | closed | 2025-06-01 | 2025-06-05 |
 | #1931 | [AIの社会的影響に関する考察を追記](https://github.com/team-mirai/policy/pull/1931) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-04 |
-| #1940 | [科学技術政策の抜本的見直し：「選択と集中」政策の課題分析と研究多様性重視への転換、EBPM徹底とガバナンス体制強化を含む包括的改訂](https://github.com/team-mirai/policy/pull/1940) | itoma-aikon | open | 2025-06-04 | 2025-06-05 |
+| #1940 | [科学技術政策の抜本的見直し：「選択と集中」政策の課題分析と研究多様性重視への転換、EBPM徹底とガバナンス体制強化を含む包括的改訂](https://github.com/team-mirai/policy/pull/1940) | itoma-aikon | open | 2025-06-04 | 2025-06-06 |
 | #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | open | 2025-06-05 | 2025-06-06 |
 
 ## PR詳細
@@ -2345,9 +2345,10 @@ matsumotoさんの提案に基づき、政策「３．科学技術」の「３�
 **政策の具体化**:
 - 企業による博士人材採用促進の税制優遇措置
 - ポスドクの労働者としての身分明文化
-- 修士論文提出・評価の12月完了制度
+- 修士課程学生の研究環境整備：大学の学事暦編成支援と企業の採用選考自主規律確立への要請、実効性確保のための継続的協議、必要に応じた法的措置の検討
 - 博士課程授業料の実質的無償化
-- ダイバーシティ&インクルージョン推進
+- 大学の自主性を尊重したダイバーシティ&インクルージョン推進支援
+
 
 ### 4. 第3項「ディープテック」の強化（元の第3項を継承・強化）
 - SBIRの機能不全問題を明記
