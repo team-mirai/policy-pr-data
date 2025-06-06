@@ -8,7 +8,7 @@
 |---|---------|--------|------|--------|--------|
 | #1280 | [Add @yasuakikamoeka as code owner for education files](https://github.com/team-mirai/policy/pull/1280) | devin-ai-integration[bot] | closed | 2025-05-20 | 2025-05-20 |
 | #1281 | [Add @i-tami-h as code owner for 50_国政のその他重要分野.md](https://github.com/team-mirai/policy/pull/1281) | devin-ai-integration[bot] | closed | 2025-05-20 | 2025-05-20 |
-| #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | open | 2025-06-05 | 2025-06-05 |
+| #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | open | 2025-06-05 | 2025-06-06 |
 
 ## PR詳細
 

@@ -186,7 +186,7 @@
 | #1947 | [税の一部使い道選択制度の導入検討](https://github.com/team-mirai/policy/pull/1947) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #1948 | [包括的インクルーシブシステムの構想の反映による行政サービス改善提案](https://github.com/team-mirai/policy/pull/1948) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #1955 | [公共調達における利益相反防止策の追加](https://github.com/team-mirai/policy/pull/1955) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
-| #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | open | 2025-06-05 | 2025-06-05 |
+| #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | open | 2025-06-05 | 2025-06-06 |
 | #1965 | [行政文書の透明性向上：積極的な情報公開とアクセス改善を提案 by フィリア](https://github.com/team-mirai/policy/pull/1965) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 
 ## PR詳細
