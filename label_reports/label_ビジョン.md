@@ -101,7 +101,7 @@
 | #1986 | [チームみらい自身の情報公開・説明責任に関する姿勢を明記](https://github.com/team-mirai/policy/pull/1986) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-06 |
 | #2006 | [政策文書冒頭に、チームみらいの基本姿勢と覚悟を明確化する加筆](https://github.com/team-mirai/policy/pull/2006) | idobata-policy-app[bot] | open | 2025-06-06 | 2025-06-07 |
 | #2013 | [政策決定プロセスの透明性と国民対話を強調する改訂](https://github.com/team-mirai/policy/pull/2013) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
-| #2014 | [しろなさん提案：価値観の理解を通じた支援と犯罪抑止の理念導入](https://github.com/team-mirai/policy/pull/2014) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
+| #2014 | [しろなさん提案：価値観の理解を通じた支援と犯罪抑止の理念導入](https://github.com/team-mirai/policy/pull/2014) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-08 |
 | #2015 | [しろなさんによる政策改善提案：AI添削を活用した文書構造と表現の最適化](https://github.com/team-mirai/policy/pull/2015) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2016 | [党議拘束外の法案対応プロセスの明確化](https://github.com/team-mirai/policy/pull/2016) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2018 | [国の成長戦略に関する記述の明確化：技術革新の重要性を強調](https://github.com/team-mirai/policy/pull/2018) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
