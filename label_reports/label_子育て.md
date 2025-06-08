@@ -62,7 +62,7 @@
 | #416 | [かーなさんによる子育て支援政策の改善提案（不妊治療支援強化、産科医療機関への財政支援、デジタル母子パスポート機能拡充など）](https://github.com/team-mirai/policy/pull/416) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #418 | [都市部の民間賃貸住宅の問題についての提起](https://github.com/team-mirai/policy/pull/418) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #419 | [結婚・子育て支援策の強化：税制優遇と若年層支援、多様な家族形態の尊重](https://github.com/team-mirai/policy/pull/419) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #442 | [公立保育所における使用済みおむつの持ち帰り不要化について（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/442) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #442 | [公立保育所における使用済みおむつの持ち帰り不要化について（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/442) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-08 |
 | #444 | [【たつよし提案】デジタル母子パスポート: 家族間共有とセキュリティ強化](https://github.com/team-mirai/policy/pull/444) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-06-01 |
 | #445 | [【Lilyさん提案】ベビーシッター助成制度の拡充による育児セーフティーネット強化](https://github.com/team-mirai/policy/pull/445) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #458 | [宮本さんによる子育て政策（保育事務アウトソース）の改善提案](https://github.com/team-mirai/policy/pull/458) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
