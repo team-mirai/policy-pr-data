@@ -1,6 +1,6 @@
 # ラベル「ラベルなし」のPull Request一覧
 
-合計: 176件のPR
+合計: 178件のPR
 
 ## PR一覧
 
@@ -182,6 +182,8 @@
 | #2053 | [皇位継承に関する国民的議論の促進とデジタル技術活用を提案](https://github.com/team-mirai/policy/pull/2053) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |
 | #2054 | [選挙ポスター掲示板の最適化による選挙の健全化提案（大仏さん）](https://github.com/team-mirai/policy/pull/2054) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |
 | #2055 | [選挙制度改革：区割り問題と供託金制度の見直しによる民意反映の強化 by 大仏](https://github.com/team-mirai/policy/pull/2055) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |
+| #2056 | [Feature/tiny diff for notification test2](https://github.com/team-mirai/policy/pull/2056) | jujunjun110 | closed | 2025-06-08 | 2025-06-08 |
+| #2057 | [Update: tiny diff](https://github.com/team-mirai/policy/pull/2057) | jujunjun110 | closed | 2025-06-08 | 2025-06-08 |
 
 ## PR詳細
 
@@ -6220,6 +6222,26 @@ Requested by: jujunjun110@gmail.com
 #### 変更ファイル
 
 - 22_ステップ２行政改革.md
+
+---
+
+### #2056: Feature/tiny diff for notification test2
+
+#### 変更ファイル
+
+- .meta/target_file_rule.txt
+
+---
+
+### #2057: Update: tiny diff
+
+#### 説明
+
+通知テスト用の差分です。政策とは関係ありません。
+
+#### 変更ファイル
+
+- .meta/target_file_rule.txt
 
 ---
 
