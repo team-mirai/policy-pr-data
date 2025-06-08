@@ -1,6 +1,6 @@
 # ラベル「ラベルなし」のPull Request一覧
 
-合計: 166件のPR
+合計: 169件のPR
 
 ## PR一覧
 
@@ -172,6 +172,9 @@
 | #2043 | [行政改革案：永田町へのエンジニアチーム設置と役割の明確化（はた たかひろ提案）](https://github.com/team-mirai/policy/pull/2043) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |
 | #2044 | [Update 60_改善提案の反映方針.md](https://github.com/team-mirai/policy/pull/2044) | tokshibata | open | 2025-06-08 | 2025-06-08 |
 | #2045 | [香害対策の新規項目追加と基本方針の策定（真野ゆう提案）](https://github.com/team-mirai/policy/pull/2045) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |
+| #2046 | [Add Slack notification workflow for PR merges](https://github.com/team-mirai/policy/pull/2046) | devin-ai-integration[bot] | closed | 2025-06-08 | 2025-06-08 |
+| #2047 | [Update: 追加したgithub action を試すための小さな差分。](https://github.com/team-mirai/policy/pull/2047) | jujunjun110 | closed | 2025-06-08 | 2025-06-08 |
+| #2048 | [Update: 通知テストのための小さい差分](https://github.com/team-mirai/policy/pull/2048) | jujunjun110 | closed | 2025-06-08 | 2025-06-08 |
 
 ## PR詳細
 
@@ -5907,6 +5910,62 @@ thankyouラベルやコメント欄への参照PRリンク追加について表�
 
 - 60_香害対策.md
 - README.md
+
+---
+
+### #2046: Add Slack notification workflow for PR merges
+
+#### 説明
+
+# Add Slack notification workflow for PR merges
+
+This PR adds a new GitHub Actions workflow that sends Slack notifications when PRs are merged to the main branch.
+
+## Features
+- Triggers only on PR merge events (not just close)
+- Uses `SLACK_WEBHOOK_URL_01` environment variable for webhook URL
+- Sends Japanese message with:
+  - Celebration emoji and text
+  - PR title as clickable link
+  - Proposer (PR author) username
+  - Merger username
+
+## Testing
+This workflow can only be fully tested when an actual PR is merged. The YAML syntax has been verified against existing workflow patterns.
+
+## Implementation Details
+- Uses `pull_request` event with `types: [closed]` and condition `github.event.pull_request.merged == true`
+- Follows existing workflow conventions (ubuntu-24.04, proper naming)
+- Uses curl to send POST request to Slack webhook with JSON payload
+
+Link to Devin run: https://app.devin.ai/sessions/6e09f47a69af480dad754a47f2177a68
+Requested by: jujunjun110@gmail.com
+
+
+#### 変更ファイル
+
+- .github/workflows/slack-notification-on-merge.yml
+
+---
+
+### #2047: Update: 追加したgithub action を試すための小さな差分。
+
+#### 変更ファイル
+
+- .meta/target_file_rule.txt
+
+---
+
+### #2048: Update: 通知テストのための小さい差分
+
+#### 説明
+
+通知テストのための差分です。
+政策には関係ありません。
+
+#### 変更ファイル
+
+- .meta/target_file_rule.txt
 
 ---
 
