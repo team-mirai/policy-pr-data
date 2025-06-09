@@ -57,7 +57,7 @@
 | #1223 | [サイバーセキュリティに関する記述の更新（ti）](https://github.com/team-mirai/policy/pull/1223) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1337 | [研究環境改善と研究費執行効率化のための政策修正提案（Junさんより）](https://github.com/team-mirai/policy/pull/1337) | idobata-policy-app[bot] | closed | 2025-05-20 | 2025-06-01 |
 | #1352 | [研究支援員の無期転換ルールに関する課題を追記](https://github.com/team-mirai/policy/pull/1352) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
-| #1389 | [ビジョンの記述方法を改善](https://github.com/team-mirai/policy/pull/1389) | idobata-policy-app[bot] | open | 2025-05-21 | 2025-05-22 |
+| #1389 | [ビジョンの記述方法を改善](https://github.com/team-mirai/policy/pull/1389) | idobata-policy-app[bot] | closed | 2025-05-21 | 2025-06-09 |
 | #1400 | [花粉症対策研究の推進に関する提案](https://github.com/team-mirai/policy/pull/1400) | idobata-policy-app[bot] | open | 2025-05-21 | 2025-05-22 |
 | #1468 | [研究支援体制の強化：専門サポート人材の育成とキャリアパス整備の提案](https://github.com/team-mirai/policy/pull/1468) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-06-09 |
 | #1472 | [ababa831さんによる科学技術政策へのキャッチフレーズ追加と可読性向上提案](https://github.com/team-mirai/policy/pull/1472) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
