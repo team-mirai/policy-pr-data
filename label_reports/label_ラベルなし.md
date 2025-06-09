@@ -1,6 +1,6 @@
 # ラベル「ラベルなし」のPull Request一覧
 
-合計: 171件のPR
+合計: 174件のPR
 
 ## PR一覧
 
@@ -177,6 +177,9 @@
 | #2081 | [行政の構造的腐敗撲滅と国民への奉仕実現のための抜本的改革案（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/2081) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
 | #2082 | [匿名ユーザーによる産業政策改善案：現状課題の明確化と支援制度の透明性向上](https://github.com/team-mirai/policy/pull/2082) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
 | #2083 | [Slack通知フォーマットの改善: 太字タイトルと箇条書き表示](https://github.com/team-mirai/policy/pull/2083) | devin-ai-integration[bot] | closed | 2025-06-09 | 2025-06-09 |
+| #2084 | [Enhance Slack notifications for all PR closure scenarios](https://github.com/team-mirai/policy/pull/2084) | devin-ai-integration[bot] | closed | 2025-06-09 | 2025-06-09 |
+| #2085 | [会社員の通院困難な現状を課題として明確化](https://github.com/team-mirai/policy/pull/2085) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
+| #2086 | [【匿名ユーザー提案】農家個別所得補償制度の新設と食料安全保障に関する提案](https://github.com/team-mirai/policy/pull/2086) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
 
 ## PR詳細
 
@@ -5958,6 +5961,165 @@ Requested by: jujunjun110@gmail.com
 #### 変更ファイル
 
 - .github/workflows/slack-notification-on-merge.yml
+
+---
+
+### #2084: Enhance Slack notifications for all PR closure scenarios
+
+#### 説明
+
+# Enhanced Slack Notifications for All PR Closure Scenarios
+
+## Overview
+This PR enhances the existing Slack notification workflow to handle all PR closure scenarios, not just merged PRs. The workflow now sends appropriate notifications for 3 different cases with distinct messages and emojis.
+
+## Changes Made
+
+### 1. Workflow Trigger Enhancement
+- Removed the job-level merge condition (`if: github.event.pull_request.merged == true`)
+- Now processes all PR closure events and determines the appropriate notification based on merge status and labels
+
+### 2. Three Notification Scenarios
+
+#### ① PR Merged (Success)
+```
+政策提案がマニフェストに取り込まれました:tada:
+
+[PRのタイトル](PRのリンク) ←太字
+* 提案者: PRを出したgithub user名
+* 対応者: PRをマージしたgithub user名
+* 変更ファイル: ファイル1.md, ファイル2.md, ファイル3.md
+* ラベル: ラベル1, ラベル2, ラベル3
+```
+
+#### ② PR Closed with "thankyou" Label
+```
+政策提案がThank You付きでクローズされました:white_check_mark:
+
+[PRのタイトル](PRのリンク) ←太字
+* 提案者: PRを出したgithub user名
+* 対応者: PRをクローズしたgithub user名
+* 変更ファイル: ファイル1.md, ファイル2.md, ファイル3.md
+* ラベル: ラベル1, ラベル2, ラベル3
+```
+
+#### ③ PR Closed without "thankyou" Label
+```
+政策提案がクローズされました:octagonal_sign:
+
+[PRのタイトル](PRのリンク) ←太字
+* 提案者: PRを出したgithub user名
+* 対応者: PRをクローズしたgithub user名
+* 変更ファイル: ファイル1.md, ファイル2.md, ファイル3.md
+* ラベル: ラベル1, ラベル2, ラベル3
+```
+
+### 3. Technical Implementation
+- **Label Detection**: Added `has_thankyou` output using `jq -r '.labels | map(.name) | contains(["thankyou"])'`
+- **Conditional Logic**: Three separate notification steps with appropriate `if` conditions
+- **Handler Field**: Uses `github.event.pull_request.merged_by.login` for merged PRs and `github.actor` for closed PRs
+- **Message Formatting**: All scenarios include PR title in bold Slack markdown format
+
+### 4. Workflow File Changes
+- **Name**: Updated from "Slack Notification on PR Merge" to "Slack Notification on PR Close"
+- **Structure**: Single job with 4 steps (1 data gathering + 3 conditional notifications)
+- **API Calls**: Enhanced to extract both label list and thankyou label presence
+
+## Testing Considerations
+This workflow will trigger on all PR closures in the main branch. The conditional logic ensures only one notification is sent per PR closure event based on the merge status and label presence.
+
+## Related Documentation
+This enhancement aligns with the policy improvement process described in `60_改善提案の反映方針.md`, where "thankyou" labels are used to acknowledge proposals that were incorporated into new team-created PRs.
+
+---
+
+Link to Devin run: https://app.devin.ai/sessions/07184a5d457849ac835e70bb7e0ace0d
+Requested by: jujunjun110@gmail.com
+
+
+#### 変更ファイル
+
+- .github/workflows/slack-notification-on-merge.yml
+
+---
+
+### #2085: 会社員の通院困難な現状を課題として明確化
+
+#### 説明
+
+匿名ユーザーさんによる改善提案です。
+
+今回の変更は、政策文書「8．医療」の「1）オンライン診療 / 処方受け取り方法を充実し、通院のない通院を実現」における「現状認識・課題分析」部分に対して行われました。
+
+**改善点:**
+現行の政策文書では、オンライン診療の普及に焦点が当てられていますが、それ以前の根本的な課題として、多くのクリニックが平日の日中や土曜午前といった限られた時間にしか開院していない現状があります。このため、日中に仕事を持つ会社員など多くの方々が、体調が悪くても医療機関を受診すること自体に困難を感じているという実態があります。この重要な課題認識を明確にするため、「現状認識・課題分析」の冒頭に「多くのクリニックの開業時間は、平日の日中や土曜日の午前中に集中しており、日中に仕事をしている会社員などにとっては、通院のハードルが高い状況です。」という一文を追加しました。
+
+**改善の意図・目的:**
+この改善の主な目的は、医療アクセスの問題を多角的に捉え、政策全体の説得力を高めることです。オンライン診療は確かに有効な手段の一つですが、それだけでは解決できない物理的なアクセスの問題が存在します。この点を明記することで、今後の政策議論において、診療時間の柔軟化や、企業・地域社会と連携した新たな医療提供体制の検討など、より幅広い視点からの解決策が模索されることを期待しています。
+会社員をはじめとする勤労者層が、必要な時に気兼ねなく医療サービスを受けられる環境を整備することは、個人の健康増進はもちろんのこと、社会全体の生産性維持・向上にも繋がります。今回の課題提起が、そうしたより良い医療環境実現のための一助となることを目指しています。
+
+**背景:**
+この提案は、匿名ユーザーさんとの議論の中で、「オンライン診療を進める前に、そもそも会社員が利用しにくい現在の診療時間に問題があるのではないか」という貴重なご指摘をいただいたことを発端としています。現行の政策文書が、より多くの国民のニーズに応え、実効性のあるものとなるためには、こうした現場の声や実感を的確に反映することが不可欠であると考え、今回の変更に至りました。
+
+この提案が、より実用的で包括的な医療政策の実現に貢献することを願っています。
+
+#### 変更ファイル
+
+- 17_ステップ１医療.md
+
+---
+
+### #2086: 【匿名ユーザー提案】農家個別所得補償制度の新設と食料安全保障に関する提案
+
+#### 説明
+
+匿名ユーザーさんより、日本の食料安全保障の強化と持続可能な農業の確立を目指すための具体的な政策として「農家個別所得補償制度」の導入提案がありました。この提案は、現在のマニフェストにおける農業政策および食料安全保障に関する記述を補強し、より具体的な行動計画を示すことを目的としています。
+
+**提案の背景**
+
+日本の農業は、高齢化、後継者不足、耕作放棄地の増加、気候変動による作物の不安定化、国際的な価格競争など、多くの構造的な課題を抱えています。これらの課題は、国内の食料自給率の低下を招き、将来的な食料安全保障に対する懸念を高めています。このような背景から、農業従事者が安心して経営に取り組める環境を整備し、国内の食料生産基盤を維持・強化することが喫緊の課題であるとの認識に基づき、本提案がなされました。
+特に、市場価格の変動や自然災害等による農業経営のリスクを軽減し、農業所得の安定化を図ることが、新規就農者の促進や既存農家の離農防止に不可欠であると考えられています。
+
+**提案された主な変更点**
+
+1.  **「農家個別所得補償制度」の新規項目追加:**
+    「50_国政のその他重要分野.md」ファイルに、新たに「農家個別所得補償制度: 安定した農業経営と食料安全保障の確立」という項目を追加しました。ここには、制度の基本的な考え方、目的、具体的な仕組み、実施に向けたステップ、そして期待される効果が詳細に記述されています。
+
+2.  **制度の目的の明確化:**
+    本制度の導入目的として、以下の4点が明確に示されています。
+    *   農業所得の安定化：農業経営のリスクを軽減し、安定した収入を確保する。
+    *   食料自給率の向上：国内生産を奨励し、食料自給率の向上に貢献する。
+    *   地域経済の活性化：農村地域の所得向上を通じて、地域経済を活性化させる。
+    *   環境保全型農業の推進：安定した経営基盤の上で、持続可能な農業への移行を促す。
+
+3.  **制度の骨子の具体化:**
+    制度の具体的な仕組みとして、以下の内容が盛り込まれています。
+    *   対象者：主たる農業所得を得ている全農家。
+    *   所得基準の設定：過去の平均所得や生産コストを考慮した基準所得を設定。
+    *   補填額の算出：基準所得と実際の所得の差額を補填。
+    *   財源：国の一般会計予算及び特別会計の創設検討。
+    *   スマート農業導入支援：IoT、AI、ロボティクス技術の活用を奨励し、生産性向上、省力化、コスト削減を支援する。
+
+4.  **実施計画の提示:**
+    段階的な実施計画として、以下のステップと期間が設定されました。
+    *   詳細設計と法整備：2025年～2030年
+    *   実証事業の実施：2025年～2030年
+    *   全国展開：2030年～
+
+5.  **期待される効果:**
+    本制度の導入により期待される効果として、農業経営の安定化、新規就農者の増加、食料自給率の向上、地域経済の活性化、環境保全型農業への転換促進などが挙げられています。
+
+**議論の経緯**
+
+当初、匿名ユーザーさんからは「農家個別保証」というキーワードでご提案がありました。その後、マニフェストに「安全保障」の視点が不足しているのではというご意見があり、特に「食料安全保障」に焦点を当てることで議論が深まりました。その中で、「農家個別所得補償制度」を食料安全保障を実現するための具体的な政策として位置づけることになりました。さらに、農業の生産性向上と持続可能性を高める観点から、IoT、AI、ロボティクスといった先端技術の活用支援を制度の骨子に加える提案があり、これも反映されています。
+
+この提案は、チームみらいのマニフェストに食料安全保障という極めて重要な政策分野における具体的な施策を加え、農業従事者への支援を通じて日本の農業の未来を明るく照らすものです。関係者の皆様には、本提案の内容を精査いただき、活発なご議論を賜りますようお願い申し上げます。
+
+提案者: 匿名ユーザー
+
+#### 変更ファイル
+
+- 50_国政のその他重要分野.md
 
 ---
 
