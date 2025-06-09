@@ -111,7 +111,7 @@
 | #787 | [経済財政政策ベーシックサービス導入検討の提案 by yuta0218](https://github.com/team-mirai/policy/pull/787) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #790 | [経済財政分野へのAI活用検討を追記し、日本の新たな発展を目指す提案](https://github.com/team-mirai/policy/pull/790) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-03 |
 | #791 | [Mさんの提案：年少扶養控除廃止の影響を明記し、復活検討の記述を強化](https://github.com/team-mirai/policy/pull/791) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
-| #794 | [のりぃ提案：ディープテック支援強化（税制優遇・Jカーブ理解促進）](https://github.com/team-mirai/policy/pull/794) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-05 |
+| #794 | [のりぃ提案：ディープテック支援強化（税制優遇・Jカーブ理解促進）](https://github.com/team-mirai/policy/pull/794) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-09 |
 | #799 | [税・社会保障制度における公平性向上のため生涯所得概念と貸付モデル導入を提案（新井俊一氏）](https://github.com/team-mirai/policy/pull/799) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #845 | [EBPM支援パッケージの具体策を財政ガバナンス強化に追加](https://github.com/team-mirai/policy/pull/845) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #874 | [政策改善提案（与那嶺信）：物価高対策として食料品への消費税恒久非課税化を提案](https://github.com/team-mirai/policy/pull/874) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-21 |
