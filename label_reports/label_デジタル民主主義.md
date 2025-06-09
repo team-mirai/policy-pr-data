@@ -96,7 +96,7 @@
 | #1857 | [【国民の悲願✨️】国会本会議場にPC持ち込みの許可を！ 💻](https://github.com/team-mirai/policy/pull/1857) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
 | #1858 | [たーくまさんによる政策改善提案（香害対策、難病支援、SNS誹謗中傷対策）](https://github.com/team-mirai/policy/pull/1858) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
 | #1903 | [匿名ユーザーによるデジタル民主主義への選挙アプリ導入提案](https://github.com/team-mirai/policy/pull/1903) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
-| #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | open | 2025-06-05 | 2025-06-06 |
+| #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | open | 2025-06-05 | 2025-06-09 |
 | #1971 | [公職選挙法Q&AIエージェント開発によるデジタル民主主義の推進](https://github.com/team-mirai/policy/pull/1971) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #2007 | [行政改革：申請主義からプッシュ型支援への転換と手続きの簡素化・自動化の提案](https://github.com/team-mirai/policy/pull/2007) | idobata-policy-app[bot] | open | 2025-06-06 | 2025-06-07 |
 | #2054 | [選挙ポスター掲示板の最適化による選挙の健全化提案（大仏さん）](https://github.com/team-mirai/policy/pull/2054) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |

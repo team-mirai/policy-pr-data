@@ -100,7 +100,7 @@
 | #436 | [地方創生における新幹線網整備の推進と制度見直しに関する提案](https://github.com/team-mirai/policy/pull/436) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #437 | [外国人による不動産取得規制に関する政策提案](https://github.com/team-mirai/policy/pull/437) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #443 | [【匿名ユーザー提案】姓に関する課題の包括的解決の追加](https://github.com/team-mirai/policy/pull/443) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-20 |
-| #451 | [科学技術分野における寄付金控除制度の抜本的改革による研究環境整備](https://github.com/team-mirai/policy/pull/451) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #451 | [科学技術分野における寄付金控除制度の抜本的改革による研究環境整備](https://github.com/team-mirai/policy/pull/451) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-06-09 |
 | #452 | [README.md：目次に「障害児者の福祉」の項目を追加](https://github.com/team-mirai/policy/pull/452) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #455 | [【匿名ユーザー提案】「多様な家族のあり方の尊重」に関する政策項目追加](https://github.com/team-mirai/policy/pull/455) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #459 | [【キヤノ提案】物価高対策（電気料金負担軽減）および地方創生（ライドシェア解禁）に関する政策変更](https://github.com/team-mirai/policy/pull/459) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |

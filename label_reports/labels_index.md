@@ -7,7 +7,7 @@
 | [教育](label_教育.md) | 246 |
 | [経済財政](label_経済財政.md) | 196 |
 | [行政改革](label_行政改革.md) | 191 |
-| [ラベルなし](label_ラベルなし.md) | 181 |
+| [ラベルなし](label_ラベルなし.md) | 183 |
 | [子育て](label_子育て.md) | 179 |
 | [ビジョン](label_ビジョン.md) | 102 |
 | [医療](label_医療.md) | 99 |
@@ -15,5 +15,5 @@
 | [産業政策](label_産業政策.md) | 85 |
 | [科学技術](label_科学技術.md) | 71 |
 | [エネルギー](label_エネルギー.md) | 59 |
-| [thankyou](label_thankyou.md) | 32 |
+| [thankyou](label_thankyou.md) | 33 |
 | [[システム]](label_[システム].md) | 3 |
