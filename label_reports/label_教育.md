@@ -243,9 +243,9 @@
 | #1979 | [Update Step2 / Section1](https://github.com/team-mirai/policy/pull/1979) | chaspy | open | 2025-06-05 | 2025-06-05 |
 | #1980 | [Update step2 / section2](https://github.com/team-mirai/policy/pull/1980) | chaspy | open | 2025-06-05 | 2025-06-05 |
 | #1981 | [Update step2 section 3,4](https://github.com/team-mirai/policy/pull/1981) | chaspy | open | 2025-06-05 | 2025-06-05 |
-| #1982 | [Update step3 section1](https://github.com/team-mirai/policy/pull/1982) | chaspy | open | 2025-06-05 | 2025-06-05 |
-| #1983 | [Update step3 section2](https://github.com/team-mirai/policy/pull/1983) | chaspy | open | 2025-06-05 | 2025-06-05 |
-| #1984 | [Update step3 section3](https://github.com/team-mirai/policy/pull/1984) | chaspy | open | 2025-06-05 | 2025-06-05 |
+| #1982 | [Update step3 section1](https://github.com/team-mirai/policy/pull/1982) | chaspy | closed | 2025-06-05 | 2025-06-09 |
+| #1983 | [Update step3 section2](https://github.com/team-mirai/policy/pull/1983) | chaspy | closed | 2025-06-05 | 2025-06-09 |
+| #1984 | [Update step3 section3](https://github.com/team-mirai/policy/pull/1984) | chaspy | closed | 2025-06-05 | 2025-06-09 |
 | #1992 | [教育ビジョン更新：集団活動とオンライン参加機会の保障による協調性育成（かあさん提案）](https://github.com/team-mirai/policy/pull/1992) | idobata-policy-app[bot] | open | 2025-06-06 | 2025-06-06 |
 | #2002 | [教育政策の改善提案（hogeさん）](https://github.com/team-mirai/policy/pull/2002) | idobata-policy-app[bot] | open | 2025-06-06 | 2025-06-06 |
 | #2026 | [政策案「４）貧困世帯支援」の表現をより能動的に修正 by JN](https://github.com/team-mirai/policy/pull/2026) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
