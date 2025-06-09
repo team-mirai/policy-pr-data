@@ -23,7 +23,7 @@
 | #224 | [動物実験代替法の推進と関連技術の産業育成に関する提案](https://github.com/team-mirai/policy/pull/224) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #239 | [戦略技術分野へ防衛技術を追加する提案 by silver](https://github.com/team-mirai/policy/pull/239) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #272 | [niryuuさん提案：独立研究者の科学技術研究への参加を促進させることにより、科学技術の競争力を上げる](https://github.com/team-mirai/policy/pull/272) | niryuu | open | 2025-05-16 | 2025-05-19 |
-| #304 | [政策提言: ラボラトリーオートメーション導入による再生医療・バイオ分野の強化 (tokoroten)](https://github.com/team-mirai/policy/pull/304) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-09 |
+| #304 | [政策提言: ラボラトリーオートメーション導入による再生医療・バイオ分野の強化 (tokoroten)](https://github.com/team-mirai/policy/pull/304) | idobata-policy-app[bot] | closed | 2025-05-16 | 2025-06-09 |
 | #329 | [AI倫理と悪用防止に関する新規条項の追加](https://github.com/team-mirai/policy/pull/329) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #365 | [生成AIの倫理的課題に関する記述をマニフェスト冒頭に追加](https://github.com/team-mirai/policy/pull/365) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #398 | [髙木博史様による総合的な政策改善提案（子育て・科学技術・経済財政）](https://github.com/team-mirai/policy/pull/398) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
@@ -45,7 +45,7 @@
 | #757 | [たかぎぃさん提案：海洋資源開発の戦略的推進とディープテック分野への明確な位置づけ](https://github.com/team-mirai/policy/pull/757) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #764 | [提案：教育とAI研究開発の予算配分最適化に向けた議論喚起（よろしい骨様）](https://github.com/team-mirai/policy/pull/764) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #771 | [社会全体のAIリテラシー向上を目指した教育政策の拡充提案（kazyasuさんより）](https://github.com/team-mirai/policy/pull/771) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-30 |
-| #794 | [のりぃ提案：ディープテック支援強化（税制優遇・Jカーブ理解促進）](https://github.com/team-mirai/policy/pull/794) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-09 |
+| #794 | [のりぃ提案：ディープテック支援強化（税制優遇・Jカーブ理解促進）](https://github.com/team-mirai/policy/pull/794) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-06-09 |
 | #814 | [戦略技術ポートフォリオへのドローン、量子計算機、AIの追加（Suzuki T.提案）](https://github.com/team-mirai/policy/pull/814) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #824 | [AI利用に関する倫理的・法的課題への対応方針を追記](https://github.com/team-mirai/policy/pull/824) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #850 | [研究資金調達の多様化と民間からの寄付促進による研究環境改善](https://github.com/team-mirai/policy/pull/850) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-06-05 |
@@ -59,7 +59,7 @@
 | #1352 | [研究支援員の無期転換ルールに関する課題を追記](https://github.com/team-mirai/policy/pull/1352) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1389 | [ビジョンの記述方法を改善](https://github.com/team-mirai/policy/pull/1389) | idobata-policy-app[bot] | closed | 2025-05-21 | 2025-06-09 |
 | #1400 | [花粉症対策研究の推進に関する提案](https://github.com/team-mirai/policy/pull/1400) | idobata-policy-app[bot] | open | 2025-05-21 | 2025-05-22 |
-| #1468 | [研究支援体制の強化：専門サポート人材の育成とキャリアパス整備の提案](https://github.com/team-mirai/policy/pull/1468) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-06-09 |
+| #1468 | [研究支援体制の強化：専門サポート人材の育成とキャリアパス整備の提案](https://github.com/team-mirai/policy/pull/1468) | idobata-policy-app[bot] | closed | 2025-05-22 | 2025-06-09 |
 | #1472 | [ababa831さんによる科学技術政策へのキャッチフレーズ追加と可読性向上提案](https://github.com/team-mirai/policy/pull/1472) | idobata-policy-app[bot] | open | 2025-05-22 | 2025-05-22 |
 | #1538 | [matsumotoさん提案：政策3（ディープテック投資）のJIC活用と後期ラウンド資金調達強化](https://github.com/team-mirai/policy/pull/1538) | idobata-policy-app[bot] | open | 2025-05-23 | 2025-05-29 |
 | #1629 | [【大槻さん提案】研究成果の社会実装促進に向けた政策追加（法制度・倫理的側面）](https://github.com/team-mirai/policy/pull/1629) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-29 |
@@ -68,7 +68,7 @@
 | #1779 | [【誤字修正】負担を権限→ 負担を軽減](https://github.com/team-mirai/policy/pull/1779) | idobata-policy-app[bot] | closed | 2025-05-28 | 2025-05-31 |
 | #1817 | [モーさんによる手話翻訳アプリ開発の提案](https://github.com/team-mirai/policy/pull/1817) | idobata-policy-app[bot] | open | 2025-05-30 | 2025-05-30 |
 | #1830 | [AI研究開発基盤強化のための教育データ収集を提案（しゃあぺんぎん）](https://github.com/team-mirai/policy/pull/1830) | idobata-policy-app[bot] | open | 2025-05-31 | 2025-05-31 |
-| #1873 | [Update 33_ステップ３科学技術.md](https://github.com/team-mirai/policy/pull/1873) | yasuakikamoeka | open | 2025-06-01 | 2025-06-09 |
+| #1873 | [Update 33_ステップ３科学技術.md](https://github.com/team-mirai/policy/pull/1873) | yasuakikamoeka | closed | 2025-06-01 | 2025-06-09 |
 | #1875 | [Update 33_ステップ３科学技術.md](https://github.com/team-mirai/policy/pull/1875) | yasuakikamoeka | closed | 2025-06-01 | 2025-06-05 |
 | #1931 | [AIの社会的影響に関する考察を追記](https://github.com/team-mirai/policy/pull/1931) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-04 |
 | #1940 | [科学技術政策の抜本的見直し：「選択と集中」政策の課題分析と研究多様性重視への転換、EBPM徹底とガバナンス体制強化を含む包括的改訂](https://github.com/team-mirai/policy/pull/1940) | itoma-aikon | open | 2025-06-04 | 2025-06-06 |
