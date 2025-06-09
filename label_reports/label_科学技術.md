@@ -23,7 +23,7 @@
 | #224 | [動物実験代替法の推進と関連技術の産業育成に関する提案](https://github.com/team-mirai/policy/pull/224) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #239 | [戦略技術分野へ防衛技術を追加する提案 by silver](https://github.com/team-mirai/policy/pull/239) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #272 | [niryuuさん提案：独立研究者の科学技術研究への参加を促進させることにより、科学技術の競争力を上げる](https://github.com/team-mirai/policy/pull/272) | niryuu | open | 2025-05-16 | 2025-05-19 |
-| #304 | [政策提言: ラボラトリーオートメーション導入による再生医療・バイオ分野の強化 (tokoroten)](https://github.com/team-mirai/policy/pull/304) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
+| #304 | [政策提言: ラボラトリーオートメーション導入による再生医療・バイオ分野の強化 (tokoroten)](https://github.com/team-mirai/policy/pull/304) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-09 |
 | #329 | [AI倫理と悪用防止に関する新規条項の追加](https://github.com/team-mirai/policy/pull/329) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #365 | [生成AIの倫理的課題に関する記述をマニフェスト冒頭に追加](https://github.com/team-mirai/policy/pull/365) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #398 | [髙木博史様による総合的な政策改善提案（子育て・科学技術・経済財政）](https://github.com/team-mirai/policy/pull/398) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
