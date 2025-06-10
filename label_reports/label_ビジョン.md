@@ -115,7 +115,7 @@
 | #2080 | [【提案】「みらいのロードマップ」の追加による政策具体化](https://github.com/team-mirai/policy/pull/2080) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
 | #2090 | [匿名ユーザー提案：デジタル化推進、情報健全化、経済活性化に向けた政策改定](https://github.com/team-mirai/policy/pull/2090) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
 | #2091 | [匿名ユーザーによる政策案改善提案：法律の明確化と国会運営の透明性向上](https://github.com/team-mirai/policy/pull/2091) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
-| #2098 | [マニフェスト改善提案（匿名ユーザー）：メディア透明性と経済指標の見える化](https://github.com/team-mirai/policy/pull/2098) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
+| #2098 | [マニフェスト改善提案（匿名ユーザー）：メディア透明性と経済指標の見える化](https://github.com/team-mirai/policy/pull/2098) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-10 |
 
 ## PR詳細
 

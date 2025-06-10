@@ -183,7 +183,7 @@
 | #1890 | [確定申告制度における公平性の記述を強化（そら提案）](https://github.com/team-mirai/policy/pull/1890) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-03 |
 | #1908 | [税務申告・会計処理の完全自動化と国民目線に立った行政システム改革による国力向上の提案（匿名ユーザーさんご提案）](https://github.com/team-mirai/policy/pull/1908) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
 | #1934 | [行政改革：未来への都市集中戦略](https://github.com/team-mirai/policy/pull/1934) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-04 |
-| #1947 | [税の一部使い道選択制度の導入検討](https://github.com/team-mirai/policy/pull/1947) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
+| #1947 | [税の一部使い道選択制度の導入検討](https://github.com/team-mirai/policy/pull/1947) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-10 |
 | #1948 | [包括的インクルーシブシステムの構想の反映による行政サービス改善提案](https://github.com/team-mirai/policy/pull/1948) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #1955 | [公共調達における利益相反防止策の追加](https://github.com/team-mirai/policy/pull/1955) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | open | 2025-06-05 | 2025-06-09 |
@@ -192,7 +192,7 @@
 | #2010 | [「国主導ダークパターン」である徴税方法を刷新：「当月所得・当月処理」の義務化で生活不安解消へ](https://github.com/team-mirai/policy/pull/2010) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2022 | [行政改革案：危機対応力強化のため「デジタル避難訓練」の概念を導入](https://github.com/team-mirai/policy/pull/2022) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2024 | [行政改革案の改善：電子投票制度、国会改革、予算情報の透明化に関する提案（大仏さん）](https://github.com/team-mirai/policy/pull/2024) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
-| #2028 | [行政改革案：税制簡素化と国民負担軽減、分かりやすい行政システムへの改善提案](https://github.com/team-mirai/policy/pull/2028) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-08 |
+| #2028 | [行政改革案：税制簡素化と国民負担軽減、分かりやすい行政システムへの改善提案](https://github.com/team-mirai/policy/pull/2028) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-10 |
 | #2043 | [行政改革案：永田町へのエンジニアチーム設置と役割の明確化（はた たかひろ提案）](https://github.com/team-mirai/policy/pull/2043) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |
 | #2050 | [広域行政の最適化検討とAI活用に関する提案（はた　たかひろ）](https://github.com/team-mirai/policy/pull/2050) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |
 | #2055 | [選挙制度改革：区割り問題と供託金制度の見直しによる民意反映の強化 by 大仏](https://github.com/team-mirai/policy/pull/2055) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |

@@ -368,15 +368,15 @@
 | #1905 | [外国人の国民健康保険料収納率向上策の追加（行政改革）](https://github.com/team-mirai/policy/pull/1905) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
 | #1907 | [介護分野への新規提案：介護ロボット開発・導入による日本型福祉モデルの構築](https://github.com/team-mirai/policy/pull/1907) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
 | #1910 | [農業政策の項目追加と将来展望（シロさん提案）](https://github.com/team-mirai/policy/pull/1910) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-03 |
-| #1911 | [年金、社会保障、税の流れが一撃でわかる動的データグラフィックスを作って、財政システムのリスクを可視化する](https://github.com/team-mirai/policy/pull/1911) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-03 |
+| #1911 | [年金、社会保障、税の流れが一撃でわかる動的データグラフィックスを作って、財政システムのリスクを可視化する](https://github.com/team-mirai/policy/pull/1911) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-10 |
 | #1916 | [【hidekim提案】デジタル時代の民主主義の健全な発展に関する項目追加](https://github.com/team-mirai/policy/pull/1916) | idobata-policy-app[bot] | open | 2025-06-03 | 2025-06-03 |
 | #1923 | [【akiさん提案】マニフェスト構成改善：README.md冒頭への「日本の進むべき道筋」の章の追加](https://github.com/team-mirai/policy/pull/1923) | idobata-policy-app[bot] | open | 2025-06-03 | 2025-06-03 |
-| #1924 | [匿名ユーザー様提案の税制改革3案を検討課題として追記](https://github.com/team-mirai/policy/pull/1924) | idobata-policy-app[bot] | open | 2025-06-03 | 2025-06-03 |
+| #1924 | [匿名ユーザー様提案の税制改革3案を検討課題として追記](https://github.com/team-mirai/policy/pull/1924) | idobata-policy-app[bot] | open | 2025-06-03 | 2025-06-10 |
 | #1928 | [教育政策に『学校外教育における才能育成支援』の項目を追加](https://github.com/team-mirai/policy/pull/1928) | idobata-policy-app[bot] | open | 2025-06-03 | 2025-06-04 |
 | #1933 | [経済財政の項目にベーシックインカム導入に関する理念を追記 (匿名ユーザー)](https://github.com/team-mirai/policy/pull/1933) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-04 |
 | #1935 | [マニフェスト冒頭に現代社会の課題認識と解決への方向性を明記](https://github.com/team-mirai/policy/pull/1935) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-04 |
 | #1938 | [文化立国戦略の項目追加によるマニフェスト強化](https://github.com/team-mirai/policy/pull/1938) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-04 |
-| #1939 | [いまさん提起：社会保障制度改革に関する議論の活性化と具体化](https://github.com/team-mirai/policy/pull/1939) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-04 |
+| #1939 | [いまさん提起：社会保障制度改革に関する議論の活性化と具体化](https://github.com/team-mirai/policy/pull/1939) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-10 |
 | #1960 | [同性婚実現及び国公立大学学費無償化・入学金値下げに関する政策提案の追加](https://github.com/team-mirai/policy/pull/1960) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #1968 | [デジタル民主主義における誤報対策強化：報道機関の訂正報道とAI通知プラットフォーム](https://github.com/team-mirai/policy/pull/1968) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #1972 | [外国人との共生と国益の調和に関する提案（feyさんより）](https://github.com/team-mirai/policy/pull/1972) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
