@@ -107,7 +107,7 @@
 | #2018 | [国の成長戦略に関する記述の明確化：技術革新の重要性を強調](https://github.com/team-mirai/policy/pull/2018) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2020 | [国産AI開発戦略の強化、及び出産・育児支援の抜本的拡充による少子化対策の推進](https://github.com/team-mirai/policy/pull/2020) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2031 | [匿名ユーザー様による政策マニフェスト改善提案：国民生活の質向上と未来への投資強化](https://github.com/team-mirai/policy/pull/2031) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-08 |
-| #2041 | [提案：ユーザーに応じて情報提供を調整する「いどばた」の新機能](https://github.com/team-mirai/policy/pull/2041) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |
+| #2041 | [提案：ユーザーに応じて情報提供を調整する「いどばた」の新機能](https://github.com/team-mirai/policy/pull/2041) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-10 |
 | #2072 | [レッドチーム設置によるデジタル民主主義システムの堅牢性強化](https://github.com/team-mirai/policy/pull/2072) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-09 |
 | #2074 | [マニフェスト最終版：AI戦略、生活支援、働き方改革、国家機能強化など総合政策](https://github.com/team-mirai/policy/pull/2074) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-09 |
 | #2075 | [交通安全対策の強化：NシステムとAI活用による危険運転予防策の追加](https://github.com/team-mirai/policy/pull/2075) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-09 |
