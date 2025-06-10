@@ -26,7 +26,7 @@
 | #304 | [政策提言: ラボラトリーオートメーション導入による再生医療・バイオ分野の強化 (tokoroten)](https://github.com/team-mirai/policy/pull/304) | idobata-policy-app[bot] | closed | 2025-05-16 | 2025-06-09 |
 | #329 | [AI倫理と悪用防止に関する新規条項の追加](https://github.com/team-mirai/policy/pull/329) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #365 | [生成AIの倫理的課題に関する記述をマニフェスト冒頭に追加](https://github.com/team-mirai/policy/pull/365) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #398 | [髙木博史様による総合的な政策改善提案（子育て・科学技術・経済財政）](https://github.com/team-mirai/policy/pull/398) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #398 | [髙木博史様による総合的な政策改善提案（子育て・科学技術・経済財政）](https://github.com/team-mirai/policy/pull/398) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-10 |
 | #401 | [研究成果の社会実装促進のためRMSに産業界連携機能を追加](https://github.com/team-mirai/policy/pull/401) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #410 | [国内AI開発支援のあり方に関する問題提起の追記（なななかかな提案）](https://github.com/team-mirai/policy/pull/410) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #441 | [研究開発資金の大幅拡充のため、教育予算配分の見直しを提案](https://github.com/team-mirai/policy/pull/441) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |

@@ -54,7 +54,7 @@
 | #354 | [AI育児相談ポータルにおける児童虐待疑いケースの対応強化](https://github.com/team-mirai/policy/pull/354) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-06-01 |
 | #367 | [【のんさん提案】会社役員への育児支援追加：産後から保育園入園までの経済的支援](https://github.com/team-mirai/policy/pull/367) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #379 | [匿名ユーザー提案：代理出産に関する倫理的課題への対応方針を明記](https://github.com/team-mirai/policy/pull/379) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #398 | [髙木博史様による総合的な政策改善提案（子育て・科学技術・経済財政）](https://github.com/team-mirai/policy/pull/398) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #398 | [髙木博史様による総合的な政策改善提案（子育て・科学技術・経済財政）](https://github.com/team-mirai/policy/pull/398) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-10 |
 | #400 | [ステイフーリッシュさん提案：MANGAナショナルセンター設立、子供・大人の孤立対策に関する目次項目追加](https://github.com/team-mirai/policy/pull/400) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #404 | [子育て支援策の拡充：デジタル母子手帳の柔軟化と産後ケア予約の利便性向上](https://github.com/team-mirai/policy/pull/404) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #409 | [れいさん提案：母子手帳の電子化推進と名称変更による子育て支援の拡充](https://github.com/team-mirai/policy/pull/409) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |

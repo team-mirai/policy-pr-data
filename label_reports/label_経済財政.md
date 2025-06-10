@@ -56,7 +56,7 @@
 | #376 | [伊藤修人：ステップ２への「地方活性化のための都市構造改革と税・交通政策」の追加提案](https://github.com/team-mirai/policy/pull/376) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-03 |
 | #383 | [【伊藤修人】富裕税導入の検討開始と目次への追加](https://github.com/team-mirai/policy/pull/383) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #390 | [経済財政：AGI化と障害年金制度に関する提案（匿名ユーザー）](https://github.com/team-mirai/policy/pull/390) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #398 | [髙木博史様による総合的な政策改善提案（子育て・科学技術・経済財政）](https://github.com/team-mirai/policy/pull/398) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #398 | [髙木博史様による総合的な政策改善提案（子育て・科学技術・経済財政）](https://github.com/team-mirai/policy/pull/398) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-10 |
 | #399 | [社会保障制度改革：医療費負担の見直しと持続可能な未来への提言](https://github.com/team-mirai/policy/pull/399) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-21 |
 | #402 | [poliさん提案：財源の透明性向上と国民負担への配慮に関するマニフェスト改善](https://github.com/team-mirai/policy/pull/402) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #417 | [匿名ユーザーによる社会保険改革の政策提言とマニフェスト構成の見直し](https://github.com/team-mirai/policy/pull/417) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |

@@ -1,6 +1,6 @@
 # ラベル「ラベルなし」のPull Request一覧
 
-合計: 167件のPR
+合計: 168件のPR
 
 ## PR一覧
 
@@ -173,6 +173,7 @@
 | #2099 | [医療：患者の主体的治療選択を支援するAIオピニオン導入の提案](https://github.com/team-mirai/policy/pull/2099) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
 | #2100 | [AI戦略を支える半導体基盤の強化に関する提案](https://github.com/team-mirai/policy/pull/2100) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
 | #2101 | [匿名ユーザーによる司法DXに関する改善提案（行政改革マニフェスト）](https://github.com/team-mirai/policy/pull/2101) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
+| #2102 | [Update: デバッグ用の政策と関係ない差分](https://github.com/team-mirai/policy/pull/2102) | jujunjun110 | closed | 2025-06-10 | 2025-06-10 |
 
 ## PR詳細
 
@@ -5797,6 +5798,14 @@ AIオピニオンシステムの導入により、患者は医師からの説明
 #### 変更ファイル
 
 - 13_ステップ１行政改革.md
+
+---
+
+### #2102: Update: デバッグ用の政策と関係ない差分
+
+#### 変更ファイル
+
+- .meta/target_file_rule.txt
 
 ---
 
