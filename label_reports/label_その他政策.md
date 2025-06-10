@@ -312,7 +312,7 @@
 | #1867 | [特定高管理犬種規制法の追加提案](https://github.com/team-mirai/policy/pull/1867) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
 | #1874 | [匿名ユーザーによる「７．重點投資戦略とフロンティア領域への挑戦」の章追加と政策具体化](https://github.com/team-mirai/policy/pull/1874) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
 | #1879 | [セーフティネットの名称変更 → 「**ベーシックライフ保障制度**」へ](https://github.com/team-mirai/policy/pull/1879) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
-| #1881 | [物価高対策：気候変動に対応したコメの作況指数見直しと品質評価基準導入による価格安定化策の強化](https://github.com/team-mirai/policy/pull/1881) | idobata-policy-app[bot] | open | 2025-06-01 | 2025-06-01 |
+| #1881 | [物価高対策：気候変動に対応したコメの作況指数見直しと品質評価基準導入による価格安定化策の強化](https://github.com/team-mirai/policy/pull/1881) | idobata-policy-app[bot] | closed | 2025-06-01 | 2025-06-10 |
 | #1899 | [防衛政策の具体性を向上：東アジア情勢と能力強化を明記](https://github.com/team-mirai/policy/pull/1899) | idobata-policy-app[bot] | open | 2025-06-02 | 2025-06-02 |
 | #1942 | [憲法に関する記述の明確化と基本原理保護の強調（とわさんの提案）](https://github.com/team-mirai/policy/pull/1942) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-05 |
 | #1943 | [災害時における包括的支援の明確化（とわさんの提案）](https://github.com/team-mirai/policy/pull/1943) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-05 |
