@@ -236,13 +236,13 @@
 | #1953 | [教育政策案への山村留学支援策追加（匿名ユーザー提案）](https://github.com/team-mirai/policy/pull/1953) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #1954 | [匿名ユーザーによる教育政策改善案：海外留学支援プログラムの追加](https://github.com/team-mirai/policy/pull/1954) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #1969 | [教育政策の改善：チーム担任制具体化（1クラス複数担任）と外部委託推進による教員負担軽減・教育の質向上](https://github.com/team-mirai/policy/pull/1969) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
-| #1975 | [Update Step1 - Vision & Section1](https://github.com/team-mirai/policy/pull/1975) | chaspy | open | 2025-06-05 | 2025-06-05 |
-| #1976 | [Update Step1 / Section2](https://github.com/team-mirai/policy/pull/1976) | chaspy | open | 2025-06-05 | 2025-06-05 |
-| #1977 | [Update Step1 / Section3](https://github.com/team-mirai/policy/pull/1977) | chaspy | open | 2025-06-05 | 2025-06-05 |
-| #1978 | [Update Step1 / Section 4,5,6](https://github.com/team-mirai/policy/pull/1978) | chaspy | open | 2025-06-05 | 2025-06-05 |
-| #1979 | [Update Step2 / Section1](https://github.com/team-mirai/policy/pull/1979) | chaspy | open | 2025-06-05 | 2025-06-05 |
-| #1980 | [Update step2 / section2](https://github.com/team-mirai/policy/pull/1980) | chaspy | open | 2025-06-05 | 2025-06-05 |
-| #1981 | [Update step2 section 3,4](https://github.com/team-mirai/policy/pull/1981) | chaspy | open | 2025-06-05 | 2025-06-05 |
+| #1975 | [Update Step1 - Vision & Section1](https://github.com/team-mirai/policy/pull/1975) | chaspy | closed | 2025-06-05 | 2025-06-10 |
+| #1976 | [Update Step1 / Section2](https://github.com/team-mirai/policy/pull/1976) | chaspy | closed | 2025-06-05 | 2025-06-10 |
+| #1977 | [Update Step1 / Section3](https://github.com/team-mirai/policy/pull/1977) | chaspy | closed | 2025-06-05 | 2025-06-10 |
+| #1978 | [Update Step1 / Section 4,5,6](https://github.com/team-mirai/policy/pull/1978) | chaspy | closed | 2025-06-05 | 2025-06-11 |
+| #1979 | [Update Step2 / Section1](https://github.com/team-mirai/policy/pull/1979) | chaspy | closed | 2025-06-05 | 2025-06-10 |
+| #1980 | [Update step2 / section2](https://github.com/team-mirai/policy/pull/1980) | chaspy | closed | 2025-06-05 | 2025-06-10 |
+| #1981 | [Update step2 section 3,4](https://github.com/team-mirai/policy/pull/1981) | chaspy | closed | 2025-06-05 | 2025-06-10 |
 | #1982 | [Update step3 section1](https://github.com/team-mirai/policy/pull/1982) | chaspy | closed | 2025-06-05 | 2025-06-09 |
 | #1983 | [Update step3 section2](https://github.com/team-mirai/policy/pull/1983) | chaspy | closed | 2025-06-05 | 2025-06-09 |
 | #1984 | [Update step3 section3](https://github.com/team-mirai/policy/pull/1984) | chaspy | closed | 2025-06-05 | 2025-06-09 |
