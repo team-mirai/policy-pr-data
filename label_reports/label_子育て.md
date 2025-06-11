@@ -68,7 +68,7 @@
 | #458 | [宮本さんによる子育て政策（保育事務アウトソース）の改善提案](https://github.com/team-mirai/policy/pull/458) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #469 | [政策提案：国によるAI婚活システムの構築](https://github.com/team-mirai/policy/pull/469) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #484 | [第４章「住まいの安心」に不動産市場の健全化に関する論点を追加](https://github.com/team-mirai/policy/pull/484) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #499 | [あんでぃさん提案：産科医療アクセス改善と無痛分娩費用助成の全国展開について](https://github.com/team-mirai/policy/pull/499) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-09 |
+| #499 | [あんでぃさん提案：産科医療アクセス改善と無痛分娩費用助成の全国展開について](https://github.com/team-mirai/policy/pull/499) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-11 |
 | #501 | [31_ステップ３子育て.md への現状の政策に対する包括的な意見の追加](https://github.com/team-mirai/policy/pull/501) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #505 | [【Diego提案】少子化対策としての選択的多夫多妻制導入の検討](https://github.com/team-mirai/policy/pull/505) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #536 | [政策案改善：扶養控除の復活に関する提案（ちささんより）](https://github.com/team-mirai/policy/pull/536) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-01 |
