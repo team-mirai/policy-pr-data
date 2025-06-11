@@ -207,7 +207,7 @@
 | #2012 | [年金制度改革に関する提案と既存セクションの番号調整](https://github.com/team-mirai/policy/pull/2012) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2017 | [税制変更シミュレーションツールの開発・導入](https://github.com/team-mirai/policy/pull/2017) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2028 | [行政改革案：税制簡素化と国民負担軽減、分かりやすい行政システムへの改善提案](https://github.com/team-mirai/policy/pull/2028) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-10 |
-| #2073 | [「経済財政」政策：住宅ローン金利上昇リスクへの対応策強化（はた　たかひろ様提案）](https://github.com/team-mirai/policy/pull/2073) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-09 |
+| #2073 | [「経済財政」政策：住宅ローン金利上昇リスクへの対応策強化（はた　たかひろ様提案）](https://github.com/team-mirai/policy/pull/2073) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-11 |
 | #2098 | [マニフェスト改善提案（匿名ユーザー）：メディア透明性と経済指標の見える化](https://github.com/team-mirai/policy/pull/2098) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-10 |
 | #2110 | [暗号資産に関する税制提案（井上さん提案）](https://github.com/team-mirai/policy/pull/2110) | idobata-policy-app[bot] | open | 2025-06-10 | 2025-06-10 |
 | #2131 | [Update 36_ステップ３経済財政.md](https://github.com/team-mirai/policy/pull/2131) | HiroakiSato1106 | open | 2025-06-10 | 2025-06-10 |
