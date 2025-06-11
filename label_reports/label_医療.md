@@ -102,8 +102,8 @@
 | #1966 | [医療政策における自己負担割合の決定プロセスに専門家の意見聴取を明記](https://github.com/team-mirai/policy/pull/1966) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #1973 | [医療ビジョンに予防医療と財政健全化に向けた国民的議論の喚起を追記し、オンライン診療の活用を示唆（座禅いぬ提案）](https://github.com/team-mirai/policy/pull/1973) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-05 |
 | #1985 | [医療政策：地域医療提供体制の確保と持続可能性の向上に関する提案 by aki](https://github.com/team-mirai/policy/pull/1985) | idobata-policy-app[bot] | open | 2025-06-05 | 2025-06-06 |
-| #1997 | [Update 17_ステップ１医療.md](https://github.com/team-mirai/policy/pull/1997) | hsuzuki-md | open | 2025-06-06 | 2025-06-06 |
-| #1998 | [Update 37_ステップ３医療.md](https://github.com/team-mirai/policy/pull/1998) | hsuzuki-md | open | 2025-06-06 | 2025-06-06 |
+| #1997 | [Update 17_ステップ１医療.md](https://github.com/team-mirai/policy/pull/1997) | hsuzuki-md | closed | 2025-06-06 | 2025-06-11 |
+| #1998 | [Update 37_ステップ３医療.md](https://github.com/team-mirai/policy/pull/1998) | hsuzuki-md | closed | 2025-06-06 | 2025-06-11 |
 | #2025 | [【大仏さん提案】医療政策におけるAI・テクノロジー活用による迅速なアクセス実現とドナー制度改善](https://github.com/team-mirai/policy/pull/2025) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2085 | [会社員の通院困難な現状を課題として明確化](https://github.com/team-mirai/policy/pull/2085) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
 | #2093 | [医療アウトカム評価制度における評価指標と現場負担に関する改善提案](https://github.com/team-mirai/policy/pull/2093) | idobata-policy-app[bot] | open | 2025-06-09 | 2025-06-09 |
