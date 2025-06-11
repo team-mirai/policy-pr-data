@@ -26,7 +26,7 @@
 | #141 | [デジタル母子パスポートに関する課題認識の具体化（すずきさん提案）](https://github.com/team-mirai/policy/pull/141) | idobata-policy-app[bot] | closed | 2025-05-16 | 2025-06-01 |
 | #146 | [ひとり親家庭への経済的支援強化と再出発支援の追加](https://github.com/team-mirai/policy/pull/146) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #165 | [子育て支援の対象範囲を個人単位へ拡大する提案](https://github.com/team-mirai/policy/pull/165) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
-| #171 | [ますださん提案：AI育児相談ポータルへの子どもの安全見守り機能追加](https://github.com/team-mirai/policy/pull/171) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
+| #171 | [ますださん提案：AI育児相談ポータルへの子どもの安全見守り機能追加](https://github.com/team-mirai/policy/pull/171) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-11 |
 | #172 | [子育て支援策の改善提案：メンタルケア強化と経済的支援拡充（sanoさん提案）](https://github.com/team-mirai/policy/pull/172) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-01 |
 | #174 | [森脇大輔さんによる保育政策の改善提案](https://github.com/team-mirai/policy/pull/174) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #190 | [いがいがさん提案：保活支援策の現状認識と潜在保育士の働き方具体化](https://github.com/team-mirai/policy/pull/190) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
@@ -34,7 +34,7 @@
 | #208 | [結婚支援策の強化と政策全体の構成見直し](https://github.com/team-mirai/policy/pull/208) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #210 | [【長谷川さんご提案】障害児福祉における所得制限の課題明記と原則撤廃への方針転換](https://github.com/team-mirai/policy/pull/210) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #218 | [養育費問題解決に向けた子どもの貧困対策強化（小野様提案）](https://github.com/team-mirai/policy/pull/218) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
-| #220 | [子育て支援の拡充：妊活からのシームレスなサポートとデータ活用による課題解決](https://github.com/team-mirai/policy/pull/220) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-01 |
+| #220 | [子育て支援の拡充：妊活からのシームレスなサポートとデータ活用による課題解決](https://github.com/team-mirai/policy/pull/220) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-11 |
 | #229 | [デジタル母子パスポートにおける利用者サポートの強化と選択肢の確保](https://github.com/team-mirai/policy/pull/229) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #231 | [PTA活動の負担軽減策を追加し、仕事と育児の両立をさらに推進](https://github.com/team-mirai/policy/pull/231) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-20 |
 | #238 | [子育てビジョンの強化：親の意識醸成と学びの機会創出について（きしもと提案）](https://github.com/team-mirai/policy/pull/238) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
@@ -78,7 +78,7 @@
 | #591 | [Cater氏による子育て支援策の拡充提案：働き方と地域サポートの強化](https://github.com/team-mirai/policy/pull/591) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #600 | [行政手続きのオンライン化・母子健康情報管理の利便性向上（雜賀 いさみ 提案）](https://github.com/team-mirai/policy/pull/600) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-19 |
 | #618 | [育休中の柔軟なキャリア継続支援策の追加](https://github.com/team-mirai/policy/pull/618) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #621 | [デジタル母子パスポートと紙の母子手帳の選択制導入](https://github.com/team-mirai/policy/pull/621) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #621 | [デジタル母子パスポートと紙の母子手帳の選択制導入](https://github.com/team-mirai/policy/pull/621) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-11 |
 | #634 | [デジタル母子パスポートを活用したプッシュ型支援の導入：申請主義の壁を越え、真に届く子育て支援を目指して](https://github.com/team-mirai/policy/pull/634) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-06-01 |
 | #638 | [モーさん発案：若年出産支援を含む子育て政策の拡充提案](https://github.com/team-mirai/policy/pull/638) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #640 | [公的な子育て機関の設立案を追加](https://github.com/team-mirai/policy/pull/640) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
