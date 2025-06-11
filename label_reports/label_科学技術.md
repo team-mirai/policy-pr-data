@@ -72,7 +72,7 @@
 | #1875 | [Update 33_ステップ３科学技術.md](https://github.com/team-mirai/policy/pull/1875) | yasuakikamoeka | closed | 2025-06-01 | 2025-06-05 |
 | #1931 | [AIの社会的影響に関する考察を追記](https://github.com/team-mirai/policy/pull/1931) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-04 |
 | #1940 | [科学技術政策の抜本的見直し：「選択と集中」政策の課題分析と研究多様性重視への転換、EBPM徹底とガバナンス体制強化を含む包括的改訂](https://github.com/team-mirai/policy/pull/1940) | itoma-aikon | open | 2025-06-04 | 2025-06-06 |
-| #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | open | 2025-06-05 | 2025-06-09 |
+| #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | closed | 2025-06-05 | 2025-06-11 |
 | #1991 | [研究者の待遇改善：給与水準の向上に関する提案](https://github.com/team-mirai/policy/pull/1991) | idobata-policy-app[bot] | open | 2025-06-06 | 2025-06-06 |
 | #2023 | [研究環境改善：大学院生の健康診断に関する課題を追加](https://github.com/team-mirai/policy/pull/2023) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2052 | [【匿名ユーザー提案】JSPS HPリンクの修正による情報アクセス性の改善](https://github.com/team-mirai/policy/pull/2052) | idobata-policy-app[bot] | closed | 2025-06-08 | 2025-06-09 |
