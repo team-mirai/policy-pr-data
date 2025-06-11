@@ -192,7 +192,7 @@
 | #1298 | [地方選挙の効率化に関する提案](https://github.com/team-mirai/policy/pull/1298) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1299 | [チームみらい マニフェスト改善提案：「国家安全保障と情報防衛（スパイ活動対策）」の項目新設（かあさん提案）](https://github.com/team-mirai/policy/pull/1299) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1301 | [ナカミチさん提案：農業政策の追加](https://github.com/team-mirai/policy/pull/1301) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
-| #1304 | [外国人との共生及び適正な負担に関する政策の追加提案（やまもとかよ）](https://github.com/team-mirai/policy/pull/1304) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-25 |
+| #1304 | [外国人との共生及び適正な負担に関する政策の追加提案（やまもとかよ）](https://github.com/team-mirai/policy/pull/1304) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-06-11 |
 | #1305 | [こんにちはさんによる農業政策の新規提案：農家支援公務員制度と米輸出戦略](https://github.com/team-mirai/policy/pull/1305) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1309 | [変更提案の方法をチャットに一本化し、より公平な参加を促進](https://github.com/team-mirai/policy/pull/1309) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
 | #1311 | [【さんぺーさんご提案】マイナンバーカード再発行手続きの改善案を追記](https://github.com/team-mirai/policy/pull/1311) | idobata-policy-app[bot] | open | 2025-05-20 | 2025-05-20 |
