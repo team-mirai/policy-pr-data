@@ -66,7 +66,7 @@
 | #1665 | [匿名ユーザー提案：科学技術政策に災害対策とグリーンデジタルインフラの視点を追加](https://github.com/team-mirai/policy/pull/1665) | idobata-policy-app[bot] | open | 2025-05-25 | 2025-05-29 |
 | #1692 | [科学技術政策：先端分野への投資と国際競争力強化を明記](https://github.com/team-mirai/policy/pull/1692) | idobata-policy-app[bot] | open | 2025-05-26 | 2025-05-29 |
 | #1779 | [【誤字修正】負担を権限→ 負担を軽減](https://github.com/team-mirai/policy/pull/1779) | idobata-policy-app[bot] | closed | 2025-05-28 | 2025-05-31 |
-| #1817 | [モーさんによる手話翻訳アプリ開発の提案](https://github.com/team-mirai/policy/pull/1817) | idobata-policy-app[bot] | open | 2025-05-30 | 2025-05-30 |
+| #1817 | [モーさんによる手話翻訳アプリ開発の提案](https://github.com/team-mirai/policy/pull/1817) | idobata-policy-app[bot] | open | 2025-05-30 | 2025-06-13 |
 | #1830 | [AI研究開発基盤強化のための教育データ収集を提案（しゃあぺんぎん）](https://github.com/team-mirai/policy/pull/1830) | idobata-policy-app[bot] | open | 2025-05-31 | 2025-05-31 |
 | #1873 | [Update 33_ステップ３科学技術.md](https://github.com/team-mirai/policy/pull/1873) | yasuakikamoeka | closed | 2025-06-01 | 2025-06-09 |
 | #1875 | [Update 33_ステップ３科学技術.md](https://github.com/team-mirai/policy/pull/1875) | yasuakikamoeka | closed | 2025-06-01 | 2025-06-05 |
