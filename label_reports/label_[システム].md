@@ -9,7 +9,7 @@
 | #1280 | [Add @yasuakikamoeka as code owner for education files](https://github.com/team-mirai/policy/pull/1280) | devin-ai-integration[bot] | closed | 2025-05-20 | 2025-05-20 |
 | #1281 | [Add @i-tami-h as code owner for 50_国政のその他重要分野.md](https://github.com/team-mirai/policy/pull/1281) | devin-ai-integration[bot] | closed | 2025-05-20 | 2025-05-20 |
 | #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | closed | 2025-06-05 | 2025-06-11 |
-| #2247 | [GitHubで行われているマニフェストのアップデートを、X(旧Twitter)でお知らせする機能の実装](https://github.com/team-mirai/policy/pull/2247) | yuki-snow1823 | open | 2025-06-12 | 2025-06-12 |
+| #2247 | [GitHubで行われているマニフェストのアップデートを、X(旧Twitter)でお知らせする機能の実装](https://github.com/team-mirai/policy/pull/2247) | yuki-snow1823 | open | 2025-06-12 | 2025-06-14 |
 
 ## PR詳細
 
@@ -97,6 +97,7 @@ v0.1時点で盛り込みが間に合わなかった部分について、公開�
    - mainブランチへのPRがマージ（closed & merged）されたときに発火
    - Node.jsセットアップ後、`.github/scripts/post_to_x.ts` をTypeScriptでビルド・実行
    - Twitter（X）APIの認証情報はGitHub Secretsから取得
+   - ただし、`.github`などの実装に関係する場合は通知しない
 
 2. スクリプト（.github/scripts/post_to_x.ts）の追加
    - マージされたPRのタイトル・URL・作成者を取得し、X（旧Twitter）に自動投稿。
@@ -115,10 +116,13 @@ v0.1時点で盛り込みが間に合わなかった部分について、公開�
 個人のリポジトリで動作確認しました。
 
 マージした際のActionsのログ
-https://github.com/yuki-snow1823/pr-messenger-test/actions/runs/15611221825
+https://github.com/yuki-snow1823/pr-messenger-test/actions/runs/15646045628
 
 マージしたPRのX投稿
-https://x.com/mirai_manifesto/status/1933147520198152678
+https://github.com/yuki-snow1823/pr-messenger-test/pull/14
+
+通知されないPR
+https://github.com/yuki-snow1823/pr-messenger-test/pull/14
 
 ### 影響範囲
 https://github.com/team-mirai/policy のmainブランチへのマージが行われると、Xに投稿されるようになります。
@@ -128,8 +132,12 @@ https://github.com/team-mirai/policy のmainブランチへのマージが行わ
 
 本PRのマージ後は本番用のAPIキーなどをセットする必要があります。
 
+このPRも.ファイルへの変更なので通知されません
+
+検証
+https://github.com/yuki-snow1823/pr-messenger-test/pull/12
+
 ### 今後の課題
-- policyのリポジトリでの機能実装のPRも通知されてしまうので、何か対策がしたい
 - 関連PRも取得するようにしたい
 - AIを間に入れて文章に工夫をしたい...etc
 
