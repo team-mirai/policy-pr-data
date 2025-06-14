@@ -9,7 +9,7 @@
 | #1280 | [Add @yasuakikamoeka as code owner for education files](https://github.com/team-mirai/policy/pull/1280) | devin-ai-integration[bot] | closed | 2025-05-20 | 2025-05-20 |
 | #1281 | [Add @i-tami-h as code owner for 50_国政のその他重要分野.md](https://github.com/team-mirai/policy/pull/1281) | devin-ai-integration[bot] | closed | 2025-05-20 | 2025-05-20 |
 | #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | closed | 2025-06-05 | 2025-06-11 |
-| #2247 | [GitHubで行われているマニフェストのアップデートを、X(旧Twitter)でお知らせする機能の実装](https://github.com/team-mirai/policy/pull/2247) | yuki-snow1823 | open | 2025-06-12 | 2025-06-14 |
+| #2247 | [GitHubで行われているマニフェストのアップデートを、X(旧Twitter)でお知らせする機能の実装](https://github.com/team-mirai/policy/pull/2247) | yuki-snow1823 | closed | 2025-06-12 | 2025-06-14 |
 
 ## PR詳細
 
