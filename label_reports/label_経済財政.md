@@ -1,6 +1,6 @@
 # ラベル「経済財政」のPull Request一覧
 
-合計: 208件のPR
+合計: 212件のPR
 
 ## PR一覧
 
@@ -214,6 +214,10 @@
 | #2175 | [税制の在り方の検証](https://github.com/team-mirai/policy/pull/2175) | idobata-policy-app[bot] | open | 2025-06-11 | 2025-06-11 |
 | #2282 | [経済財政政策の修正：財政規律と状況に応じた財政出動のバランスを明確化](https://github.com/team-mirai/policy/pull/2282) | idobata-policy-app[bot] | open | 2025-06-13 | 2025-06-13 |
 | #2284 | [遠山健司氏提案：ベーシックインカム導入による経済財政政策の強化](https://github.com/team-mirai/policy/pull/2284) | idobata-policy-app[bot] | open | 2025-06-13 | 2025-06-13 |
+| #2297 | [政策文書内の表記を統一🐿️　× リ・スキリング → ○ リスキリング](https://github.com/team-mirai/policy/pull/2297) | idobata-policy-app[bot] | open | 2025-06-13 | 2025-06-14 |
+| #2298 | [経済財政政策の具体化：税負担の公平化と資産形成支援の強化（にのさん提案）](https://github.com/team-mirai/policy/pull/2298) | idobata-policy-app[bot] | open | 2025-06-13 | 2025-06-14 |
+| #2342 | [Fix GitHub Actions markdown link validation errors](https://github.com/team-mirai/policy/pull/2342) | devin-ai-integration[bot] | open | 2025-06-14 | 2025-06-14 |
+| #2344 | [Fix GitHub Actions markdown link checking failures](https://github.com/team-mirai/policy/pull/2344) | devin-ai-integration[bot] | open | 2025-06-14 | 2025-06-14 |
 
 ## PR詳細
 
@@ -8114,6 +8118,144 @@ AIの加速度的な発展など、将来の労働環境や経済構造が大き
 #### 変更ファイル
 
 - 36_ステップ３経済財政.md
+
+---
+
+### #2297: 政策文書内の表記を統一🐿️　× リ・スキリング → ○ リスキリング
+
+#### 説明
+
+1. 修正箇所について
+
+以下の箇所について、表記を修正いたしました。
+
+ファイル名: 36_ステップ３経済財政.md
+セクション: 「AGI(汎用人工知能)実現」
+サブセクション: 「ポジティブなシナリオ例」内の「政策対応」
+修正前の記述: 「技術進化に伴う構造的失業に対しては､上記の再分配を旨としつつ､リ･スキリングと失業給付を組み合わせた手厚い支援を行う」
+修正後の記述: 「技術進化に伴う構造的失業に対しては､上記の再分配を旨としつつ､リスキリングと失業給付を組み合わせた手厚い支援を行う」
+
+2. 修正の理由と背景
+- マニフェスト中で「リ・スキリング」と「リスキリング」の2種類が使われている
+- 英語においてはreskillingが一般的
+- 日本語においてはリスキリングが一般的
+
+3. 今回の表記修正は小さな変更ですが、地道な改善が文書全体信頼性向上に繋がります。この度の修正は、気合いらいふさんのご指摘と熱意の賜物です。改めて感謝申し上げます。 （気合いらいふ🐿️）
+
+#### 変更ファイル
+
+- 36_ステップ３経済財政.md
+
+---
+
+### #2298: 経済財政政策の具体化：税負担の公平化と資産形成支援の強化（にのさん提案）
+
+#### 説明
+
+この改善提案は、にのさんとの建設的な議論を経てまとめられたものであり、チームみらいの経済財政政策をより具体的かつ実効性の高いものへと進化させることを目的としています。
+
+主な変更点は以下の通りです。
+
+1.  **税制の簡素化と公平性の向上について**
+    私たちは、複雑で理解しにくい現在の税制が、納税者の信頼を損ね、制度維持のコストを増大させていると考えています。この問題意識に基づき、以下の具体的な提案を行います。
+
+    *   **ガソリン税の暫定税率の見直し:** 長年にわたり「暫定」の名目で維持されてきたガソリン税の暫定税率は、その意義や目的が形骸化している典型例です。国民への説明責任を果たすため、速やかに廃止すべきと考えます。やむを得ず存続させる場合でも、「暫定」という実態にそぐわない名称は改め、恒久的な措置として国民に分かりやすく説明責任を果たせる制度とすべきです。（変更箇所：1. 将来世代のために､複雑化した税･社会保障制度をシンプルでなめらかにします - 方向性 (2)）
+    *   **NISA制度の合理化と公平性の確保:** 個人の資産形成を支援するNISA制度ですが、投資対象の選定基準について一部で合理性に欠ける点が見られます。特に、個別株式は認められる一方で、債券を含むバランスファンド等の投資信託が対象外となるケースは、投資家の選択肢を不当に狭めている可能性があります。そこで、過去の運用実績（例：シャープレシオ）やリスク水準といった客観的で透明性の高い指標に基づき、より多くの投資商品が公平に評価され、NISAの対象となるような基準の導入を検討します。これにより、多様なリスク許容度を持つ個人が、より適切な資産形成を行えるよう支援します。（変更箇所：1. 将来世代のために､複雑化した税･社会保障制度をシンプルでなめらかにします - 方向性 (6)新設）
+    *   **暗号資産（仮想通貨）に関する税制の見直し:** 新しい資産クラスである暗号資産に関する税制は、現状では雑所得として扱われ、他の金融商品（株式やFXなど）と比べて不利な点が多く指摘されています（例：損益通算の不可、高い税率）。これはイノベーションを阻害し、国際的な競争力を損なう可能性があります。そこで、他の金融商品との公平性や国際的な動向を考慮し、申告分離課税への移行など、雑所得以外の取り扱いを含めた税制の見直しを検討します。これにより、投資家が安心して暗号資産取引を行える環境を整備し、健全な市場育成を促します。（変更箇所：1. 将来世代のために､複雑化した税･社会保障制度をシンプルでなめらかにします - 方向性 (7)新設）
+
+2.  **現役世代の負担軽減と税体系の再構築について**
+    現役世代の社会保険料負担の増大は、将来への不安を高め、経済の活力を削ぐ大きな要因です。私たちは、現役世代の負担を軽減し、持続可能な社会保障制度を構築するために、税体系の抜本的な見直しが必要だと考えます。
+
+    *   **消費税率の段階的引き下げと複数税率の解消:** 国民生活に大きな影響を与える消費税については、まず税率を5%程度に引き下げることを検討します。また、軽減税率などの複雑な複数税率は、事業者の事務負担を増大させ、消費者の混乱を招くだけでなく、税収の捕捉を難しくする要因ともなっています。そのため、複数税率を解消し、シンプルな税体系を目指します。（変更箇所：2. 現役世代の社会保険料負担を軽減し､フェアな税･社会保障制度を目指します - 方向性 (2)）
+    *   **代替財源の検討:** 消費税減収分を補う代替財源として、特定の品目やサービスに対する課税強化を検討します。具体的には、酒税・たばこ税のさらなる強化、そして高額な飲食に対する新たな税（例えば、かつての特別地方消費税のような、一定金額以上の飲食に対する課税）の導入などを検討します。これにより、国民全体の負担感を抑制しつつ、必要な財源を確保することを目指します。（変更箇所：2. 現役世代の社会保険料負担を軽減し､フェアな税･社会保障制度を目指します - 方向性 (2)）
+
+3.  **表記の正確性向上による可読性の改善**
+    政策文書は、誰にとっても分かりやすく、正確であることが求められます。今回、本文中に一部ハングル表記の誤りが見つかったため、これを日本語の正しい表記に修正しました。これにより、文書の可読性と信頼性を高めます。（変更箇所：3. 成長に向けて大胆な投資を行います｡投資に対する信認を得るために､財政に対する透明性･効果検証を徹底します - 現状認識）
+
+これらの改善提案は、現行マニフェストの掲げる「シンプルでフェアな税・財政システムの構築」「現役世代に対する過度な負担の軽減」「将来世代に対する責任」というビジョンの実現に不可欠なものです。にのさんからの貴重なご意見・ご提案に基づき、より多くの国民の共感を得られる政策へと進化させることを目指しています。この提案が、建設的な議論を喚起し、より良い政策形成に繋がることを期待しています。
+
+#### 変更ファイル
+
+- 36_ステップ３経済財政.md
+
+---
+
+### #2342: Fix GitHub Actions markdown link validation errors
+
+#### 説明
+
+# Fix GitHub Actions markdown link validation errors
+
+This PR fixes the GitHub Actions error that was causing the markdown link checker to fail on PR #740.
+
+## Changes Made
+
+1. **Fixed malformed GitHub URLs in `25_ステップ２_デジタル民主主義.md`**
+   - Corrected the closing parentheses placement in GitHub repository links on line 26
+   - The URLs were malformed with parentheses inside the link text causing validation failures
+
+2. **Created missing `23_ステップ２経済財政.md` file**
+   - This file was referenced in `02_政策インデックス.md` and expected by CODEOWNERS but didn't exist
+   - Added the file with proper structure following the pattern of other Step 2 policy documents
+   - Included the two policy items that were already referenced in the policy index:
+     - 経済財政運営におけるシナリオプランニングを強化し､非連続的な変化に備えます
+     - 予測困難な危機に対応できる給付システム･税制を構築します
+
+## Testing
+
+The changes fix the specific link validation errors identified in the GitHub Actions workflow. The markdown link checker should now pass successfully.
+
+## Link to Devin run
+https://app.devin.ai/sessions/5897d3cde4ed40f090af67b05341a3d3
+
+Requested by: tokshibata@gmail.com
+
+
+#### 変更ファイル
+
+- 02_政策インデックス.md
+- 23_ステップ２経済財政.md
+- 25_ステップ２_デジタル民主主義.md
+
+---
+
+### #2344: Fix GitHub Actions markdown link checking failures
+
+#### 説明
+
+# Fix GitHub Actions markdown link checking failures
+
+This PR addresses the broken markdown links that were causing Linkspector failures in GitHub Actions for PR #954.
+
+## Changes Made
+
+### 1. Created missing `23_ステップ２経済財政.md` file
+- This file was referenced in `02_政策インデックス.md` but didn't exist
+- Expected by `.github/CODEOWNERS` and `.meta/target_file_rule.txt`
+- Added two main sections as referenced in the policy index:
+  - "経済財政運営におけるシナリオプランニングを強化し､非連続的な変化に備えます"
+  - "予測困難な危機に対応できる給付システム･税制を構築します"
+- Content adapted from `36_ステップ３経済財政.md` with Step 2 focus on adaptability and change response
+
+### 2. Fixed malformed GitHub URLs in `25_ステップ２_デジタル民主主義.md`
+- Line 26: Fixed GitHub URLs formatting (no changes needed - URLs were already correct)
+- Line 63: Added missing closing parenthesis for "民族間対立におけるAI介入）"
+
+## Testing
+- Verified that all referenced anchor links in the policy index now point to valid headers
+- Confirmed file structure matches expectations from CODEOWNERS and target_file_rule.txt
+
+## Link to Devin run
+https://app.devin.ai/sessions/da2f4c96dbfa4651a7949c6911ead964
+
+## Requested by
+tokshibata@gmail.com
+
+
+#### 変更ファイル
+
+- 23_ステップ２経済財政.md
+- 25_ステップ２_デジタル民主主義.md
 
 ---
 
