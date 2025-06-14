@@ -4,7 +4,7 @@
 |--------|------|
 | [README](label_README.md) | 438 |
 | [その他政策](label_その他政策.md) | 336 |
-| [教育](label_教育.md) | 286 |
+| [教育](label_教育.md) | 287 |
 | [ラベルなし](label_ラベルなし.md) | 228 |
 | [経済財政](label_経済財政.md) | 208 |
 | [行政改革](label_行政改革.md) | 201 |
@@ -12,9 +12,9 @@
 | [ビジョン](label_ビジョン.md) | 120 |
 | [医療](label_医療.md) | 110 |
 | [デジタル民主主義](label_デジタル民主主義.md) | 101 |
-| [産業政策](label_産業政策.md) | 97 |
+| [産業政策](label_産業政策.md) | 98 |
 | [科学技術](label_科学技術.md) | 78 |
 | [エネルギー](label_エネルギー.md) | 71 |
-| [thankyou](label_thankyou.md) | 33 |
+| [thankyou](label_thankyou.md) | 35 |
+| [福祉](label_福祉.md) | 5 |
 | [[システム]](label_[システム].md) | 4 |
-| [福祉](label_福祉.md) | 2 |

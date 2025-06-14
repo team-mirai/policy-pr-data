@@ -16,7 +16,7 @@
 | #48 | [【田中さん提案】税制改革による「貯蓄から投資へ」の抜本的推進（配当金非課税化を含む）](https://github.com/team-mirai/policy/pull/48) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #51 | [「年金ジョイン」構想の追加（菅原さんご提案）](https://github.com/team-mirai/policy/pull/51) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #54 | [再分配に関する記述の調整と成長戦略の強調](https://github.com/team-mirai/policy/pull/54) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
-| #60 | [README.md: チームみらいの主要課題への明確な方針を追加 by もぐもぐちゃん](https://github.com/team-mirai/policy/pull/60) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
+| #60 | [README.md: チームみらいの主要課題への明確な方針を追加 by もぐもぐちゃん](https://github.com/team-mirai/policy/pull/60) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-14 |
 | #61 | [政策概要に社会保険料軽減に関する記述を追加（さとう提案）](https://github.com/team-mirai/policy/pull/61) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #69 | [マイナンバーカードを活用した迅速な給付システムの構築について](https://github.com/team-mirai/policy/pull/69) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #70 | [経済財政政策：独立財政機関、日銀独立性、学術知見活用の明記（にわとり様ご提案）](https://github.com/team-mirai/policy/pull/70) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |

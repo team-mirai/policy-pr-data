@@ -13,13 +13,13 @@
 | #31 | [README.mdへの子どもの権利に関する記述追加、及び「児童人権保護法（仮称）」草案に関する議論のお願い by FLOW](https://github.com/team-mirai/policy/pull/31) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #35 | [フリーランスへの育児支援拡充と所得保障の提案](https://github.com/team-mirai/policy/pull/35) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #53 | [マニフェストへの新たな視点：少子化問題に対する根源的な問いかけの追加](https://github.com/team-mirai/policy/pull/53) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
-| #60 | [README.md: チームみらいの主要課題への明確な方針を追加 by もぐもぐちゃん](https://github.com/team-mirai/policy/pull/60) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
+| #60 | [README.md: チームみらいの主要課題への明確な方針を追加 by もぐもぐちゃん](https://github.com/team-mirai/policy/pull/60) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-14 |
 | #62 | [年少扶養控除の検討を目次に追加（じんはるさん提案）](https://github.com/team-mirai/policy/pull/62) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #77 | [表現の微修正](https://github.com/team-mirai/policy/pull/77) | waksyu | closed | 2025-05-16 | 2025-06-01 |
 | #92 | [RTIアプローチとデジタルアセスメント基盤の改善提案（榎本大貴さんより）](https://github.com/team-mirai/policy/pull/92) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #101 | [提案：出産時に一律1000万円を支給する政策をマニフェストの最重要項目として明記](https://github.com/team-mirai/policy/pull/101) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #113 | [まーさんのご提案に基づく児童虐待対応プロセスの見直しとAI活用に関する改善](https://github.com/team-mirai/policy/pull/113) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
-| #129 | [発達特性を持つ子どもの支援](https://github.com/team-mirai/policy/pull/129) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
+| #129 | [発達特性を持つ子どもの支援](https://github.com/team-mirai/policy/pull/129) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-14 |
 | #130 | [README.mdの目次変更：子育て分野に不妊治療・不育症支援の記載を追加](https://github.com/team-mirai/policy/pull/130) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #132 | [障がいのある方の成人期以降の支援と情報格差解消の具体策を追加](https://github.com/team-mirai/policy/pull/132) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #137 | [子育て支援：FLOW氏提案の「三交代寄り合い方式」実証実験とテクノロジー活用支援](https://github.com/team-mirai/policy/pull/137) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
@@ -44,7 +44,7 @@
 | #276 | [【Okumura Miki】子育て支援策の改善提案（保育無償化、質向上、利用対象拡大など）](https://github.com/team-mirai/policy/pull/276) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #307 | [匿名ユーザー提案：AI活用型赤ちゃんポスト設置によるセーフティネット強化](https://github.com/team-mirai/policy/pull/307) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #318 | [匿名ユーザー提案: 引きこもり・無就労者支援によるセーフティネット強化策の追加](https://github.com/team-mirai/policy/pull/318) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
-| #320 | [ルイさん提案：いじめ防止と子どもの心のケアに関する項目追加](https://github.com/team-mirai/policy/pull/320) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
+| #320 | [ルイさん提案：いじめ防止と子どもの心のケアに関する項目追加](https://github.com/team-mirai/policy/pull/320) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-14 |
 | #335 | [【にーふり提案】結婚・子育てに関する現状認識をEBPMに基づき大幅に強化し、現代社会の構造的問題を提起](https://github.com/team-mirai/policy/pull/335) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #338 | [デジタル母子パスポートへの成長記録機能追加（匿名ユーザーさん提案）](https://github.com/team-mirai/policy/pull/338) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #341 | [【匿名ユーザー提案】0-2歳保育料無償化にベビーシッター補助追加](https://github.com/team-mirai/policy/pull/341) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
@@ -55,7 +55,7 @@
 | #367 | [【のんさん提案】会社役員への育児支援追加：産後から保育園入園までの経済的支援](https://github.com/team-mirai/policy/pull/367) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #379 | [匿名ユーザー提案：代理出産に関する倫理的課題への対応方針を明記](https://github.com/team-mirai/policy/pull/379) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #398 | [髙木博史様による総合的な政策改善提案（子育て・科学技術・経済財政）](https://github.com/team-mirai/policy/pull/398) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-06-11 |
-| #400 | [ステイフーリッシュさん提案：MANGAナショナルセンター設立、子供・大人の孤立対策に関する目次項目追加](https://github.com/team-mirai/policy/pull/400) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #400 | [ステイフーリッシュさん提案：MANGAナショナルセンター設立、子供・大人の孤立対策に関する目次項目追加](https://github.com/team-mirai/policy/pull/400) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-14 |
 | #404 | [子育て支援策の拡充：デジタル母子手帳の柔軟化と産後ケア予約の利便性向上](https://github.com/team-mirai/policy/pull/404) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #409 | [れいさん提案：母子手帳の電子化推進と名称変更による子育て支援の拡充](https://github.com/team-mirai/policy/pull/409) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #412 | [産院検索機能を強化し、リアルタイム空き状況確認を可能に (あきにゃ様ご提案)](https://github.com/team-mirai/policy/pull/412) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
@@ -91,7 +91,7 @@
 | #725 | [選択的夫婦別姓制度導入に関する記述を具体化](https://github.com/team-mirai/policy/pull/725) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-19 |
 | #726 | [子育て政策のビジョン更新と保育プラットフォームへの帰省時利用追加（小津優子さん提案）](https://github.com/team-mirai/policy/pull/726) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #740 | [育児相談ポータルにおける専門家の柔軟な働き方に関する提案](https://github.com/team-mirai/policy/pull/740) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
-| #786 | [Mさん提案：産前休業の柔軟化に関する意見をREADMEの具体例として追記](https://github.com/team-mirai/policy/pull/786) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
+| #786 | [Mさん提案：産前休業の柔軟化に関する意見をREADMEの具体例として追記](https://github.com/team-mirai/policy/pull/786) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-14 |
 | #791 | [Mさんの提案：年少扶養控除廃止の影響を明記し、復活検討の記述を強化](https://github.com/team-mirai/policy/pull/791) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-18 |
 | #804 | [デジタル母子パスポートに関する改善提案（しおこんぶさんより）](https://github.com/team-mirai/policy/pull/804) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #829 | [jwさんの貢献：保育園での写真・動画共有の改善提案](https://github.com/team-mirai/policy/pull/829) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
