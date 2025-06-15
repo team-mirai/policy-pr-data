@@ -202,7 +202,7 @@
 | #2309 | [satoさん提案：フリーランス・自営業の親への保育継続支援策を追加](https://github.com/team-mirai/policy/pull/2309) | idobata-policy-app[bot] | open | 2025-06-14 | 2025-06-14 |
 | #2343 | [Tomさん提案：AI育児相談ポータルの強化及び現状認識の明確化について](https://github.com/team-mirai/policy/pull/2343) | idobata-policy-app[bot] | open | 2025-06-14 | 2025-06-14 |
 | #2348 | [保育マッチングプラットフォームの安全性と選択肢のバランスに関するsatoshi様からの改善提案](https://github.com/team-mirai/policy/pull/2348) | idobata-policy-app[bot] | open | 2025-06-14 | 2025-06-14 |
-| #2353 | [31_ステップ３子育て_「子育て減税」の導入.md](https://github.com/team-mirai/policy/pull/2353) | tokshibata | open | 2025-06-14 | 2025-06-14 |
+| #2353 | [31_ステップ３子育て_「子育て減税」の導入.md](https://github.com/team-mirai/policy/pull/2353) | tokshibata | closed | 2025-06-14 | 2025-06-15 |
 
 ## PR詳細
 
