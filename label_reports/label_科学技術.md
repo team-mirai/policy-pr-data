@@ -1,6 +1,6 @@
 # ラベル「科学技術」のPull Request一覧
 
-合計: 82件のPR
+合計: 83件のPR
 
 ## PR一覧
 
@@ -85,6 +85,7 @@
 | #2266 | [日本の科学技術の課題（論文数などの国際比較）](https://github.com/team-mirai/policy/pull/2266) | yasuakikamoeka | closed | 2025-06-13 | 2025-06-13 |
 | #2287 | [科学技術政策：国際的な研究協力の推進とグローバルサウスとの連携強化（提案者：はた たかひろ）](https://github.com/team-mirai/policy/pull/2287) | idobata-policy-app[bot] | open | 2025-06-13 | 2025-06-13 |
 | #2325 | [戦略的な科学技術投資に関する新たな提案](https://github.com/team-mirai/policy/pull/2325) | idobata-policy-app[bot] | open | 2025-06-14 | 2025-06-14 |
+| #2366 | [運営費交付金のアップデートを通じた基盤的な研究・研究者の雇用の安定](https://github.com/team-mirai/policy/pull/2366) | KazeKaoru2025 | open | 2025-06-14 | 2025-06-15 |
 | #2402 | [研究予算の拡充と配分見直しによる科学技術力強化（NT提案）](https://github.com/team-mirai/policy/pull/2402) | idobata-policy-app[bot] | open | 2025-06-15 | 2025-06-15 |
 | #2404 | [大学における研究環境の改善：若手研究者の独立支援に向けて](https://github.com/team-mirai/policy/pull/2404) | idobata-policy-app[bot] | open | 2025-06-15 | 2025-06-15 |
 | #2406 | [【NT提案】科学技術政策における自動運転技術実用化の推進](https://github.com/team-mirai/policy/pull/2406) | idobata-policy-app[bot] | open | 2025-06-15 | 2025-06-15 |
@@ -2831,6 +2832,18 @@ makino sachiko氏は、この提案が日本の科学技術の未来をより明
 #### 変更ファイル
 
 - 15_ステップ１科学技術.md
+
+---
+
+### #2366: 運営費交付金のアップデートを通じた基盤的な研究・研究者の雇用の安定
+
+#### 説明
+
+運営費交付金の大胆なアップデートを通して、基盤的研究を支えるとともに、研究者の雇用を安定させる仕組みをつくることを目指します。
+
+#### 変更ファイル
+
+- 33_ステップ３科学技術.md
 
 ---
 
