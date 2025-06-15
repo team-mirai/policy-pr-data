@@ -101,7 +101,7 @@
 | #937 | [kenjiさんによる改善提案：デジタル母子パスポートの課題明確化](https://github.com/team-mirai/policy/pull/937) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #945 | [【やまあやさん提案】子どもの貧困対策における教育機会均等化策の具体化](https://github.com/team-mirai/policy/pull/945) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #951 | [【ゆとりんさん提案】AI育児相談ポータルの対象年齢とAIの役割を明確化](https://github.com/team-mirai/policy/pull/951) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #954 | [デジタル母子パスポートにおける子どもの情報アクセス権に関する検討を追加](https://github.com/team-mirai/policy/pull/954) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-06-14 |
+| #954 | [デジタル母子パスポートにおける子どもの情報アクセス権に関する検討を追加](https://github.com/team-mirai/policy/pull/954) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-06-15 |
 | #961 | [【あゆみさん提案】0-2歳児保育料支援のあり方見直し及び公教育への財源充当検討](https://github.com/team-mirai/policy/pull/961) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #970 | [あゆみさんの提案：ビジョン冒頭の表現を個人の尊厳と多様な生き方の尊重を重視する文言に修正](https://github.com/team-mirai/policy/pull/970) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #988 | [産後ケアに関する政策の追加提案 by suiki](https://github.com/team-mirai/policy/pull/988) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
