@@ -3,11 +3,11 @@
 | ラベル | PR数 |
 |--------|------|
 | [README](label_README.md) | 399 |
-| [その他政策](label_その他政策.md) | 353 |
+| [その他政策](label_その他政策.md) | 354 |
 | [教育](label_教育.md) | 308 |
 | [経済財政](label_経済財政.md) | 217 |
+| [ラベルなし](label_ラベルなし.md) | 214 |
 | [行政改革](label_行政改革.md) | 208 |
-| [ラベルなし](label_ラベルなし.md) | 199 |
 | [子育て](label_子育て.md) | 197 |
 | [ビジョン](label_ビジョン.md) | 127 |
 | [デジタル民主主義](label_デジタル民主主義.md) | 116 |
@@ -15,6 +15,6 @@
 | [産業政策](label_産業政策.md) | 110 |
 | [科学技術](label_科学技術.md) | 79 |
 | [エネルギー](label_エネルギー.md) | 73 |
-| [thankyou](label_thankyou.md) | 36 |
+| [thankyou](label_thankyou.md) | 39 |
 | [福祉](label_福祉.md) | 13 |
 | [[システム]](label_[システム].md) | 7 |

@@ -14,7 +14,7 @@
 | #71 | [Soh.KKさんによる科学技術政策への追加提案（宇宙開発、量子技術、人材育成）](https://github.com/team-mirai/policy/pull/71) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #85 | [実験都市構想の追加提案（混老頭さんより）](https://github.com/team-mirai/policy/pull/85) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #88 | [地方交通における自動運転技術活用のためのマニフェスト項目新設](https://github.com/team-mirai/policy/pull/88) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
-| #117 | [タカコウさんによる科学技術政策の改善提案](https://github.com/team-mirai/policy/pull/117) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
+| #117 | [タカコウさんによる科学技術政策の改善提案](https://github.com/team-mirai/policy/pull/117) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-06-14 |
 | #126 | [科学技術政策の強化：日本の現場力を活かした夢の実現とビジョンの明確化](https://github.com/team-mirai/policy/pull/126) | akis0 | open | 2025-05-16 | 2025-05-18 |
 | #159 | [塚本豊氏提案：人間社会シミュレータ導入とAIの法的地位検討の追加](https://github.com/team-mirai/policy/pull/159) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #166 | [科学技術政策：RMSの機能拡張と誤字修正](https://github.com/team-mirai/policy/pull/166) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
@@ -37,7 +37,7 @@
 | #529 | [なかむらさんによる政策案改善提案：現状認識の明確化](https://github.com/team-mirai/policy/pull/529) | idobata-policy-app[bot] | closed | 2025-05-17 | 2025-05-31 |
 | #554 | [まいさんによるAI導入方針の明確化提案](https://github.com/team-mirai/policy/pull/554) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #566 | [研究費配分における評価の客観性・透明性向上](https://github.com/team-mirai/policy/pull/566) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
-| #575 | [研究資金制度の拡充案の修正 by 匿名ユーザー](https://github.com/team-mirai/policy/pull/575) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
+| #575 | [研究資金制度の拡充案の修正 by 匿名ユーザー](https://github.com/team-mirai/policy/pull/575) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-06-14 |
 | #608 | [AI人材育成強化のため、国立大学におけるAI活用学科設置の推奨を追記](https://github.com/team-mirai/policy/pull/608) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #611 | [行政システムの開発プロセス透明化と品質向上策の提案](https://github.com/team-mirai/policy/pull/611) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
 | #678 | [Noguchiさんによる科学技術政策マニフェスト改善提案](https://github.com/team-mirai/policy/pull/678) | idobata-policy-app[bot] | open | 2025-05-17 | 2025-05-18 |
@@ -51,8 +51,8 @@
 | #850 | [研究資金調達の多様化と民間からの寄付促進による研究環境改善](https://github.com/team-mirai/policy/pull/850) | idobata-policy-app[bot] | closed | 2025-05-18 | 2025-06-09 |
 | #982 | [研究室運営の可視化に関する記述の明確化（紫杏さんの提案）](https://github.com/team-mirai/policy/pull/982) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
 | #1021 | [基礎研究支援の強化および重点分野の明確化（undefinedさん提案）](https://github.com/team-mirai/policy/pull/1021) | idobata-policy-app[bot] | open | 2025-05-18 | 2025-05-19 |
-| #1071 | [運営費交付金の拡充による研究環境改善案（かーな提案）](https://github.com/team-mirai/policy/pull/1071) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
-| #1146 | [運営費交付金削減による研究環境悪化の課題を追記](https://github.com/team-mirai/policy/pull/1146) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-06-09 |
+| #1071 | [運営費交付金の拡充による研究環境改善案（かーな提案）](https://github.com/team-mirai/policy/pull/1071) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-06-14 |
+| #1146 | [運営費交付金削減による研究環境悪化の課題を追記](https://github.com/team-mirai/policy/pull/1146) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-06-14 |
 | #1172 | [研究環境改善のため、予算制度の課題明確化とハラスメント対策を具体化（ゆとりん提案）](https://github.com/team-mirai/policy/pull/1172) | idobata-policy-app[bot] | closed | 2025-05-19 | 2025-06-01 |
 | #1223 | [サイバーセキュリティに関する記述の更新（ti）](https://github.com/team-mirai/policy/pull/1223) | idobata-policy-app[bot] | open | 2025-05-19 | 2025-05-19 |
 | #1337 | [研究環境改善と研究費執行効率化のための政策修正提案（Junさんより）](https://github.com/team-mirai/policy/pull/1337) | idobata-policy-app[bot] | closed | 2025-05-20 | 2025-06-01 |
@@ -71,14 +71,14 @@
 | #1873 | [Update 33_ステップ３科学技術.md](https://github.com/team-mirai/policy/pull/1873) | yasuakikamoeka | closed | 2025-06-01 | 2025-06-09 |
 | #1875 | [Update 33_ステップ３科学技術.md](https://github.com/team-mirai/policy/pull/1875) | yasuakikamoeka | closed | 2025-06-01 | 2025-06-05 |
 | #1931 | [AIの社会的影響に関する考察を追記](https://github.com/team-mirai/policy/pull/1931) | idobata-policy-app[bot] | open | 2025-06-04 | 2025-06-04 |
-| #1940 | [科学技術政策の抜本的見直し：「選択と集中」政策の課題分析と研究多様性重視への転換、EBPM徹底とガバナンス体制強化を含む包括的改訂](https://github.com/team-mirai/policy/pull/1940) | itoma-aikon | open | 2025-06-04 | 2025-06-06 |
+| #1940 | [科学技術政策の抜本的見直し：「選択と集中」政策の課題分析と研究多様性重視への転換、EBPM徹底とガバナンス体制強化を含む包括的改訂](https://github.com/team-mirai/policy/pull/1940) | itoma-aikon | open | 2025-06-04 | 2025-06-14 |
 | #1964 | [Add files via upload　ステップ２デジタル民主主義を追加](https://github.com/team-mirai/policy/pull/1964) | tokshibata | closed | 2025-06-05 | 2025-06-11 |
 | #1991 | [研究者の待遇改善：給与水準の向上に関する提案](https://github.com/team-mirai/policy/pull/1991) | idobata-policy-app[bot] | open | 2025-06-06 | 2025-06-06 |
 | #2023 | [研究環境改善：大学院生の健康診断に関する課題を追加](https://github.com/team-mirai/policy/pull/2023) | idobata-policy-app[bot] | open | 2025-06-07 | 2025-06-07 |
 | #2052 | [【匿名ユーザー提案】JSPS HPリンクの修正による情報アクセス性の改善](https://github.com/team-mirai/policy/pull/2052) | idobata-policy-app[bot] | closed | 2025-06-08 | 2025-06-09 |
 | #2068 | [研究評価への国益貢献度（地政学・安全保障影響を含む）の可視化機能追加](https://github.com/team-mirai/policy/pull/2068) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-08 |
 | #2119 | [将来技術のリスクを考慮し、物理媒体も含む多層的データ保護戦略を情報セキュリティ基盤強化策に追加](https://github.com/team-mirai/policy/pull/2119) | idobata-policy-app[bot] | open | 2025-06-10 | 2025-06-10 |
-| #2138 | [節水型乾田直播栽培の研究](https://github.com/team-mirai/policy/pull/2138) | idobata-policy-app[bot] | open | 2025-06-10 | 2025-06-11 |
+| #2138 | [節水型乾田直播栽培の研究](https://github.com/team-mirai/policy/pull/2138) | idobata-policy-app[bot] | open | 2025-06-10 | 2025-06-14 |
 | #2173 | [AI技術の文化・教育分野への活用推進（はた　たかひろ提案）](https://github.com/team-mirai/policy/pull/2173) | idobata-policy-app[bot] | open | 2025-06-11 | 2025-06-11 |
 | #2217 | [【のりぃさん提案】科学技術政策：海外高度人材活用とディープテック投資促進策の強化](https://github.com/team-mirai/policy/pull/2217) | idobata-policy-app[bot] | open | 2025-06-12 | 2025-06-13 |
 | #2253 | [ নীতি প্রস্তাবনা "দফা ৫: বিজ্ঞান ও প্রযুক্তি"-তে এআই ও আইটি ব্যবহারের সুনির্দিষ্ট উদাহরণ যোগ করা (শক্তি নীতি সম্পর্কিত)](https://github.com/team-mirai/policy/pull/2253) | idobata-policy-app[bot] | open | 2025-06-12 | 2025-06-12 |
