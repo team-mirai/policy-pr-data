@@ -29,7 +29,7 @@
 | #161 | [行政サービスの改善：住民間の紛争調停システムの導入](https://github.com/team-mirai/policy/pull/161) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #164 | [電子投票推進：公正性とプライバシー保護の強化に関する提案（匿名ユーザー）](https://github.com/team-mirai/policy/pull/164) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
 | #202 | [提案：LLM活用型AIヘルプチャットの導入による行政サービス向上](https://github.com/team-mirai/policy/pull/202) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
-| #205 | [松丸さんの提案：ステップ1に「国会改革」を追加し、委員会審議の活性化策を提言](https://github.com/team-mirai/policy/pull/205) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-18 |
+| #205 | [松丸さんの提案：ステップ1に「国会改革」を追加し、委員会審議の活性化策を提言](https://github.com/team-mirai/policy/pull/205) | idobata-policy-app[bot] | closed | 2025-05-16 | 2025-06-15 |
 | #227 | [生活保護業務効率化のためのマイナンバー活用提案（えみさん）](https://github.com/team-mirai/policy/pull/227) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #228 | [マイナンバーを活用した税・社会保障の改革案 by sho](https://github.com/team-mirai/policy/pull/228) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
 | #245 | [行政改革：AIによる公務員業務の抜本的代替と人件費削減の徹底](https://github.com/team-mirai/policy/pull/245) | idobata-policy-app[bot] | open | 2025-05-16 | 2025-05-19 |
