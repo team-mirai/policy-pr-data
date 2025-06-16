@@ -226,7 +226,7 @@
 | #2314 | [国会運営のDX推進：AI議事録とICT活用による効率化](https://github.com/team-mirai/policy/pull/2314) | idobata-policy-app[bot] | open | 2025-06-14 | 2025-06-14 |
 | #2320 | [選挙ポスター制度の改革による公平な選挙実現への提案（ボレロさんより）](https://github.com/team-mirai/policy/pull/2320) | idobata-policy-app[bot] | open | 2025-06-14 | 2025-06-14 |
 | #2397 | [公務員をカスハラから守るため音声AI窓口に具体的対策を追記](https://github.com/team-mirai/policy/pull/2397) | idobata-policy-app[bot] | open | 2025-06-15 | 2025-06-15 |
-| #2405 | [政治資金の透明性向上に関する記述の強化](https://github.com/team-mirai/policy/pull/2405) | idobata-policy-app[bot] | open | 2025-06-15 | 2025-06-15 |
+| #2405 | [政治資金の透明性向上に関する記述の強化](https://github.com/team-mirai/policy/pull/2405) | idobata-policy-app[bot] | closed | 2025-06-15 | 2025-06-16 |
 | #2408 | [行政改革案改善：用語集リンクの整備と将来的な用語集別ファイル化の提案（葦生さん）](https://github.com/team-mirai/policy/pull/2408) | idobata-policy-app[bot] | open | 2025-06-15 | 2025-06-15 |
 | #2411 | [公務員の働き方改革推進：カスハラ対策、勤務状況可視化、公正な人事評価制度の導入](https://github.com/team-mirai/policy/pull/2411) | idobata-policy-app[bot] | open | 2025-06-15 | 2025-06-15 |
 | #2416 | [行政手続きの自動化とスマートコントラクト導入による効率化（宮嶋龍太郎さん提案）](https://github.com/team-mirai/policy/pull/2416) | idobata-policy-app[bot] | open | 2025-06-15 | 2025-06-15 |
