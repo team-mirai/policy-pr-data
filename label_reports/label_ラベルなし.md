@@ -7298,6 +7298,10 @@ KT様は、現在の日本が直面している喫緊の課題として「移民
 - .pr_analysis/final_21_analysis.md
 - .pr_analysis/final_batch_1_analysis.md
 - .pr_analysis/log.md
+- .pr_analysis/next_100_batch1_analysis.md
+- .pr_analysis/next_100_batch1_info.yaml
+- .pr_analysis/next_100_batch2_info.yaml
+- .pr_analysis/next_100_batch3_info.yaml
 - .pr_analysis/readme-pr.yaml
 - get_next_batch.py
 
