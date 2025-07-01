@@ -19,7 +19,7 @@
 | #2065 | [「変更提案について」セクションに提案の検討フローを明記](https://github.com/team-mirai/policy/pull/2065) | idobata-policy-app[bot] | open | 2025-06-08 | 2025-06-15 |
 | #2104 | [README: 構文形式「理念動因構造©」導入による政策記述方式の明確化提案](https://github.com/team-mirai/policy/pull/2104) | idobata-policy-app[bot] | open | 2025-06-10 | 2025-06-15 |
 | #2180 | [AI活用によるマニフェストの文章校正提案（匿名ユーザー）](https://github.com/team-mirai/policy/pull/2180) | idobata-policy-app[bot] | open | 2025-06-11 | 2025-06-15 |
-| #2241 | [README.mdの注意事項にAI倫理に関する記述を追記 (t.aによる提案)](https://github.com/team-mirai/policy/pull/2241) | idobata-policy-app[bot] | open | 2025-06-12 | 2025-06-14 |
+| #2241 | [README.mdの注意事項にAI倫理に関する記述を追記 (t.aによる提案)](https://github.com/team-mirai/policy/pull/2241) | idobata-policy-app[bot] | closed | 2025-06-12 | 2025-06-30 |
 | #2247 | [GitHubで行われているマニフェストのアップデートを、X(旧Twitter)でお知らせする機能の実装](https://github.com/team-mirai/policy/pull/2247) | yuki-snow1823 | closed | 2025-06-12 | 2025-06-14 |
 | #2288 | [改訂履歴セクションの追加](https://github.com/team-mirai/policy/pull/2288) | idobata-policy-app[bot] | open | 2025-06-13 | 2025-06-14 |
 | #2326 | [README.mdの案内文言の改善とバージョン表記の修正](https://github.com/team-mirai/policy/pull/2326) | idobata-policy-app[bot] | open | 2025-06-14 | 2025-06-14 |
